@@ -48,13 +48,8 @@ columns:
           # Fields types can be added using the shortcut `fieldname: true`
           # (however, you can only use a fieldname once per page and this only makes sense for simple fields without configuration)
           tags: true
-          gallery:
-            type: pages
-            query: kirby.page("photography").children
+          coverimage:
+            label: Head image
+            type: files
             multiple: false
-            info: "{{ page.images.count }} image(s)"
-            empty: "No gallery selected"
-            image:
-              cover: true
-            # Use the `help` property of fields and section to provide editors with helpful information
-            help: Place the {{ gallery }} tag anywhere in your text to add the selected gallery
+            query: page.images

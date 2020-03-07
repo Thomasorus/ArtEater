@@ -20,23 +20,29 @@
   <!-- Stylesheets can be included using the `css()` helper. Kirby also provides the `js()` helper to include script file. 
         More Kirby helpers: https://getkirby.com/docs/reference/templates/helpers -->
   <?= css(['assets/css/index.css', '@auto']) ?>
+  <!-- <link rel="stylesheet" href="assets/css/index.cssS"> -->
 
 </head>
-<body>
+<body data-theme="dark">
 
-  <div class="page">
     <header class="header">
       <!-- In this link we call `$site->url()` to create a link back to the homepage -->
-      <a class="logo" href="<?= $site->url() ?>"><?= $site->title() ?></a>
 
-      <nav id="menu" class="menu">
-        <?php 
-        // In the menu, we only fetch listed pages, i.e. the pages that have a prepended number in their foldername
-        // We do not want to display links to unlisted `error`, `home`, or `sandbox` pages
-        // More about page status: https://getkirby.com/docs/reference/panel/blueprints/page#statuses
-        foreach ($site->children()->listed() as $item): ?>
-        <?= $item->title()->link() ?>
-        <?php endforeach ?>
+    <nav class="navbar is-transparent"  role="navigation" aria-label="main-navigation">
+        <div class="container">
+          <div class="navbar-brand">
+            <a class="navbar-item" href="<?= $site->url() ?>">
+              <img src=# alt="Art Eater" style="width:88px" />
+            </a>
+          </div>
+        </div>
+        <div id="navMenu" class="navbar-menu">
+            <div class="navbar-start has-text-centered">
+              <?php 
+                foreach ($site->children()->listed() as $item): ?>
+                  <?= $item->title()->link(); ?>
+                <?php endforeach ?>
+          </div>
+        </div>
       </nav>
-    </header>
-
+       </header>
