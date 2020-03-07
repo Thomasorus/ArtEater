@@ -1,5 +1,5 @@
 # Each page blueprint must have a title, the title may be different from the file name
-title: Notes
+title: Articles
 
 # Each page can have an icon that is shown in page listings when no preview image is available.
 icon: 📖
@@ -9,16 +9,16 @@ icon: 📖
 
 columns:
   - width: 1/2
-    # In the first column, we reuse the `notes` section
-    # (defined in `/site/blueprints/sections/notes.yml` twice with different page status and headline
+    # In the first column, we reuse the `articles` section
+    # (defined in `/site/blueprints/sections/articles.yml` twice with different page status and headline
     sections:
       drafts:
-        extends: sections/notes
+        extends: sections/articles
         headline: Drafts
         status: draft
 
       unlisted:
-        extends: sections/notes
+        extends: sections/articles
         headline: In Review
         status: unlisted
 
@@ -26,8 +26,7 @@ columns:
     # In the second column, we reuse the same section, this time for listed pages and with a different headline
     sections:
       listed:
-        extends: sections/notes
+        extends: sections/articles
         headline: Published
         status: listed
-
 # More about pages sections: https://getkirby.com/docs/reference/panel/sections/pages
