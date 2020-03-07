@@ -1,0 +1,49 @@
+// Default variables
+html {
+  --base-font-size: 20px;
+}
+
+// Light default theme
+body {
+  --brand: #ee3030;
+  --bg-color: #fbfbfb;
+  --bg-content-color: #fff;
+  --bg-code: #fffbf3;
+  --body-color: #444;
+  --title-color: #222;
+  --link-color: var(--brand);
+  --border-color: rgba(0, 0, 0, 0.1);
+  --space: 3.5rem;
+  --space-small: 0.6rem;
+  --content-width: 860px;
+  --content-width-small: 300px;
+  --header-height: 80px;
+  --radius: 5px;
+  --blend: lighten;
+  --headerbg: rgba(255,255,255,.6);
+}
+
+// Make  things smaller for mobile
+@media screen and (max-width: 650px) {
+  html {
+    --base-font-size: 17px;
+  }
+  body {
+    --space: 1.5rem;
+    --header-height: 60px;
+  }
+}
+
+// Override variables for Dark theme
+body[data-theme="dark"] {
+  --bg-color: #111;
+  --bg-content-color: #212121;
+  --bg-code: rgba(0, 0, 0, 0.3);
+  --border-color: rgba(255, 255, 255, 0.1);
+  --body-color: #ced8de;
+  --title-color: #fff;
+  --link-color: var(--brand);
+  --blend: darken;
+  --headerbg: rgba(0,0,0,.6);
+
+}

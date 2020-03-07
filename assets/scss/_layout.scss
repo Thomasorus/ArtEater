@@ -1,0 +1,104 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  line-height: 1.15;
+  background-color: var(--headerbg);
+  min-height: var(--header-height);
+  padding: 0 calc(var(--space) / 2);
+  top: 0;
+  z-index: 10;
+
+  &__left,
+  &__center,
+  &__right {
+    display: flex;
+    align-items: center;
+  }
+
+  &__left {
+    .logo {
+      height: 40px;
+      width: 40px;
+    }
+    @media screen and (min-width: 480px) {
+      .logo {
+        height: 80px;
+        width: 80px;
+      }
+    }
+    
+  }
+
+  &__center ul,
+  &__center li {
+    margin: 0;
+    padding: 0;
+  }
+  &__center ul {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+  }
+
+  &__center a {
+    padding: 0 10px;
+    @media screen and (max-width: 480px) {
+      padding: 0;
+    }
+   
+  }
+
+  @media screen and (min-width: 1300px) {
+    //Make header sticky for large screens
+    position: sticky;
+    width: 100%;
+  }
+}
+
+.main {
+  margin: 0 auto;
+  padding: 1.5vw 15px 0;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: calc(var(--space) / 2);
+  text-align: center;
+  font-size: 0.8em;
+
+  > span {
+    margin: 0 0.35em;
+  }
+
+  a {
+    color: currentColor;
+  }
+}
+.logo {
+  text-decoration: none;
+  color: var(--body-color) !important;
+  font-size: 0.9em;
+  margin: 10px;
+
+  &__image {
+    vertical-align: middle;
+    // border-radius: 99px;
+    height: 40px;
+    width: 40px;
+    margin-right: 0.5em;
+  }
+}
+
+.readmore {
+  border: 1px solid var(--brand);
+
+  text-decoration: none;
+  padding: 10px 15px;
+}
