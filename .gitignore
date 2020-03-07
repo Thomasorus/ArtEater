@@ -30,6 +30,7 @@ Icon
 # Cache Files
 # ---------------
 
+.cache
 /site/cache/*
 !/site/cache/index.html
 
