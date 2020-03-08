@@ -29,7 +29,6 @@
         width: 80px;
       }
     }
-    
   }
 
   &__center ul,
@@ -50,7 +49,6 @@
     @media screen and (max-width: 480px) {
       padding: 0;
     }
-   
   }
 
   @media screen and (min-width: 1300px) {
@@ -101,4 +99,13 @@
 
   text-decoration: none;
   padding: 10px 15px;
+}
+
+.navbar {
+  a {
+    color: var(--body-color) !important;
+    font-size: 0.9em;
+    margin: 10px;
+    text-decoration: none;
+  }
 }

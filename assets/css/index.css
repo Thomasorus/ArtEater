@@ -112,7 +112,11 @@ p {
   margin-bottom: 1.25em;
 }
 
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
   transition: color 0.6s;
   color: var(--title-color);
   margin: 2.75rem 0 1rem;
@@ -181,8 +185,8 @@ ol li {
 }
 
 figcaption {
-  text-align: center;
   font-style: italic;
+  text-align: center;
 }
 
 * {
@@ -210,11 +214,6 @@ a:not(.button):hover {
 
 img {
   max-width: 100%;
-}
-
-figcaption {
-  font-style: italic;
-  text-align: center;
 }
 
 /* PrismJS 1.15.0
@@ -443,12 +442,14 @@ pre[class*=language-] {
   margin-bottom: calc(var(--space) / 2);
   overflow: hidden;
   background-color: var(--brand);
+  height: 430px;
 }
 .post__header img {
   width: 100%;
   -webkit-filter: grayscale(100%) contrast(1.2);
   filter: grayscale(100%) contrast(1);
   mix-blend-mode: var(--blend);
+  display: block;
 }
 .post__header:empty {
   display: none;
@@ -477,8 +478,10 @@ pre[class*=language-] {
   margin-top: calc(var(--space) / 2);
 }
 
-p figure {
+.post figure {
   margin: 0;
+  text-align: center;
+  margin-bottom: 1.25em;
 }
 
 .post-card {
@@ -621,6 +624,13 @@ p figure {
   border: 1px solid var(--brand);
   text-decoration: none;
   padding: 10px 15px;
+}
+
+.navbar a {
+  color: var(--body-color) !important;
+  font-size: 0.9em;
+  margin: 10px;
+  text-decoration: none;
 }
 
 /*# sourceMappingURL=index.css.map */
