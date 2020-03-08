@@ -16,18 +16,13 @@
       <div class="post__header">
         <img aria-hidden="true" srcset="<?= $page->coverimage()->toFile()->srcset([
                     '550w' => [
-                        'width' => 549,
-                        'height' => 976,
+                        'width' => 430,
+                        'height' => 215,
                         'crop' => 'center'
                     ],
-                    '999w' => [
-                        'width' => 1000,
-                        'height' => 1000,
-                        'crop' => 'center'
-                    ],
-                    '1920w' => [
-                        'width' => 1920,
-                        'height' => 1080,
+                    '1000w' => [
+                        'width' => 860,
+                        'height' => 430,
                         'crop' => 'center'
                     ]
                 ]) ?>" />
