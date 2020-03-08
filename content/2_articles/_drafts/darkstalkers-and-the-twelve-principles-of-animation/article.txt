@@ -2,11 +2,17 @@ Title: Darkstalkers and the Twelve Principles of Animation
 
 ----
 
+Coverimage:
+
+- darkstalkers1s.png
+
+----
+
 Text:
 
 I originally posted this a few years ago on [the Madman's Cafe](http://mmcafe.com/bbs/), one of the best online communities for thoughtful discussion of video games since the 90s.  The post got alot of positive responses, so I've finally backed it up here on my own blog with a few edits.  To all the members of the Cafe, thanks for your encouragement!_
 
-_All animated sprite rips in this article are from [www.fightersgeneration.com](http://www.fightersgeneration.com), a very cool database of fighting game info.  Please note that the sprites do not always have accurate timing.  The best way to experience the visual splendor of Darkstalkers is to track down an actual copy of the game and play it!_
+*All animated sprite rips in this article are from [www.fightersgeneration.com](http://www.fightersgeneration.com), a very cool database of fighting game info.  Please note that the sprites do not always have accurate timing.  The best way to experience the visual splendor of Darkstalkers is to track down an actual copy of the game and play it!*
 
 Darkstalkers (aka Vampire) is one of my favorite videogame series.  It combines great characters with deep gameplay and amazing animation.  When it burst onto the arcade scene in 1994 I was absolutely astounded by the graphics.  It was one of the first video games to combine feature film quality animation with responsive controls and it really set the bar for all the great fighting games that followed after it.
 
@@ -14,93 +20,107 @@ Darkstalkers was Capcom's followup to their monstrously successful and innovativ
 
 The following is a primer on the 12 principles of animation, as they are applied in Darkstalkers and its various sequals.
 
-1.) Squash and Stretch:  Squash and stretch refers to the animators ability to distort the distribution of mass in an object as it moves through space. It generally recalls the very bouncy, rubbery movments of Disney esque animation, but it's actually much more comprehensive than that. Squash and stretch occurs all around us in real life. Just pull in and extend your arm and observe how your muscles bunch up then stretch out. Or look at a cat. They curl up into compact little balls then spring into super lithe living torpedos.
+## Squash and Stretch 
+
+Squash and stretch refers to the animators ability to distort the distribution of mass in an object as it moves through space. It generally recalls the very bouncy, rubbery movments of Disney esque animation, but it's actually much more comprehensive than that. Squash and stretch occurs all around us in real life. Just pull in and extend your arm and observe how your muscles bunch up then stretch out. Or look at a cat. They curl up into compact little balls then spring into super lithe living torpedos.
 
 Darkstalkers has alot of squash in stretch in obvious and in subtle places.
 
 Look at how Akaris's tomb grows at the point of impact, then shrinks back. And also how his feet are very thin when they land on the ground until the rest of his mass catches up with them. It gives the attack a real pop:
 
-![anakaris kick](/posts/images/anakaris-kick1.gif)
+(image: anakaris-kick1.gif)
 
 Here you can see Lord Raptor's limbs really stretch out, especially his back leg:
 
-![darkstalkers vampire zabel attack animated gif sprite](/uploads/zabel-sla.gif)
+(image: zabel-sla.gif)
 
 Q Bee is perhaps the best example of effective squashing and stretching in Darkstalkers. She's relatively restrained compared to the rest of the cast, but her animations have some of the craziest distortions. If you go frame by frame you might be suprized by just how much they squash and stretch her out, yet it feels perfectly natural in motion.
 
-![Q-Bee squash and stretch frames animation](/uploads/QBee.gif)
+(image: QBee.gif)
 
 She was introduced years later in the third iteration of Darkstalkers, when the animators had matured even further in their abilities. Q-bee's animation is almost on par with Street Fighter III (my all time favorite game). 
 
-2.) Anticipation: this is the build up before the release of the action. Since this telegraphs movement, you can't have too much of this in a video game as inputs should be fairly instantaneous. Still Capcom managed to implement this well. Most of the resting animations for the characters already set up the characters for some sort of counter movement. If you look at John Talbain in his crouching position he's super low to the ground, but any of his animations coming out of that are really dynamic and "pop" out with a counter movement. Basically every resting stance in the game is a sort of anticipation pose:
+## Anticipation
 
-![](/uploads/talbain-crouch.gif)
+This is the build up before the release of the action. Since this telegraphs movement, you can't have too much of this in a video game as inputs should be fairly instantaneous. Still Capcom managed to implement this well. Most of the resting animations for the characters already set up the characters for some sort of counter movement. If you look at John Talbain in his crouching position he's super low to the ground, but any of his animations coming out of that are really dynamic and "pop" out with a counter movement. Basically every resting stance in the game is a sort of anticipation pose:
 
-![john talbain gallon crouching fierce attack animated sprite](/uploads/tal-c2.gif)
+(image: talbain-crouch.gif)
+
+(image: tal-c2.gif)
 
 A more direct example of anticipation can be seen here:
 
-![darkstalkers vampire sasquatch punch animation animated sprite gif](/uploads/sasquatch-punch.gif)
+(image: sasquatch-punch.gif)
 
 He's got a very nice windup before the actual punch. Anticipation helps to prepare the audience for the coming action and also gives the sense that the character is thinking about what they're doing.
 
-3.) Staging: Basically how an action is framed in a shot with consideration to things like placement, camera angle, zoom and lighting.  As a 2-d fighter, Darkstalkers only takes place in a fixed side view, but the stages are optimized for this setup. They're interesting and they frame the action well, without distracting from it.
+## Staging
+
+Basically how an action is framed in a shot with consideration to things like placement, camera angle, zoom and lighting.  As a 2-d fighter, Darkstalkers only takes place in a fixed side view, but the stages are optimized for this setup. They're interesting and they frame the action well, without distracting from it.
 
 Look at how the killer plants in the background frame the action, rather than clash with it.
 
-![dark stalkers vampire savior background](/uploads/darkstalkers3-s2.gif)
+(image: darkstalkers3-s2.gif)
 
 Darkstalkers has some GREAT stages. It was the first Capcom game to have backgrounds that felt like they belonged in a feature film.  
 
-![darkstalkers vampire savior egypt background](/uploads/dsc-b12.gif)
+(image: dsc-b12.gif)
 
 Aside from being technically sound with good rendering, color choices, and prespective, the stages were full of character and mood. Fetus of God will always be a personal favorite of mine (so disturbing!).
 
-![Darkstalkers Vampire Savior Jedah Stage fetus of god](/uploads/fetus_of_god.jpg)
+(image: fetus_of_god.jpg)
 
 my big brother HATED playing on this stage!
 
-4.) Straight Ahead or Pose to Pose: This has more to do with the process of animation itself. When animating, you can either draw out the key poses first then go back and fill in the inbetweens, or you can plow through the animation one frame after another in order. Complex character animations are generally done pose to pose, while more peripheral animations such as cloth are done straightahead (though generally after the main animation has been worked out pose to pose). Most of the animations in the game were probably worked out pose to pose. But some such as Pyron's flames were very likely done with straight ahead animation:  
+## Straight Ahead or Pose to Pose
 
-![darkstalkers vampire pyron attack animated sprite animation](/uploads/pyron-upper.gif)
+This has more to do with the process of animation itself. When animating, you can either draw out the key poses first then go back and fill in the inbetweens, or you can plow through the animation one frame after another in order. Complex character animations are generally done pose to pose, while more peripheral animations such as cloth are done straightahead (though generally after the main animation has been worked out pose to pose). Most of the animations in the game were probably worked out pose to pose. But some such as Pyron's flames were very likely done with straight ahead animation:  
 
-![darkstalkers vampire pyron walk animated sprite animation](/uploads/pyron-walk.gif)
+(image: pyron-upper.gif)
 
-5.) Followthrough and overlapping action:  This mostly pertains to things that trail the main action like clothing, hair, bouncing breasts etc, think of it as the aftermath of the main action. The Vampire games are good about this. DarkStalkers is one of the first games I can recall that has any followthrough animation at all. For instance, check out Dimitri's cape:  
+(image: pyron-walk.gif)
 
-![darkstalkers vampire dimitri sprite rip win pose animation animated gif](/uploads/demitri-winpose5.gif)
+## Followthrough and overlapping action
 
-![darkstalkers vampire dimitri sprite rip default neutral stance animation animated gif](/uploads/demitri.gif)
+This mostly pertains to things that trail the main action like clothing, hair, bouncing breasts etc, think of it as the aftermath of the main action. The Vampire games are good about this. DarkStalkers is one of the first games I can recall that has any followthrough animation at all. For instance, check out Dimitri's cape:  
+
+(image: demitri-winpose5.gif)
+
+(image: demitri.gif)
 
 Or Hsein-Ko's baggy robes and ribbon:
 
-![Darkstalkers Hsien-ko Lei Lei sprite rip walk forward animated gif](/uploads/leilei-walkf.gif)
+(image: leilei-walkf.gif)
 
 Felecia's hair has tons of volume and body. It bounces along as it trails her movements (this animation is also a great example of squash and stretch): 
 
-![darkstalkers vampire felicia sprite rip attack animated gif animation](/uploads/felicia-poke.gif)
+(image: felicia-poke.gif)
 
-6.) Slow In Slow Out: This refers to changing the spacing and timing of actions so they're not totally uniform and flat (when animation is very even it is sometimes refered to as the "King Kong effect" referring to the old stop motion films where everything moved at a steady speed). Darkstalkers is a real vanguard when it comes to slow in and slow out for game animation. I'm sure alot of you guys can recall the first time you saw Darkstalkers and thought "wow that's beautiful, so smooth!"  It's not just because it had more frames of animation than most other games to date, but because they put those frames in the right places. Every action has a varied tempo.
+## Slow In Slow Out
+
+This refers to changing the spacing and timing of actions so they're not totally uniform and flat (when animation is very even it is sometimes refered to as the "King Kong effect" referring to the old stop motion films where everything moved at a steady speed). Darkstalkers is a real vanguard when it comes to slow in and slow out for game animation. I'm sure alot of you guys can recall the first time you saw Darkstalkers and thought "wow that's beautiful, so smooth!"  It's not just because it had more frames of animation than most other games to date, but because they put those frames in the right places. Every action has a varied tempo.
 
 For instance, look at Lillith's walk cycle. It's such a nice little skip, with a great lilt to it:
 
-![darkstalkers vampire sprite rip lillith skipping walk forward animated gif animation](/uploads/lilith-skipfor.gif)
+(image: lilith-skipfor.gif)
 
 The frame padding in Vampire is very expertly done to give weight to the moves. Fierce attacks tend to have alot of frame padding, giving them a very meaty feeling. They looked and FELT stronger than weak attacks. The principle of slow in slow out is very obviously exhibited with the slower characters, like Victor with his giant club like limbs.
 
-![Darkstalkers Vampire sprite rip Victor Fierce Kick animated gif animation](/uploads/victor-kick.gif)
+(image: victor-kick.gif)
 
 He was the first character in Darkstalkers I ever picked because I enjoyed watching his ponderous movements, which got more and more extreme as the games went on. 
 
 Oh and I almost forgot to mention, another thing the Darkstalkers games do well is the characters tend to lead their actions with their shoulders and hips:
 
-![Darkstalkers Vampire Felicia sprite rip fierce punch animated gif animation](/uploads/felicia-fp.gif)
+(image: felicia-fp.gif)
 
 This is supremely important for imparting impact. It's a basic principle of martial arts that your power comes from your core.  Alot of animation still does not utilize this principle. Many 3d games have animations where the characters lead with their extremeties rather than their body, leading to a feeling of a marionette on strings.
 
-7.) Arcs: Just about every living thing moves in arcs. Human locomotion comes from the rotation of our joints. In animation, we use arcs to map out the paths of movements.  Here's an example of arcs being used for a walk cycle:
+## Arcs
 
-![Richard Williams The Animators Survival Kit walk cycle arcs map](/uploads/SurvivalKit_WCBasics_pg1081.jpg)
+Just about every living thing moves in arcs. Human locomotion comes from the rotation of our joints. In animation, we use arcs to map out the paths of movements.  Here's an example of arcs being used for a walk cycle:
+
+(image: SurvivalKit_WCBasics_pg1081.jpg)
 
 A page from The Animator's Survival Kit, by Richard Williams. This is one of the very best books on the fundamentals of animation.
 
@@ -108,81 +128,89 @@ Arcs are essential for keeping your animation smooth and on track so that nothin
 
 All the motions in Darkstalkers were certainly planned out with arcs. Some are quite obvious:
 
-![darkstalkers night warriors donavan special move sprite rip animation gif animation](/uploads/donovan-flame.gif)
+(image: donovan-flame.gif)
 
 But really, everything in the game has good motion paths. This is a really essential principle, especially for traditional hand drawn animation. You have to plan movements on arcs, otherwise they won't line up frame to frame.
 
 By the time they got to animating Vampire Savior, they were pulling off some really complex animation:
 
-![darkstalkers vampire savior animated gif q-bee kick sprite rip animation](/uploads/qbee-beekick.gif)
+(image: qbee-beekick.gif)
 
 There are so many arcs going on in that motion, and alot of them are overlapping, turning in on themselves. While her legs are performing a very broad circular action, there's so much subtly going on in her torso, especially her shoulders. Look at how they loop towards the viewer in a figure 8. Then look at her head turning in perspective, with the antennae trailing behind forming another circle. This circular motion is also echoed in her Bee-hind (ha!). There's also a ton of great squashing and stretching going on with the spikes really popping out of her knees and more subtle stuff with her legs and stinger. There's also some great motion blurs on the wings, and great overlapping action with her legs snapping into full extension only after a full rotation of the shoulders, into the torso, into her hips into her knees. There's so much weight as she throws her entire body into the cartwheel then catches herself and settles back onto the ground for a split second before resuming hovering. Everything about this animation is great and exhibits mastery of every principle of animation. This animation has it all!
 
-8.) Secondary Action. Not to be confused with followthrough, this is more like minor actions supporting a main action. John Talbain's tail animations are a way excellent example of secondary action:
+## Secondary Action
 
-![darkstalkers vampire john talbain gallon sprite rip animation default pose animated gif](/uploads/sf-talbain.gif)
+Not to be confused with followthrough, this is more like minor actions supporting a main action. John Talbain's tail animations are a way excellent example of secondary action:
+
+(image: sf-talbain.gif)
 
 His tail is never the main action. During his neutral stance, the main action is his growling. That's what is being emphasized, but the tail gives an added sense of energy and even friskiness. If you took away his tail animation, all his movements would still work, but they wouldn't have the same sense of character.
 
-9.) Timing: This refers to the speed of an animation. Timing helps to establish physical properties such as weight, velocity and force. Timing is also important to acting. A character who is depressed might move very slowly with a lot of inertia.  A character that's scared might make fast, jumpy motions.  Timing can be very abstract.  A humorous animation could be said to have good comedic timing.
+## Timing
+
+This refers to the speed of an animation. Timing helps to establish physical properties such as weight, velocity and force. Timing is also important to acting. A character who is depressed might move very slowly with a lot of inertia.  A character that's scared might make fast, jumpy motions.  Timing can be very abstract.  A humorous animation could be said to have good comedic timing.
 
 Darkstalkers has very good timing, especially with regards to the interactive nature of its animation.  Every button press in the game conjures up an instantaneous performance from the character.  It's impressive how you can feel the precise power of each attack. Light attacks tend to come out very quickly.  Heavier attacks come out slower, with more weight behind them.
 
-![darkstalkers sasquatch animated gif sprite rip animation low punch](/uploads/sasquatch-flick.gif)
+(image: sasquatch-flick.gif)
 
-![darkstalkers sasquatch animated gif sprite rip animation medium punch](/uploads/sas-mp.gif)
+(image: sas-mp.gif)
 
-![darkstalkers sasquatch animated gif sprite rip animation fierce punch](/uploads/sas-hp.gif)
+(image: sas-hp.gif)
 
 This is appropriate for both aesthetics and balanced gameplay.
 
 Darkstalkers also uses timing to establish the varied personalities of its characters.  Some characters move like beasts driven by instinct:
 
-![darkstalkers sasquatch animated sprite rip gif happy dance animation](/uploads/sasquatch-dance1.gif)
+(image: sasquatch-dance1.gif)
 
-![darkstalkers Victor animated sprite rip gif low punch animation](/uploads/vic-lp.gif)
+(image: vic-lp.gif)
 
-![darkstalkers lord raptor zabel animated sprite rip gif rib attack animation](/uploads/zabel-insanestrike.gif)
+(image: zabel-insanestrike.gif)
 
 Some like trained martial artists:
 
-![darkstalkers john talbain animated sprite rip gif medium punch animation](/uploads/tal-mp.gif)
+(image: tal-mp.gif)
 
-![darkstalkers lillith animated sprite rip gif fierce kick animation](/uploads/lilith-kick1.gif)
+(image: lilith-kick1.gif)
 
 Jedah has the presence of a seasoned magician conjuring a spell and taking time to observe the outcome.
 
-![darkstalkers jedah animated gif sprite rip animation medium punch](/uploads/jedah-mp.gif)
+(image: jedah-mp.gif)
 
-![darkstalkers Jedah animated sprite rip gif Fierce punch animation](/uploads/jedah-hands.gif)
+(image: jedah-hands.gif)
 
-![darkstalkers jedah animated sprite rip self decapitation animation](/uploads/jedah-ouchies.gif)
+(image: jedah-ouchies.gif)
 
 The Darkstalkers games use varied timing to help convey a character's physical properties as well as their personality.
 
-10.) Exaggeration: This generally means pushing the animation further than real life. This is sorta a guiding value behind every principle of animation. It seems obvious to state but, the Darkstalkers games are full of really good exaggeration. This is no easy task. Most next gen games have rather undynamic animation (often as a result of motion capture). It's also easy to go overboard with the exaggeration. This is a matter of personal preference. I'm not a fan of animation where everything is exaggerated to the most extreme degree.  When everything is pushed at all times, nothing is emphasized. It can come off as overacting. Darkstalkers is very good about exaggerating certain motions for greater impact, while leaving other motions more mundane.
+## Exaggeration
 
-![Darkstalkers Felicia sprite rip animated gif low punch animation](/uploads/felicia-lp.gif)
+This generally means pushing the animation further than real life. This is sorta a guiding value behind every principle of animation. It seems obvious to state but, the Darkstalkers games are full of really good exaggeration. This is no easy task. Most next gen games have rather undynamic animation (often as a result of motion capture). It's also easy to go overboard with the exaggeration. This is a matter of personal preference. I'm not a fan of animation where everything is exaggerated to the most extreme degree.  When everything is pushed at all times, nothing is emphasized. It can come off as overacting. Darkstalkers is very good about exaggerating certain motions for greater impact, while leaving other motions more mundane.
 
-![Darkstalkers Felicia sprite rip animated gif fall animation](/uploads/felicia-falls.gif)
+(image: felicia-lp.gif)
+
+(image: felicia-falls.gif)
 
 It's very tastefully balanced.
 
-11.) Solid Drawing: This basically means good volumetric drawing. Capcom's artists absolutely excel at drawing.
+## Solid Drawing
 
-![Darkstalkers Capcom Hsien-Ko Lei Lei illustration Bengus CRMK](/uploads/bengus-leilei-232x300.jpg)
+This basically means good volumetric drawing. Capcom's artists absolutely excel at drawing.
+
+(image: bengus-leilei-232x300.jpg)
 
 All their characters are solidly constructed, with a great sense of volume, depth, weight, and character.
 
-![Darkstalkers Hsien-Ko Lei Lei model sheet Bengus CRMK](/uploads/leilei-capcom-sktz-300x300.jpg)
+(image: leilei-capcom-sktz-300x300.jpg)
 
 This is hard enough to do with any form of drawing, even harder to do consistently in animation and harder still to convey in tiny sprites (sprite work takes a mountain of patience).
 
-![Darkstalkers Capcom Hsien-Ko Lei Lei animated sprite rip walk backwards animation](/uploads/leilei-walkb.gif)
+(image: leilei-walkb.gif)
 
-![Darkstalkers Capcom Hsien-Ko Lei Lei animated sprite rip crouching animation](/uploads/leilei-crouching.gif)
+(image: leilei-crouching.gif)
 
-![Darkstalkers Capcom Hsien-Ko Lei Lei animated sprite rip win animation](/uploads/leilei-blow-taunt.gif)
+(image: leilei-blow-taunt.gif)
 
 This is pretty much self explanatory when you look at any Capcom fighter. They are all drawn extremmmmmmely well.
 
@@ -196,39 +224,39 @@ Heck, I met most of my best friends in college through a common love of Capcom f
 
 John Talbain is a kung fu fighting werewolf. His movements are an amazing blend of wild animal fury tempered with human discipline.
 
-![Darkstalkers Capcom John Talbain animated sprite rip fierce punch animation](/uploads/tal-fp.gif)
+(image: tal-fp.gif)
 
-![Darkstalkers Capcom John Talbain animated sprite rip crouching kick animation](/uploads/tal-c5.gif)
+(image: tal-c5.gif)
 
-![Darkstalkers Capcom John Talbain animated sprite rip gif win animation](/uploads/talbain-win6.gif)
+(image: talbain-win6.gif)
 
 Dimitri instantly reads as cocky, arrogant and vicious. His posture is very proud. He fights in a muthaflippin' skin tight tuxedo with riding pants and cape, what a jerk! But he makes it look awesome!  
 
-![Darkstalkers Vampire Savior Capcom Dimitri illustration by Bengus CRMK](/uploads/demitri-21-233x300.jpg)
+(image: demitri-21-233x300.jpg)
 
 Lei Lei is an adorable Chinese hopping ghost!
 
-![Darkstalkers Vampire Savior Capcom Lei Lei Hsien Ko illustration by Bengus CRMK](/uploads/leilei-196x300.gif)
+(image: leilei-196x300.gif)
 
 Donovan is stern and stoic, but hides deep emotions. He's a great tragic hero.  
 
-![Darkstalkers Capcom Donovan character illustration by Bengus CRMK](/uploads/donovan09.gif)
+(image: donovan09.gif)
 
 Phobos is a robot shaped like ancient Japanese Jomon pottery! He's so mysterious and ancient feeling.
 
-![Darkstalkers Capcom Phobos character illustration by Bengus CRMK](/uploads/phobos-original-225x300.jpg)
+(image: phobos-original-225x300.jpg)
 
-![ancient Japanese Jomon statue clay figure pottery](/uploads/JomonStatue-212x300.jpg)
+(image: JomonStatue-212x300.jpg)
 
 He captures the feeling of early civilization art, which is just barely representational. It works so well with his character.
 
 And Pyron, he's not just another generic horned demon, he's an allmighty alien made out of plasma that's based off of biblical descriptions of god and angels appearing as pillars of fire and flaming wheels.
 
-![Darkstalkers Capcom Pyron animated gif sprite rip intro animation](/uploads/pyon-i.gif)
+(image: pyon-i.gif)
 
-![Darkstalkers Capcom Pyron animated gif sprite rip burning wheel attack animation](/uploads/pyron-wheel.gif)
+(image: pyron-wheel.gif)
 
-![Darkstalkers Capcom Pyron animated gif sprite rip pillar of fire win animation](/uploads/pyron-haha.gif)
+(image: pyron-haha.gif)
 
 These passages have even been interpreted by some as descriptions of contact with UFOs, hence Pyron is an alien. Isn't that awesome? He's not just demonic, he's glorious.
 
@@ -247,9 +275,3 @@ Author:
 ----
 
 Tags: Darkstalkers, Capcom, Fighting games, Animation
-
-----
-
-Coverimage:
-
-- darkstalkers1s.png

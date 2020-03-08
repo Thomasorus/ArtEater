@@ -1,6 +1,5 @@
 # Each page blueprint must have a title, the title may be different from the file name
 title: Article
-
 # Sorting number scheme that is applied when page status is changed to `listed`
 # More about page sorting: https://getkirby.com/docs/reference/panel/blueprints/page#sorting
 num: date
@@ -21,35 +20,34 @@ status:
     label: Published
     text: The article is online and listed in the blog
 
-# Define the form layout with two columns
-# Columns are optional but help structure the form layout
-# More about columns: https://getkirby.com/docs/guide/blueprints/layout#defining-columns
-columns:
-  - width: 2/3
-    # This columns only has a single field
+tabs:
+  content:
+    label: Content
+    icon: text
+    preset: page
+    pages: false
     fields:
+      coverimage:
+        label: Head image
+        type: files
+        multiple: false
+        query: page.images
       text:
         type: textarea
         size: large
 
-  - width: 1/3
-    # This second column holds a fields section with multiple fields
-    # More about fields sections: https://getkirby.com/docs/reference/panel/sections/fields
-    sections:
-      meta:
-        type: fields
-        fields:
-          date:
-            type: date
-            time: true
-            default: now
-          author:
-            type: users
-          # Fields types can be added using the shortcut `fieldname: true`
-          # (however, you can only use a fieldname once per page and this only makes sense for simple fields without configuration)
-          tags: true
-          coverimage:
-            label: Head image
-            type: files
-            multiple: false
-            query: page.images
+  meta:
+    label: Meta
+    icon: box
+    preset: page
+    pages: false
+    fields:
+      date:
+        width: 1/3
+        type: date
+        time: true
+        default: now
+      author:
+        width: 1/3
+        type: users
+      tags: true
