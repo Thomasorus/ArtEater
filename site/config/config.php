@@ -9,4 +9,16 @@
  */
 return [
     'debug' => true,
+    'cache' => [
+        'type' => 'memcached',
+        'pages' => [
+            'active' => false
+        ]
+    ],
+    'thumbs' => [
+        'driver' => 'gd',
+        'autoOrient' => true,
+        'quality' => '80',
+        'interlace' => true
+    ],
 ];
