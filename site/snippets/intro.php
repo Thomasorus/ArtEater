@@ -9,5 +9,5 @@
 ?>
 
 <header class="intro">
-  <h1><?= $page->title() ?></h1>
+  <h1 class="post-title"><?= $page->title() ?></h1>
 </header>

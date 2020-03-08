@@ -65,18 +65,16 @@
       <a href="/" class="logo">
         <img src="/assets/logo-large.jpg" alt="Logo Art Eater"></a>
     </div>
-    <div class="header__center">
-      <nav class="navbar is-transparent" role="navigation" aria-label="main-navigation">
-        <div id="navMenu" class="navbar-menu">
-          <div class="navbar-start has-text-centered">
-            <?php 
+      <nav class="header__center" role="navigation" aria-label="main-navigation">
+          <ul class="navbar">
+             <?php 
                 foreach ($site->children()->listed() as $item): ?>
-            <?= $item->title()->link(); ?>
+              <li class="navbar-item">
+               <?= $item->title()->link(); ?>
+               </li>
             <?php endforeach ?>
-          </div>
-        </div>
+          </ul>
       </nav>
-    </div>
     <div class="header__right">
       <button aria-label="Toggle dark/light" class="toggle-theme" onclick="toggleDarkLight()"
         title="Toggle dark/light mode">

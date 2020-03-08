@@ -1,34 +1,48 @@
-<?php
-/**
- * Templates render the content of your pages. 
- * They contain the markup together with some control structures like loops or if-statements.
- * The `$page` variable always refers to the currently active page. 
- * To fetch the content from each field we call the field name as a method on the `$page` object, e.g. `$page->title()`.
- * This template lists all all the subpages of the `articles` page with their title date sorted by date and links to each subpage.
- * Snippets like the header, footer and intro contain markup used in multiple templates. They also help to keep templates clean.
- * More about templates: https://getkirby.com/docs/guide/templates/basics
- */
-?>
-
 <?php snippet('header') ?>
 
 <main>
   <?php snippet('intro') ?>
-
-
   <div class="articles">
-    <?php foreach ($page->children()->listed()->sortBy('date', 'desc') as $note): ?>
-    <article class="note">
-      <header class="note-header">
-        <a href="<?= $note->url() ?>">
-          <h2><?= $note->title() ?></h2>
-          <time><?= $note->date()->toDate('d F Y') ?></time>
-        </a>
-      </header>
-    </article>
+    <?php foreach ($articles as $article): ?>
+
+    <div class="post-card content-box">
+      <div class="post-card__header">
+        <img aria-hidden="true" srcset="<?= $article->coverimage()->toFile()->srcset([
+                    '550w' => [
+                        'width' => 430,
+                        'height' => 215,
+                        'crop' => 'center'
+                    ],
+                    '1000w' => [
+                        'width' => 860,
+                        'height' => 430,
+                        'crop' => 'center'
+                    ]
+                ]) ?>" />
+       </div>
+      <article class="post-card__content">
+        <h2 class="post-card__title"><?= $article->title() ?></h2>
+        <p class="post-card__description"><?= $article->text()->excerpt(220); ?></p>
+        <div class="post-meta">
+          Posted <time><?= $article->date()->toDate('d F Y') ?></time>
+          <br>By <strong><?= $article->author()->toUser()->name(); ?></strong>
+        </div>
+        <a class="post-card__link" href="<?= $article->url() ?>">Keep Reading
+          →</a>
+      </article>
+    </div>
     <?php endforeach ?>
   </div>
 
+<nav class="pagination">
+  <?php if($pagination->hasPrevPage()): ?>
+  <a href="<?= $pagination->prevPageUrl() ?>">previous posts</a>
+  <?php endif ?>
+
+  <?php if($pagination->hasNextPage()): ?>
+  <a href="<?= $pagination->nextPageUrl() ?>">next posts</a>
+  <?php endif ?>
+</nav>
 </main>
 
 <?php snippet('footer') ?>

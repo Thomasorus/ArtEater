@@ -1,12 +1,11 @@
 <?php snippet('header') ?>
 <main>
-  <section>
     <div class="post-title">
       <h1 class="post-title__text"><?= $page->title() ?></h1>
       <div class="post-meta">
         Posted <time><?= $page->date()->toDate('d F Y') ?></time>
         <br aria-hidden="true" />
-        By <?= $page->author()->name(); ?>
+        By <?= $page->author()->toUser()->name(); ?>
         <!-- <div>
             <strong>{timeToRead} min read.</strong>
           </div> -->
@@ -30,30 +29,26 @@
       <?= $page->text()->kt() ?>
       <div class="post__footer">
         <div>
-          <h4>Enjoyed this article?</h4>
-          Follow <strong>{author}</strong> on <a href={`https://twitter.com/${twitter}`}>Twitter </a>. </div> <div>
-            <h4>Read more about...</h4>
-            <ul class="taglist">
-              <?php if ($page->tags()->isNotEmpty()) : ?>
-              <?php 
-                $tags = $page->pluck("tags", ',', true);
-                
-                // In the menu, we only fetch listed pages, i.e. the pages that have a prepended number in their foldername
-                // We do not want to display links to unlisted `error`, `home`, or `sandbox` pages
-                // More about page status: https://getkirby.com/docs/reference/panel/blueprints/page#statuses
-                foreach($tags as $tag): ?>
-              <li>
-                <a href="<?= url($page->url(), ['params' => ['tag' => $tag]]) ?>">
-                  <?= html($tag) ?>
-                </a>
-              </li>
+          <h2>Enjoyed this article?</h2>
+          Follow <strong><?= $page->author()->toUser()->name(); ?></strong> on <a
+            href="https://twitter.com/<?= $page->author()->toUser()->twitter(); ?>">Twitter</a>.
+        </div>
+        <div>
+          <h2>Read more about...</h2>
+          <ul class="taglist">
+            <?php if ($page->tags()->isNotEmpty()) : ?>
+              <?php foreach ($page->tags()->split() as $tag): ?>
+                 <li>
+                    <a href="<?= url('articles', ['params' => ['tag' => $tag]]) ?>">
+                      <?= html($tag) ?>
+                    </a>
+                  </li>
               <?php endforeach ?>
-
-              <?php endif ?>
-            </ul>
+            <?php endif ?>
+          </ul>
         </div>
       </div>
     </div>
-  </section>
+  </a>
 </main>
 <?php snippet('footer') ?>
