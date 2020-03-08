@@ -20,7 +20,7 @@ body {
   --header-height: 80px;
   --radius: 5px;
   --blend: lighten;
-  --headerbg: rgba(255,255,255,.6);
+  --headerbg: rgba(255, 255, 255, 0.6);
 }
 
 // Make  things smaller for mobile
@@ -35,7 +35,7 @@ body {
 }
 
 // Override variables for Dark theme
-body[data-theme="dark"] {
+body[theme="dark"] {
   --bg-color: #111;
   --bg-content-color: #212121;
   --bg-code: rgba(0, 0, 0, 0.3);
@@ -44,6 +44,5 @@ body[data-theme="dark"] {
   --title-color: #fff;
   --link-color: var(--brand);
   --blend: darken;
-  --headerbg: rgba(0,0,0,.6);
-
+  --headerbg: rgba(0, 0, 0, 0.6);
 }
