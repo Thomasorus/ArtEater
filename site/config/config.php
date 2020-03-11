@@ -9,14 +9,17 @@
  */
 return [
     'debug' => true,
+    'panel' =>[
+        'install' => true
+    ],
     'cache' => [
         'type' => 'memcached',
         'pages' => [
-            'active' => false
+            'active' => true
         ]
     ],
     'thumbs' => [
-        'driver' => 'gd',
+        'driver' => 'im',
         'autoOrient' => true,
         'quality' => '80',
         'interlace' => true
