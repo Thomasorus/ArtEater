@@ -12,15 +12,12 @@
 <?php snippet('header') ?>
 
 <main>
-  <?php snippet('intro') ?>
-
+<div class="post-title">
+      <h1 class="post-title__text"><?= $page->title() ?></h1>
+      
+    </div>
   <div class="post podcast-box">
-
-
     <audio id="player" src="<?= $page->podcast() ?>"></audio>
-
-
-
     <div class="player-wrapper">
       <div class="player__left-block">
         <div class="player-controls">
@@ -97,7 +94,7 @@
       <div class="player__right-block">
         <?= $page->text()->kt() ?>
       </div>
-          <progress id="seekBar" value="0" max="1"></progress>
+      <progress id="seekBar" value="0" max="1"></progress>
 
     </div>
 

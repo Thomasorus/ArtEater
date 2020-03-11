@@ -15,33 +15,60 @@
 <main>
   <?php snippet('intro') ?>
 
+  <div class="home-grid">
+      <?php   if ($podcasts = page('podcasts')->children()->listed()->flip()): ?>
+      <div class="articles">
+        <div class="posts">
+          <?php foreach ($podcasts as $podcast): ?>
+          <div class="post-card content-box content-box--small" style="margin:0;">
+            <img src="/assets/art-eaterpodcast.jpg" alt="">
+            <article class="post-card__content">
+              <h2 class="post-card__title"><?= $podcast->title() ?></h2>
+              <div class="post-meta"> Posted <time><?= $podcast->date()->toDate('d F Y') ?></time></div>
+              <a class="post-card__link" href="<?= $podcast->url() ?>">Keep Reading →</a>
+            </article>
+          </div>
+        </div>
+        <?php endforeach ?>
+      </div>
+      <?php endif; ?>
 
-  <?php 
-  // we always use an if-statement to check if a page exists to prevent errors 
-  // in case the page was deleted or renamed before we call a method like `children()` in this case
-  if ($photographyPage = page('photography')): ?>
-  <ul class="grid">
-    <?php foreach ($photographyPage->children()->listed() as $album): ?>
-    <li>
-      <a href="<?= $album->url() ?>">
-        <figure>
-          <?php 
-          // the `cover()` method defined in the `album.php` page model can be used 
-          // everywhere across the site for this type of page
-          if ($cover = $album->cover()): ?>
-          <?= $cover->resize(1024, 1024) ?>
-          <?php endif ?>
-          <figcaption>
-            <span>
-              <span class="example-name"><?= $album->title() ?></span>
-            </span>
-          </figcaption>
-        </figure>
-      </a>
-    </li>
-    <?php endforeach ?>
-  </ul>
-  <?php endif ?>
+
+    <?php   if ($articles = page('articles')->children()->listed()->flip()): ?>
+    <div class="articles">
+      <?php foreach ($articles as $article): ?>
+
+      <div class="post-card content-box">
+        <div class="post-card__header">
+          <img aria-hidden="true" srcset="<?= $article->coverimage()->toFile()->srcset([
+                    '550w' => [
+                        'width' => 430,
+                        'height' => 215,
+                        'crop' => 'center'
+                    ],
+                    '1000w' => [
+                        'width' => 860,
+                        'height' => 430,
+                        'crop' => 'center'
+                    ]
+                ]) ?>" />
+        </div>
+        <article class="post-card__content">
+          <h2 class="post-card__title"><?= $article->title() ?></h2>
+          <p class="post-card__description"><?= $article->text()->excerpt(220); ?></p>
+          <div class="post-meta">
+            Posted <time><?= $article->date()->toDate('d F Y') ?></time>
+            <br>By <strong><?= $article->author()->toUser()->name(); ?></strong>
+          </div>
+          <a class="post-card__link" href="<?= $article->url() ?>">Keep Reading
+            →</a>
+        </article>
+      </div>
+      <?php endforeach ?>
+    </div>
+    <?php endif; ?>
+
+   
 
 </main>
 

@@ -109,3 +109,14 @@
     text-decoration: none;
   }
 }
+
+.home-grid {
+  display: grid;
+  max-width: 960px;
+  margin: auto;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 20px;
+  @media (max-width: 520px) {
+    grid-template-columns: 1fr;
+  }
+}

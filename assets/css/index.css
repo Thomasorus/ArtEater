@@ -455,6 +455,9 @@ pre[class*=language-] {
   filter: grayscale(100%) contrast(1);
   mix-blend-mode: var(--blend);
   display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 .post__header:empty {
   display: none;
@@ -510,6 +513,7 @@ pre[class*=language-] {
   -webkit-filter: grayscale(100%) contrast(1.2);
   filter: grayscale(100%) contrast(1);
   mix-blend-mode: var(--blend);
+  width: 100%;
 }
 .post-card__image {
   min-width: 100%;
@@ -537,6 +541,7 @@ pre[class*=language-] {
   overflow: hidden;
   text-indent: -9999px;
   z-index: 0;
+  cursor: pointer;
 }
 
 .header {
@@ -638,6 +643,19 @@ pre[class*=language-] {
   text-decoration: none;
 }
 
+.home-grid {
+  display: grid;
+  max-width: 960px;
+  margin: auto;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 20px;
+}
+@media (max-width: 520px) {
+  .home-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 .podcast-box {
   background-color: var(--bg-content-color);
   max-width: var(--content-width);
@@ -645,6 +663,12 @@ pre[class*=language-] {
   transition: background-color 0.6s;
   box-shadow: 1px 1px 5px 0 rgba(0, 0, 0, 0.02), 1px 1px 15px 0 rgba(0, 0, 0, 0.03);
   transition: transform 0.3s, background-color 0.3s, box-shadow 0.6s;
+}
+@media (max-width: 862px) {
+  .podcast-box {
+    max-width: 430px;
+    width: 100%;
+  }
 }
 
 .player-wrapper {
@@ -660,6 +684,7 @@ pre[class*=language-] {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
     min-height: 430px;
+    max-width: 430px;
   }
 }
 

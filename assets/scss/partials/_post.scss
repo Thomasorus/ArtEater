@@ -27,6 +27,9 @@
       filter: grayscale(100%) contrast(1);
       mix-blend-mode: var(--blend);
       display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
     }
 
     &:empty {
