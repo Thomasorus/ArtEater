@@ -128,7 +128,7 @@
 }
 
 .podcast-banner {
-  filter: grayscale(100%) blur(1.5px) contrast(1);
+  filter: grayscale(100%) contrast(1);
   mix-blend-mode: var(--blend);
   position: absolute;
   top: 0;
