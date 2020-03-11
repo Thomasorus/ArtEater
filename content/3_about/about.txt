@@ -29,12 +29,9 @@ Phone: +49 1234 5678
 
 Social:
 
--
+- 
   platform: Twitter
-  url: https://twitter.com/getkirby
--
-  platform: Instagram
-  url: https://instagram.com/getkirby
+  url: https://twitter.com/ArtEaterPodcast
 
 ----
 
