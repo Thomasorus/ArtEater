@@ -6,7 +6,6 @@ type: pages
 headline: Authors
 parent: kirby.page("authors")
 size: tiny
-layout: cards
 template: author
 empty: No authors yet
 image:
