@@ -11,16 +11,17 @@
   </div>
 
   <footer class="footer">
-    <div class="footer__copyright">
-    <a href="<?= url() ?>">&copy; <?= date('Y') ?> / <?= $site->title() ?></a>
-</div>
+ 
     <?php if ($about = page('about')): ?>
     <nav class="footer__links">
       <?php foreach ($about->social()->toStructure() as $social): ?>
-      <a href="<?= $social->url() ?>"><?= $social->platform() ?></a>
+      <a href="<?= $social->url() ?>">Follow us on <?= $social->platform() ?></a>
       <?php endforeach ?>
     </nav>
     <?php endif ?>
+       <div class="footer__copyright">
+    <a href="<?= url() ?>">&copy; <?= date('Y') ?> / <?= $site->title() ?></a>
+</div>
   </footer>
 
 </body>
