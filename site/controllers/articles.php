@@ -2,7 +2,7 @@
     return function($page) {
 
     // fetch the basic set of pages
-    $articles = $page->children()->listed()->flip();
+    $articles = $page->children()->listed()->sortBy('date', 'desc');
 
     // fetch all tags
     $tags = $articles->pluck('tags', ',', true);

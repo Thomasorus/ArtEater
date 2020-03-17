@@ -16,7 +16,7 @@
   <?php snippet('intro') ?>
 
   <div class="home-grid">
-      <?php   if ($podcasts = page('podcasts')->children()->listed()->flip()): ?>
+      <?php   if ($podcasts = page('podcasts')->children()->sortBy('date', 'asc')->listed()->slice(1)): ?>
       <div class="articles">
         <div class="posts">
           <?php foreach ($podcasts as $podcast): ?>
@@ -34,7 +34,7 @@
       <?php endif; ?>
 
 
-    <?php   if ($articles = page('articles')->children()->listed()->flip()): ?>
+    <?php   if ($articles = page('articles')->children()->sortBy('date', 'asc')->listed()->slice(1)): ?>
     <div class="articles">
       <?php foreach ($articles as $article): ?>
 

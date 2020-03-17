@@ -13,8 +13,9 @@
           <a class="post-card__link" href="<?= $podcast->url() ?>">Keep Reading →</a>
         </article>
       </div>
+       <?php endforeach ?>
     </div>
-    <?php endforeach ?>
+   
   </div>
 </main>
 
