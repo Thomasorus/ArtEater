@@ -33,9 +33,12 @@ columns:
             time: true
             default: now
           author:
-            type: users
-          # Fields types can be added using the shortcut `fieldname: true`
-          # (however, you can only use a fieldname once per page and this only makes sense for simple fields without configuration)
+            label: Author
+            type: select
+            options: query
+            query:
+              fetch: site.children.find("authors").children
+              value: "{{ page.name }}"
           tags: true
           podcast:
             type: url
