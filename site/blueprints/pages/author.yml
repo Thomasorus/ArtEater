@@ -36,7 +36,10 @@ columns:
     width: 1/3
     sections:
       photo:
-        layout: cards
-        label: Profile Picture
-        icone: image
-        type: files
+        type: fields
+        fields:
+          photo:
+            layout: cards
+            label: Profile Picture
+            icone: image
+            type: files
