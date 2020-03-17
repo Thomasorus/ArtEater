@@ -16,10 +16,8 @@
   <?php snippet('intro') ?>
 
   <div class="home-grid">
-      <?php   if ($podcasts = page('podcasts')->children()->sortBy('date', 'asc')->listed()->slice(1)): ?>
       <div class="articles">
         <div class="posts">
-          <?php foreach ($podcasts as $podcast): ?>
           <div class="post-card content-box content-box--small" style="margin:0;">
             <img src="/assets/art-eaterpodcast.jpg" alt="">
             <article class="post-card__content">
@@ -29,15 +27,8 @@
             </article>
           </div>
         </div>
-        <?php endforeach ?>
       </div>
-      <?php endif; ?>
-
-
-    <?php   if ($articles = page('articles')->children()->sortBy('date', 'asc')->listed()->slice(1)): ?>
     <div class="articles">
-      <?php foreach ($articles as $article): ?>
-
       <div class="post-card content-box">
         <div class="post-card__header">
           <img aria-hidden="true" srcset="<?= $article->coverimage()->toFile()->srcset([
@@ -64,11 +55,7 @@
             →</a>
         </article>
       </div>
-      <?php endforeach ?>
     </div>
-    <?php endif; ?>
-
-   
 
 </main>
 
