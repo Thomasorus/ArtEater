@@ -6,7 +6,7 @@
     <?php foreach ($articles as $article): ?>
 
     <div class="post-card content-box">
-      <div class="post-card__header">
+      <div class="post__header">
         <img aria-hidden="true" srcset="<?= $article->coverimage()->toFile()->srcset([
                     '550w' => [
                         'width' => 430,
