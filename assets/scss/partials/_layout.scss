@@ -121,3 +121,17 @@
     grid-template-columns: 1fr;
   }
 }
+
+.author {
+  min-height: 250px;
+}
+
+.author-pic {
+  width: 33%;
+  float: left;
+  margin: 0 20px 20px 0;
+
+  img {
+    width: 100%;
+  }
+}

@@ -8,7 +8,24 @@
       
       <?= $page->text()->kt() ?>
     
+    <?php if($authors != null): ?>
+    <h2>The Team</h2>
+    <?php foreach ($authors as $author): ?>
+      <div class="author">
+           <h3><?= $author->name(); ?></h3>
+
+        <div class="author-pic">
+          <?= $author->photo()->toFile(); ?>  
+        </div>
+        <div>
+         
+          <?= $author->bio()->kt(); ?>
+        </div>
+      </div>
+    <?php endforeach ?>
+  <?php endif ?>
     </div>
-  </a>
+    
+  
 </main>
 <?php snippet('footer') ?>
