@@ -6,20 +6,15 @@ Text: Art eater is a blog dedicated to in depth discussion of visual art in all 
 
 ----
 
-Address:
-
-Mægazine Inc.
-Sesamestreet 1
-Gotham City
-USA
+Address: 
 
 ----
 
-Email: mail@maegazine.com
+Email: 
 
 ----
 
-Phone: +49 1234 5678
+Phone: 
 
 ----
 
