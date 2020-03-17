@@ -7,6 +7,7 @@ title: Site
 # More about the site blueprint: https://getkirby.com/docs/reference/panel/blueprints/site
 
 # The layout of this form has two columns:
+
 columns:
   # The first column has one section for the subpages of the `photography` page in card layout
   # It reuses the pages section defined in `/site/blueprints/sections/albums.yml`
@@ -34,3 +35,8 @@ columns:
           - about
           - home
           - default
+  - width: 1/1
+    fields:
+      description:
+        label: Website description
+        type: text
