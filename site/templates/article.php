@@ -5,7 +5,7 @@
       <div class="post-meta">
         Posted <time><?= $page->date()->toDate('d F Y') ?></time>
         <br aria-hidden="true" />
-        By <?= $page->author()->toUser()->name(); ?>
+        By <?= $page->author()->name(); ?>
         <!-- <div>
             <strong>{timeToRead} min read.</strong>
           </div> -->
@@ -30,8 +30,8 @@
       <div class="post__footer">
         <div>
           <h2>Enjoyed this article?</h2>
-          Follow <strong><?= $page->author()->toUser()->name(); ?></strong> on <a
-            href="https://twitter.com/<?= $page->author()->toUser()->twitter(); ?>">Twitter</a>.
+          Follow <strong><?= $page->author()->name(); ?></strong> on <a
+            href="https://twitter.com/<?= $page->author()->twitter(); ?>">Twitter</a>.
         </div>
         <div>
           <h2>Read more about...</h2>

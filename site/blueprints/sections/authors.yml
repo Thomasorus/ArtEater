@@ -1,0 +1,14 @@
+# This section blueprint defines a pages section that can be reused across multiple blueprints
+# or multiple times within the same blueprint, see `/site/blueprints/pages/photography.yml`  and `/site/blueprints/site.yml`
+# Sections can have different layouts and display additional information or a preview image
+# More about pages sections: https://getkirby.com/docs/reference/panel/sections/pages
+type: pages
+headline: Authors
+parent: kirby.page("authors")
+size: tiny
+layout: cards
+template: author
+empty: No authors yet
+image:
+  cover: true
+  ratio: 5/4

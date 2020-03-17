@@ -25,7 +25,7 @@
         <p class="post-card__description"><?= $article->text()->excerpt(220); ?></p>
         <div class="post-meta">
           Posted <time><?= $article->date()->toDate('d F Y') ?></time>
-          <br>By <strong><?= $article->author()->toUser()->name(); ?></strong>
+          <br>By <strong><?= $article->author()->name(); ?></strong>
         </div>
         <a class="post-card__link" href="<?= $article->url() ?>">Keep Reading
           →</a>
