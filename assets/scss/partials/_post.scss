@@ -31,40 +31,7 @@
       height: 100%;
       object-fit: cover;
     }
-
-    &:empty {
-      display: none;
-    }
   }
-
-  &__content {
-    h2:first-child {
-      margin-top: 0;
-    }
-
-    p:first-of-type {
-      font-size: 1.2em;
-      color: var(--title-color);
-    }
-
-    img {
-      display: block;
-      max-width: 100%;
-      margin: auto;
-    }
-  }
-}
-
-.post-comments {
-  padding: calc(var(--space) / 2);
-
-  &:empty {
-    display: none;
-  }
-}
-
-.post-author {
-  margin-top: calc(var(--space) / 2);
 }
 
 .post figure {

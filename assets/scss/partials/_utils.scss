@@ -1,11 +1,3 @@
-.text-center {
-  text-align: center;
-}
-
-.space-bottom {
-  margin-bottom: var(--space);
-}
-
 .toggle-theme {
   background-color: transparent;
   border: 0;
@@ -24,17 +16,4 @@
   &:hover {
     opacity: 0.8;
   }
-  &:focus {
-    outline: none;
-  }
-}
-
-.center-text {
-  text-align: center;
-}
-
-.hide {
-  visibility: hidden;
-  height: 0;
-  width: 0;
 }

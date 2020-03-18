@@ -51,11 +51,6 @@
   }
 }
 
-.main {
-  margin: 0 auto;
-  padding: 1.5vw 15px 0;
-}
-
 .footer {
   display: flex;
   align-items: center;
@@ -64,10 +59,6 @@
   padding: calc(var(--space) / 2);
   text-align: center;
   font-size: 0.8em;
-
-  > span {
-    margin: 0 0.35em;
-  }
 
   a {
     color: currentColor;
@@ -78,21 +69,6 @@
   color: var(--body-color) !important;
   font-size: 0.9em;
   margin: 10px;
-
-  &__image {
-    vertical-align: middle;
-    // border-radius: 99px;
-    height: 40px;
-    width: 40px;
-    margin-right: 0.5em;
-  }
-}
-
-.readmore {
-  border: 1px solid var(--brand);
-
-  text-decoration: none;
-  padding: 10px 15px;
 }
 
 .navbar {

@@ -176,32 +176,6 @@
   cursor: pointer;
 }
 
-.reset-icon {
-  /* An open circle */
-  position: relative;
-  width: 15px;
-  height: 15px;
-
-  border: 5px solid #333;
-  border-radius: 50%;
-  border-right-color: transparent;
-}
-
-.reset-icon::after {
-  /* An arrow at the end of the circle */
-  content: "";
-  position: absolute;
-
-  border: 10px solid #ffffff;
-  top: -5px;
-  left: 8px;
-
-  border-bottom-color: #333;
-  border-top-width: 0;
-  border-right-width: 0;
-  border-left-color: transparent;
-}
-
 .back-icon {
   /* This: < */
   height: 20px;
