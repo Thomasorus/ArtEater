@@ -1,15 +1,9 @@
 .header {
   display: flex;
   justify-content: space-between;
-  align-items: center;
   font-family: "Raleway", sans-serif;
-  font-weight: 800;
-  line-height: 1.15;
   background-color: var(--headerbg);
-  min-height: var(--header-height);
   padding: 0 calc(var(--space) / 2);
-  top: 0;
-  z-index: 10;
 
   &__left,
   &__center,
@@ -24,7 +18,7 @@
       height: 40px;
       width: 40px;
     }
-    @media screen and (min-width: 480px) {
+    @media screen and (min-width: 520px) {
       .logo {
         height: 80px;
         width: 80px;
@@ -39,10 +33,14 @@
   }
   &__center ul {
     display: flex;
-    flex-flow: row nowrap;
+    flex-flow: row wrap;
     justify-content: center;
     align-items: center;
     list-style: none;
+
+    @media screen and (min-width: 420px) {
+      flex-flow: row wrap;
+    }
   }
 
   &__center a {
@@ -50,12 +48,6 @@
     @media screen and (max-width: 480px) {
       padding: 0;
     }
-  }
-
-  @media screen and (min-width: 1300px) {
-    //Make header sticky for large screens
-    position: sticky;
-    width: 100%;
   }
 }
 
