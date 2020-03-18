@@ -1,31 +1,35 @@
 .text-center {
-	text-align: center;
+  text-align: center;
 }
 
 .space-bottom {
-	margin-bottom: var(--space);
+  margin-bottom: var(--space);
 }
 
 .toggle-theme {
-	background-color: transparent;
-	border: 0;
-	color: var(--brand);
-	cursor: pointer;
-  
-	&:hover {
-	  opacity: .8
-	}
-	&:focus {
-	  outline: none;
-	}
+  background-color: transparent;
+  border: 0;
+  color: var(--brand);
+  cursor: pointer;
+  width: 100px;
+  height: 100px;
+  padding: 0;
+  margin: 0;
+
+  &:hover {
+    opacity: 0.8;
+  }
+  &:focus {
+    outline: none;
+  }
 }
-	
+
 .center-text {
-	text-align: center
+  text-align: center;
 }
 
 .hide {
-	visibility: hidden;
-	height: 0;
-	width: 0;
+  visibility: hidden;
+  height: 0;
+  width: 0;
 }
