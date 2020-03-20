@@ -1,8 +1,8 @@
-Title: Thomas Loreille
+Title: Thomasorus
 
 ----
 
-Name: Thomas Loreille
+Name: Thomasorus
 
 ----
 
@@ -18,6 +18,4 @@ Bio: Just a French guy with a degree in Art who decided doing websites was more 
 
 ----
 
-Photo:
-
-- pbp2bus0_400x400.jpg
+Photo: - pbp2bus0_400x400.jpg
