@@ -2,7 +2,19 @@ Title: About
 
 ----
 
-Text: Art eater is a blog dedicated to in depth discussion of visual art in all forms.  For the most part I’ll be concentrating on Videogames, Comics and Animation and how they relate to art history and culture–really!  Think of it as art edutainment.  Like if PBS did shows about your favorite cartoons and games.
+Text:
+
+Art eater is a blog dedicated to in depth discussion of visual art in all forms.  For the most part I’ll be concentrating on Videogames, Comics and Animation and how they relate to art history and culture–really!  Think of it as art edutainment.  Like if PBS did shows about your favorite cartoons and games.
+
+## About the website
+
+Art Eater uses (link: https://getkirby.com/ text: Kirby CMS). 
+
+(image: kirby-logo.svg)
+
+Kirby is a flat-file CMS (no database) using the PHP language. Kirby is an open source project made in Germany, supported by a friendly community and a fair license model. Extremely easy to setup and configure, almost low-tech and without frills compared to competing solutions.
+
+**Art Eater benefits from a license to use Kirby offered by its development team as part of its support program for non-profit organizations. **
 
 ----
 
