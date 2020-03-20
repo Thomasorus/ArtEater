@@ -9,7 +9,8 @@
         
     // add the tag filter
     if($tag = param('tag')) {
-        $articles = $articles->filterBy('tags', $tag, ',');
+        $cleanedTag = str_replace('%20', ' ', $tag);
+        $articles = $articles->filterBy('tags', $cleanedTag, ',');
     }
 
     // apply pagination
