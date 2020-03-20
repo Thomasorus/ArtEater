@@ -64,6 +64,16 @@
     color: currentColor;
   }
 }
+
+.footer__sponsor {
+  display: flex;
+  flex-flow: column nowrap;
+  padding: 20px;
+
+  svg {
+    fill: var(--title-color);
+  }
+}
 .logo {
   text-decoration: none;
   color: var(--body-color) !important;
