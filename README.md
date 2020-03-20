@@ -48,3 +48,7 @@ To launch the website locally without relying on apache or nginx, use php:
 cd /site/folder
 php -S localhost:8000 kirby/router.php
 ```
+
+## Credits
+
+The website design was initially based on the [Gridsome blog starter](https://github.com/gridsome/gridsome-starter-blog). Even if the design is now very different, some parts of the code (mostly html and css) and design choices were inherited from it.
