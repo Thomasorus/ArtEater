@@ -30,5 +30,4 @@ pages:
 # List of all available field types: https://getkirby.com/docs/reference/panel/fields
 fields:
   text:
-    type: textarea
-    size: huge
+    type: markdown

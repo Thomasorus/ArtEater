@@ -29,7 +29,7 @@ columns:
             placeholder: @username
           bio:
             label: Biography
-            type: textarea
+            type: markdown
 
   # sidebar
   sidebar:

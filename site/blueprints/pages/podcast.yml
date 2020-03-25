@@ -18,7 +18,7 @@ columns:
     # This columns only has a single field
     fields:
       text:
-        type: textarea
+        type: markdown
         size: large
 
   - width: 1/3
