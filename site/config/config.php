@@ -24,6 +24,13 @@ return [
         'quality' => '80',
         'interlace' => true
     ],
+    'community.markdown-field.buttons'    => ['headlines' => ['h2', 'h3'], 'bold', 'italic', 'strikethrough', 'blockquote', 'ul', 'ol', 'divider',  'link', 'email', 'divider', 'image'],
+    'community.markdown-field.font'       => [
+        'family'  => 'sans-serif',
+        'scaling' => true,
+        'size'    => 'small',
+    ],
+    'community.markdown-field.blank'      => true,
     'pedroborges.meta-tags.default' => function ($page, $site) {
         return [
             'title' => $site->title() . " | " . $page->title(),
@@ -146,4 +153,3 @@ return [
         ];
     }
 ];
-
