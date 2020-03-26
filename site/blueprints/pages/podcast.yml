@@ -39,6 +39,10 @@ columns:
             query:
               fetch: site.children.find("authors").children
               value: "{{ page.name }}"
-          tags: true
+          tags:
+            label: Tags
+            type: tags
+            options: query
+            query: page.siblings.pluck("tags", ",", true)
           podcast:
             type: url

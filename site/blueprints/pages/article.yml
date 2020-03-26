@@ -31,6 +31,7 @@ columns:
           coverimage:
             layout: cards
             label: Head image
+            required: true
             type: files
             multiple: false
             query: page.images
@@ -45,7 +46,11 @@ columns:
             query:
               fetch: site.children.find("authors").children
               value: "{{ page.name }}"
-          tags: true
+          tags:
+            label: Tags
+            type: tags
+            options: query
+            query: page.siblings.pluck("tags", ",", true)
 
   # main
   main:
