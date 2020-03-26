@@ -4,7 +4,7 @@ Title: Announcing "Dragon's Crown"!
 
 Coverimage:
 
-- knight_psd_jpgcopy.jpg
+- header_image_knight_psd_jpgcopy.jpg
 
 ----
 
@@ -16,7 +16,7 @@ Author: Richmond Lee
 
 ----
 
-Tags: vanillaware, dragon's crown
+Tags: Vanillaware, Dragon's Crown
 
 ----
 
