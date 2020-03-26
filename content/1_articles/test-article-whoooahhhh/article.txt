@@ -1,0 +1,56 @@
+Title: Test Article - WHOOOAHHHH
+
+----
+
+Coverimage:
+
+- naga_neon_temple.gif
+
+----
+
+Date: 2020-03-25 18:00
+
+----
+
+Author: Richmond Lee
+
+----
+
+Tags: Sample tag
+
+----
+
+Text:
+
+# Heading 1
+Test hoho!
+(image: 2009_vs_2019_ff7_remake_popeye_liveaction.jpg)
+
+Lets see if gifs work
+(image: slowmo_sol_punch_ky.gif)
+
+Lets try uploading another way ...
+(image: chunny-cvs2-run.gif)
+
+## Heading 2
+**Bold text!**
+*Italic Text!*
+
+(link: https://www.art-eater.com/ text: LINK)
+
+Image with captions
+(image: mkx_blur_frame.jpg caption: I am captioning this image)
+
+Ah man this is awesome!!
+
+### Heading 3
+
+Now for YouTube!
+(youtube: https://www.youtube.com/watch?v=2kwYUpByTsU)
+Hell yeah that was so easy!!
+
+Lets try Vimeo
+(vimeo: https://vimeo.com/16338950)
+Heck yeah it worked!
+
+This is so great! Leagues better than Wordpress. This is awesome! Thank you so much Thomas!!
