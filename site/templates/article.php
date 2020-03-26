@@ -5,7 +5,7 @@
       <div class="post-meta">
         Posted <time><?= $page->date()->toDate('d F Y') ?></time>
         <br aria-hidden="true" />
-        By <?= $page->author()->name(); ?>
+        By <?= $page->author(); ?>
         <!-- <div>
             <strong>{timeToRead} min read.</strong>
           </div> -->
@@ -30,8 +30,12 @@
       <div class="post__footer">
         <div>
           <h2>Enjoyed this article?</h2>
-          Follow <strong><?= $page->author()->name(); ?></strong> on <a
-            href="https://twitter.com/<?= $page->author()->twitter(); ?>">Twitter</a>.
+          <?php 
+            $author = $site->children()->find('authors')->children()->filterBy('name', $page->author());
+           foreach($author as $auth): ?>
+                  Follow <strong><?= $auth->name(); ?></strong> on <a
+            href="https://twitter.com/<?= $auth->twitter(); ?>">Twitter</a>.
+           <?php endforeach; ?>
         </div>
         <div>
           <h2>Read more about...</h2>
