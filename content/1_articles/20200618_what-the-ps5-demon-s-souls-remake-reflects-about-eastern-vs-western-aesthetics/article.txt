@@ -1,0 +1,128 @@
+Title: What the PS5 Demon's Souls Remake Reflects About "Eastern" vs "Western" Aesthetics
+
+----
+
+Coverimage:
+
+- >
+  00_art-eater_demon-s_souls_ps5_remake_vs_original_vanguard_demon_from_software.jpg
+
+----
+
+Date: 2020-06-18 16:50
+
+----
+
+Author: Richmond Lee
+
+----
+
+Tags: Demon's Souls, From Software, Souls
+
+----
+
+Text:
+
+Some quick thoughts on the Demon’s Souls Remaster, specifically on the Vanguard Demon and what it reflects of “Eastern” vs “Western” sensibilities in a broad sense. I know it’s a fool’s errand trying to gasp at such huge, nebulous concepts, but I’m just stupid enough to try!
+
+But first, some context! On June 11, 2020 Sony officially unveiled the Playstation 5 console. 
+(youtube: https://www.youtube.com/watch?v=RuLci-lSeCo)
+
+One of the first games announced for it was a remaster of Demon’s Souls, the first of From Software’s legendary “Souls” games. 
+(youtube: https://www.youtube.com/watch?v=2TMs2E6cms4)
+
+Fun fact: Demon’s Souls itself was a spiritual successor to From Software’s earlier RPG series, King’s Field, which originated on the PS1 in 1994, but that’s a topic for another day!
+(image: 01_art-eater_kingsfield.jpg)
+
+When I first laid eyes on this screenshot from the Demon’s Souls Remaster, without knowing exactly what it was or who was making it, my immediate reaction was “it looks nice, but it looks so … Western!” 
+(image: demon-s_souls_psv_remake_vanguard_demon_smaller_image.jpg)
+
+This was just a gut reaction. It happened in a split second with no conscious deliberation. I later found out that the game is being developed by Bluepoint Games, who are based out of Austin Texas. 
+(image: 02_bluepoint_games.jpg)
+
+Now, I want to emphasize, when I say “Western” I don’t mean “inferior.” I’m not writing this to throw shade on Bluepoint Games. I think they’re a great studio with a fine track record of games. Yes the previous "Shadow of the Colossus" remaster that they developed was controvorsial, but the aesthetic changes that people took issue with weren’t due to any lack of skill, but rather a difference in aesthetic sensibilities. It’s that difference in sensibilities that I’m trying to get to the heart of here.
+(image: 617983-demon-s-souls-playstation-3-screenshot-you-can-talk-to-other.jpg)
+
+Back during the PS3 era, many people would have easily mistaken Demon’s Souls for a Western game. At the time, Japanese RPGs were synonymous with anime or Square’s unique brand of J-pop/K-pop/bijin aesthetics. I recall many people even steadfastly claiming that “Demon’s Souls is NOT a Jay Ar Pee Gee!” They would also go on to make this claim about Dark Souls and other From Software games, and well, probably anything Japanese that they will ever like.
+(image: 03_art-eater_demon-s_souls_jrpg_or_wrpg_debate.jpg)
+
+But fast forward a decade, and now we have a generation of Western fans and devs who can feel this subtle difference in “Eastern” and “Western” aesthetics. So what does it mean? Why are so many people having this reaction?
+(image: 04_art-eater_demon-s_souls_jrpg_or_wrpg_twitter_screencap.jpg)
+
+OK! Let’s dive into that Vanguard Demon! 
+
+Here’s a side by side comparison of the original Vanguard Demon vs the one in the remake. 
+(image: 05_art-eater_demon-s_souls_vanguard_demon_original_vs_remake.jpg)
+
+Both are scary, corpulent Demons with three eyes and two horns, wielding an axe, with stubby wings. And yet they feel very different. The one on the left has a distinct Japanese flavor to it, while the one on the right feels distinctly North American. 
+
+The original Vanguard Demon is grotesque, but also a little bit derpy, and dare I say … cute? While the redesign is more straightforwardly scary and gross. It feels a bit “safe” or expected by comparison. 
+
+The original Vanguard Demon has a very distinct face. It’s the first boss you fight in Demon’s Souls and it’s smooth, bell shaped head recalls a classic medieval executioner’s hood. The fact that it wields an axe further cements that connection. 
+(image: 06_art-eater_demon-s_souls_vanguard_demon_executioner.jpg)
+
+But let’s go deeper!
+
+Beyond the executioner, the Vanguard Demon’s face recalls that of the God Warrior from Nausicaa, a gigantic demonic monster that laid the previous world to waste (ring a bell?). It has the same ball shape, glowing circular eyes and notably the same row of large, cartoony fangs, hanging like stalagtites from the roof of it’s mouth. The teeth are intentionally more ornamental than functional. 
+(image: 07_art-eater_demon-s_souls_vanguard_demon_god_warrior_nausicaa.jpg)
+
+Nausicaa isn’t the most famous of Hayao Miyazaki’s work in the Anglosphere, but it’s a work of legendary renown in Japan. I am fully confident of my comparison here, because there’s simply no way that a team of Japanese game developers who lived through the 80s are not aware of (and likely deeply influenced by) Nausicaa. 
+
+On top of all that, the original design for the Vanguard Demon also feels a lot more influenced by pre-90s Western fantasy art. It wouldn’t look out of place in early Warhammer Fantasy. And it’s combination of cute and grotesque is also very much in line with the aesthetics of Brian Froud. In general, Japanese fantasy aesthetics (well, the pre-isekai stuff anyway) takes a TON of influence from Western fantasy art, both classical and pop cultural, up through the early 90s. 
+(image: 08_art-eater_demon-s_souls_vanguard_demon_gamesworshop_warhammer_fantasy_80s_brian_froud_art_the_laybrinth.jpg)
+
+In fact, I’d say that’s one of the factors that makes “Japanese” games feel “Japanese” is their continued dedication to older Western fantasy aesthetics. If it looks like early Games Workshop or Jim Henson’s Creature Shop, chances are it’s probably a Japanese game!
+(image: 09_art-eater_demon-s_souls_japanese_fantasy_art_brian_froud_art_the_laybrinth.jpg)
+
+So now, let’s take a look the redesigned Vanguard Demon and what may have motivated the design changes. The smoothed out face of the original has been replaced with a more standard grotesque undead face. It has a more clear humanoid skull shape to it, and it’s skin has been flayed. The exposed teeth are also much more organic looking. One could say more “realistic.” They look more like teeth that might naturally form in a predatory animal rather than the willfully artificial arrangement of the original. 
+(image: 10_art-eater_demon-s_souls_vanguard_demon_original_vs_remake.jpg)
+
+The God Warrior motif is completely absent. The executioner motif as well. Instead the Vanguard Demon has shackles. So rather than a "vanguard" leader figure, it recalls a prisoner.
+(image: 06_art-eater_demon-s_souls_vanguard_demon_executioner_comparison.jpg)
+
+The integument of the Vanguard Demon has also been updated. The original design has an amphibious feel to it. It felt like a muscular toad, with thick, damp, leathering skin. It’s spikes similarly feel like the spikes of a reptile or amphibian. The kind that grow out of the skin and not bone. 
+(image: 11_art-eater_demon-s_souls_vanguard_demon_mustache_toad.jpg)
+
+The updated Vanguard Demon has spikes that look more like horns, growing out of bone. 
+(image: 12_art-eater_demon-s_souls_vanguard_demon_remake_horns.jpg)
+
+Additionally, its skin recalls a decaying corpse. It’s covered in boils and looks undead. I’m guessing it was also heavily influenced by Games Workshop aesthetics, in this case drawing upon “The Great Unclean One” Nurgle from Warhammer.
+
+There are several compelling reasons for why they may have made this change. First off, Nurgle, one of the major Chaos gods of Games Workshop, may have also been an influence on the original Vanguard Demon. 
+(image: 13_art-eater_demon-s_souls_vanguard_demon_nurgle.jpg)
+
+Furthermore, you encounter the Vanguard Demon twice in Demon’s Souls. First in the Tutorial stage and then again early on in the Shrine of Storms. The Vanguard serves as the mini boss, while the actual boss of the stage is the Adjudicator Demon, and lemme tell ya, this guy was DEFINITELY inspired by Nurgle. 
+(image: 14_art-eater_demon-s_souls_adjudicator_demon_nurgle.jpg)
+
+While it shares an amphibious theme with the Vanguard Demon (and takes it even further with its incredibly long tongue) the Adjudicator Demon also has a giant gaping wound! That combined with its immense girth and overall grotesquery indicate to me that Nurgle was an influence on the Adjudicator. 
+
+So perhaps these changes were made to the Vanguard Demon to make it feel more aligned with the Adjudicator. Take a look at the revised bottom lip of the Vanguard Demon. It now looks much more similar to the Adjudicator’s disgusting meat flaps! So what initially seemed like arbitrary departures from the source design may turn out to be a deliberate attempt to unify the look of the Vanguard and Adjudicator!
+(image: 15_art-eater_demon-s_souls_adjudicator_demon_vanguard.jpg)
+
+Alright! That’s all the energy I have for today. Man, why was I writing this? … Ah yes! We were talking about the differences between “Japanese” and “Western” aesthetics as demonstrated in the original Demon’s Souls vs the Remake. So what were some of the palpable differences here? 
+
+1. The original Japanese design is monstrous, but also a bit weird and funny. The redesign drops the derpiness and leans heavier into the grotesque.
+
+2. The original Vanguard Demon looks like a creature that thrives in the blight. The redesigned Vanguard Demon looks like an undead cadaver afflicted with the blight.
+
+3. The original Japanese design draws on cultural touchstones like Nausicaa that aren’t as obvious to a Western audience.
+
+4. The original Japanese design also draws more on older (pre 2000s) Western Fantasy aesthetics. The  redesign draws on more recent Western fantasy sensibilities spearheaded by industry leaders like Blizzard and ConceptArt.org
+
+(image: 16_art-eater_demon-s_souls_vanguard_demon_comparison_old_new_influences_east_vs_west.jpg)
+
+So there you have it. The difference in aesthetic sensibilities between the OG Demon’s Souls and the Remake can largely be attributed to generational differences and the preferences therein. The original Demon’s Souls team is hugely influenced by both Japanese and Western art of the 70s and 80s. Meanwhile it looks like the team behind the remaster are more influenced by more recent Japanese and Western games.
+
+Isn’t it nice how much one can gleam from a single image? 
+
+So does this wall of word vomit make sense to you? Am I reading too much into things? Is anything unclear? Feel free to chime in on Twitter! And if you enjoyed this article, please share it and follow me for more fun analysis and discussion in the future. 
+
+LOVE & PEACE!
+
+***BONUS MUSINGS***
+
+The "divide" between "Eastern" and "Western" art is not really a divide at all. It's a deep current that's been flowing back and fourth for much longer than people realize. We only just barely scratched the surface of how Japanese fantasy aesthetics are so heavily influenced by Western fantasy art of the 80s and 90s and earlier. And everyone knows that Dungeon's and Dragons laid down the foundations for fantasy gaming globally. But did you know that many classic D&D monsters were based off of Ultraman monsters? That's right! Back in the 70s, the creators of D&D liked to collect Chinese bootleg Kaiju toys. They had no idea where they were from, so they made up their own backstories for them! 
+
+You can read more about that history here:
+(image: 18_art-eater_demon-s_souls_d-d_monsters_inspired_by_ultraman_kaiju_toys.jpg)
+Source: (link: https://diterlizzi.com/essay/owlbears-rust-monsters-and-bulettes-oh-my/ text: https://diterlizzi.com/essay/owlbears-rust-monsters-and-bulettes-oh-my/ target: _blank)
