@@ -35,12 +35,12 @@
   </div>
 
 <nav class="pagination">
-  <?php if($pagination->hasPrevPage()): ?>
-  <a href="<?= $pagination->prevPageUrl() ?>">previous posts</a>
+<?php if($pagination->hasNextPage()): ?>
+  <a href="<?= $pagination->nextPageUrl() ?>">« Previous articles</a>
   <?php endif ?>
 
-  <?php if($pagination->hasNextPage()): ?>
-  <a href="<?= $pagination->nextPageUrl() ?>">next posts</a>
+  <?php if($pagination->hasPrevPage()): ?>
+  <a href="<?= $pagination->prevPageUrl() ?>">Next articles »</a>
   <?php endif ?>
 </nav>
 </main>

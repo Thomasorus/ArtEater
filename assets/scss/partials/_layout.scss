@@ -114,3 +114,13 @@
     width: 100%;
   }
 }
+
+
+.pagination {
+  max-width: var(--content-width);
+  margin: 0 auto var(--space) auto;
+  // padding: var(--space);
+  display: flex;
+flex-flow: row nowrap;
+justify-content: space-evenly;
+}
