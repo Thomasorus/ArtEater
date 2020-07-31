@@ -30,12 +30,18 @@
       <div class="post__footer">
         <div>
           <h2>Enjoyed this article?</h2>
+          <p>
           <?php 
             $author = $site->children()->find('authors')->children()->filterBy('name', $page->author());
            foreach($author as $auth): ?>
                   Follow <strong><?= $auth->name(); ?></strong> on <a
-            href="https://twitter.com/<?= $auth->twitter(); ?>">Twitter</a>.
+            href="https://twitter.com/<?= $auth->twitter(); ?>">Twitter</a>!
            <?php endforeach; ?>
+           </p>
+           <p>Please check out our <a href="https://art-eater.com/articles">back catalogue</a> of articles!</p>
+          <p>If you have some time on your hands, check out <a href="https://art-eater.com/podcasts">our weekly podcast</a>!</p>
+           <p>And you can keep up with the Art-Eater Podcast on Twitter
+            <a href="https://twitter.com/ArtEaterPodcast">here</a>! </p>
         </div>
         <div>
           <h2>Read more about...</h2>
