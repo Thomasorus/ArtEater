@@ -1,0 +1,241 @@
+Title: The Real Life Inspirations Behind Lab Zero's Indivisible
+
+----
+
+Coverimage:
+
+- >
+  indivisible_opening_gif_ajna_art-eater.gif
+
+----
+
+Date: 2015-11-12 09:15
+
+----
+
+Author: Richmond Lee
+
+----
+
+Tags: Indivisible, Art History Analysis, Lab Zero, Mythology, Buddhism, Hinduism, South East Asia
+
+----
+
+Text:
+
+***Special Note from Richmond:*** 
+*I originally wrote this article in 2015, four years before the official release of Indivisble. At the time I had no connection to LabZero or Indivisible. I was just a fan admiring it from afar. A few years later, I actually ended up working on the game, helping mostly with NPC and boss character animations. My writing this article had absolutely no bearing on their decision to work with me as a contractor (I was hired after anonymously submitting a test animation). Neither has my experience working on the game influenced this article, as this was written and posted years before my direct involvement with Indivisible.*
+
+***Everything you read here is purely extrapolated from the character designs with no special behind-the-scenes knowledge.* **
+
+*I would also like to say that the Art team at Lab Zero were a joy to work with. They were consumate professionals who knew what they wanted and how to get there. Very passionate, capable, reasonable, respectful people to work with. I wish them the best of luck as they (link: https://www.gamesindustry.biz/articles/2020-09-04-lab-zero-games-lays-off-remaining-employees#:~:text=Skullgirls%20studio%20turns%20to%20redundancies,behaviour%20of%20owner%20Mike%20Zaimont&text=Skullgirls%20developer%20Lab%20Zero%20Games,abuse%20against%20owner%20Mike%20Zaimont. text:  move forward from Lab Zero. target: _blank)*
+
+*Alright, now please enjoy this classic Art-Eater breakdown of the real life inspirations behind Indivisible!*
+
+## Ajna
+
+(image: anja_punching.jpg)
+
+The main character of indivisible is Ajna, a young martial artist who draws on South East Asian cultures for inspiration. In Hindu and Buddhist traditions, “Ajna” is the name of the 6th primary chakra. Chakra are 7 points running down the center of the body that regulate spiritual energy.
+
+(image: art-eater_ajna_indivisible_7_chakras_diagram.jpg)
+
+The Ajna chakra is located between the eyebrows and represents wisdom and intuition. It is believed that spiritual energy enters the body through the Ajna. It is often referred to as the “third eye” and often depicted as such in art. 
+
+(image: art-eater_indivisble_ajna_chakra_bindi.jpg caption: The Ajna chakra appears frequently in Buddhist and Hindu imagery)
+
+Many Buddhists and Hindus wear a bindi, a bright red spot of color applied at the center of the forehead to represent the Ajna chakra.
+
+Ajna has the ability to absorb beings into her body and channel them in battle. They are referred to as Incarnations.
+
+(image: ajna_summoning_incarnations.jpg caption: Ajna activating her third eye and channeling her various incarnations)
+
+The word “incarnation” is often used in English texts on Hinduism to describe the form a deity takes when they manifest on earth. It’s common for important deities to have multiple incarnations with distinct appearances and personalities.
+
+(image: vishnu_avatars.jpg caption: The 10 Incarnations of Vishnu)
+
+Ajna is also able to transform into a Heruka, a powerful wrathful deity. In Buddhism Heruka are divine beings who take on a fierceful form in order to lead people to enlightenment. Heruka are often incarnations of important deities. True to her name, Ajna’s Heruka has a prominent third eye.
+
+(image: art-eater_indivisble_ajna_heruka_tibetan_buddhism.jpg)
+
+In another nod to Buddhism, Ajna wears Buddhist prayer beads on her head.
+
+(image: art-eater_indivisble_ajna_buddhist_prayer_beads.jpg)
+
+Ajna is wearing a kebaya, a traditional Indonesian blouse and skirt combo that often has a square collar.
+
+(image: art-eater_indivisble_ajna_kebaya_indonesian_clothing.jpg)
+
+## Roti
+
+Ajna is accompanied on her quest by a pet named Roti, who looks a bit like the Baku, a spirit from Japanese folklore that has origins in China.
+
+(image: art-eater_indivisble_roti_tapir_baku.jpg)
+
+Baku are often called “dream eaters” because they devour nightmares. They are traditionally depicted as looking very much like tapirs.
+
+The word roti refers to a kind of flatbread originating in India. In South East Asia roti are a popular street food.
+
+(image: thailand_banana_roti.jpg caption: Image originally from: http://www.deliciousfood4u.com/2012/06/what-to-eat-when-in-bangkok/)
+
+## Zebei
+
+(image: art-eater_indivisible_incarnations_character_design_zebei_mongolian_archer_composite_bow_yabusame.jpg)
+
+The first incarnation you get in the Indivisible demo is Zebei the archer. Zebei is a Chinese sounding name. He hails from a nomadic tribe famous for their archery skills. They are probably inspired by Mongolian culture. Zebei looks like he’s using some kind of composite bow. His sleeve resembles those used in Japanese horseback archery.
+
+*Update*
+My good pal Maese has pointed out to me that Zebei (哲別) is also the name of a character from the famous wuxia series, The Legend of Condor Heroes. Zebei is an expert Mongolian archer who teaches the protagonist, Guo Jing, the ways of archery. Zebei is based off of the historical Jebe, who was one of Genghis Khan’s most trusted generals.
+
+## Razmi
+Razmi is a shamaness hermit who practices magic. Razmi is a sanskrit name that means “ray of light.” Razmi is also a common name in Iran, and I believe her design is largely inspired by Persian culture.
+
+(image: art-eater_indivisible_incarnations_character_design_razmi_zoroastrian_shamaness_persian.jpg)
+
+In traditional Persian art, mystics and other persons of power and renown are often depicted wearing the skin of big cats, which denote a high status. This is also a common motif for wise men in Indian and South East Asian art. Razmi wears a tiger skin and is accompanied by a tiger spirit named Bom that lives in her lantern. As long as the flame is lit, Bom remains by her side.
+
+(image: art-eater_indivisible_incarnations_character_design_razmi_zoroastrian_shamaness_persian_eternal_flame_fire_temple.jpg)
+
+This idea may have been inspired by Zoroastrianism, one of the world’s oldest monotheistic religions that originated in ancient Persia. Zoroastrians traditionally worship while facing a flame which represents order, beneficence, honesty, fairness and justice. Zoroastrians originally practised worship at home, but over time they developed permanent places of worship called fire temples. One of the main features of fire temples is an “eternal flame” which burns perpetually and symbolises the passing of knowledge through generations.
+
+*Update *
+
+Thanks to DungeonMaster11 who pointed out that “Razmi” is a Sanskrit name meaning “bright” or “ray of light.” I had previously mistakenly called it a Quranic name, because I had mixed it up with the name “Ramzi.” It’s possible that Razmi is inspired by Indian culture. After the Islamic conquest of Persia (633-654AD) many Zoroastrians fled to India. Zoroastrianism declined greatly in Persia, but continued to flourish in India which now has the greatest population of Zoroastrians in the world. There are currently 177 fire temples in existence, 150 of which are in India.
+
+## Tungar
+(image: art-eater_indivisible_incarnations_character_design_tungar_urumi_kalaripayattu.jpg)
+
+Tungar is a seasoned warrior who wields an “urumi” a flexible, whip like blade. It looks like a fantasy weapon, but it’s actually real! The urumi, also called an “aara” is one of the weapons taught in the ancient Indian martial art of Kalaripayattu.
+
+The urumi is incredibly difficult to master as its very easy to hurt yourself with the weapon! Tungar wears his Urumi as a turban wrapped around his head. In historical practice, the urumi was worn around the waist as a belt, easily concealed and always within reach.
+
+Here’s a video of some expert urumi wielders in action!
+(youtube: https://www.youtube.com/watch?v=gzxtpg9HKbU&feature=youtu.be)
+
+## Dhar
+(image: art-eater_indivisible_incarnations_character_dhar_mojari_khanda_india_indian_warrior_soldier.jpg)
+
+Dhar is an enemy general who raids Ajna’s village, but somehow becomes one of her Incarnations. Dhar is possibly named after a city in India, and his overall appearance, like Tungar draws heavily on Indian culture.
+
+Both characters are wearing mojari, a traditional Indian shoe that often has toes that curve upward. Dhar wields a khanda, a double edged straight sword originating in South Asia. The khanda frequently appears in Hindu art. It is also the official emblem of Sikhism, a monotheistic religion originating in India.
+
+## Thorani
+In the world of Indivisible, Thorani is a Celestial who channels magical water through her hair. This water can cure people of their addiction to a dangerous drug called Soma, which is distributed through the land by a drug lord named Mara.
+
+(image: art-eater_thorani_character_analysis_thai_buddhist_earth_goddess.jpg)
+
+This is a direct reference to the Buddhist earth goddess Thorani, who is well known throughout South East Asia.
+
+(image: art-eater_thorani_character_analysis_thai_buddhist_earth_goddess_traditional_art.jpg caption: Indivisible’s incarnation of Thorani is actually quite modestly dressed compared to classical depictions)
+
+According to Buddhist doctrine, when Siddhartha Guatama (the man who would become the Buddha) was meditating under the Bodhi tree to attain enlightenment, he was accosted by a demon named Mara. Thorani protected Siddhartha by wringing water from her hair, which washed away Mara and the hoards of demons under his control.
+
+(image: art-eater_burmese_buddhist_painting_thorani_protect_buddha_from_mara.jpg caption: A painting from a Laotion Buddhist temple depicting Thorani protecting the Buddha from Mara and his demons)
+
+In Hinduism and Zoroastrianism and early vedic religions, Soma was an elixir enjoyed by the gods. If a mortal were to drink it, they would be granted immortality. Historically Soma was not explicitly associated with recreational drug use until the publication of Brave New World by Aldous Huxley in 1932.
+
+(image: brave_new_world.jpg caption: This is a great book)
+
+In this novel, the government controls the masses through the widespread usage of a narcotic called “Soma.”
+
+The idea of South East Asia as a drug paradise is also relatively new and something that Hollywood films (and Westerners) tend to focus on. 
+
+(image: art-eater_crappy_hollywood_movies.jpg caption: These movies are not well loved by locals)
+
+## Vasco
+*[Editor's Note: This design did not make it into the final game]*
+
+Vasco is an expert marksman who used to be an officer in the Iron Kingdom army. He eventually got tired of slaughtering natives and went off on his own to become a gun for hire. His name is likely a reference to Vasco Da Gama, the famed Portuguese explorer who became the first European to reach India by sea in 1498. Along his tremendous journey, Da Gama and his crew would encounter many of the cultures that are referenced in Indivisible.
+
+(image: art-eater_vasco_da_gama_conquistador_cowboy_iron_kingdom_mercenary_character_design.jpg)
+
+Vasco’s appearance is like a conquistador combined with a cowboy. His wide brim cowboy hat has a very pointed top in a nod to conquistador helmets. He wears a bandolier full of bullets, something that cowboys down the road would wear in the New World. Vasco also wears a suede Native American style jacket with the iconic hanging fringes.
+
+## Kushi and Altun
+Kushi is a cheerful young falconer. Together with her roc, Altun, they are a formidable team. They must have been inspired by the rich history of falconry in Central Asia. Judging by their appearance, I believe Kushi is specifically inspired by Kazakh falconers who hunt with giant golden eagles.
+
+(image: art-eater_indivisible_kushi_altun_central_asian_kazakh_falconry_falcon_falconer_roc_golden_eagle.jpg)
+
+Here’s a nice article about a young Kazakh girl named Ashol Pan, who is on her way to becoming a master falconer. She’s pretty much the real life Kushi!
+(link: http://www.bbc.com/news/magazine-26969150 text: http://www.bbc.com/news/magazine-26969150 target: _blank)
+
+Altun is a roc, a legendary giant bird from middle eastern mythology. The word “roc” is of Persian origin.  The Roc is described in 4 different stories in the Arabic epic, the 1001 Nights, also known as the Arabian Nights. Sinbad encountered them twice during his journeys. The first time he was shipwrecked and hitched a ride back to land by binding himself to a roc’s leg. It was so massive it didn’t even notice.
+
+(image: quinto_nadir_sinbad_roc.jpg caption: An illustration of Sinbad hitching a rid on the Roc by the Italian cartoonist Nadir Quinto. Source: https://goo.gl/08PWsc)
+
+During the 5th voyage of Sinbad his shipped is destroyed by rocs dropping massive boulders in retaliation for the destruction of one of its eggs.
+
+(image: gustave_dore_merchants_break_rocs_egg.jpg caption: Gustave Dore, The merchants break the roc’s egg from Fifth Voyage of Sinbad, From Le Magasin pitoresque, Paris, 1865)
+
+Marco Polo describes rocs in his memoirs, saying they were capable of grasping grown elephants in their talons, dropping them from a great height to feed on their shattered carcasses. A similar description exists in the ancient Indian epic, the Mahabharata, where Garuda carries off an elephant and tortoise and eats them because they couldn’t stop quarrelling.
+
+(image: garuda_-razmnama_mahabharata_persian_painting.jpg caption: A 17th century Mughal of Garuda flying with Vibhāvasu [turtle] and Supraťika [elephant]. From the Razmnama, the Persian translation of the Mahabharata)
+
+That’s it for today. If you enjoyed this article, please contribute to the funding of Indivisible. It’s a nicely hand animated game with a fun, diverse cast of characters informed by real world cultures that harkens back to the golden age of console RPGs.
+
+The creators of the game have worked really hard to bring it this far. Let’s make it happen! (link: https://www.indiegogo.com/projects/indivisible-rpg-from-the-creators-of-skullgirls#/ text: https://www.indiegogo.com/projects/indivisible-rpg-from-the-creators-of-skullgirls#/ target: _blank)
+
+## Addendum (September 7, 2020)
+If you enjoyed the thoughtful character designs in Indivisible, please follow the artists behind them!
+(image: indivisible_character_design_credits.jpg)
+
+**Alex Ahad**
+*Lead Concept Artist, Character Design, Animation Concepts, Illustrator, Scenario*
+Twitter: (link: https://twitter.com/o___8 text: https://twitter.com/o___8 target: _blank)
+Tumblr: (link: https://o-8.tumblr.com/ text: https://o-8.tumblr.com/ target: _blank)
+Patreon: (link: https://www.patreon.com/o_8 text: https://www.patreon.com/o_8 target: _blank)
+Purchase his art (prints, books, originals) here: (link: https://www.gallerynucleus.com/artists/alex_ahad_o_8 text: https://www.gallerynucleus.com/artists/alex_ahad_o_8 target: _blank)
+
+**Mariel Kinuko Cartwright**
+*Creative Director, Art Director, Character Designer, Lead Animator, Head of Story*
+Twitter: (link: https://twitter.com/kinucakes text: https://twitter.com/kinucakes target: _blank)
+Gumroad: (link: https://gumroad.com/kinuko text: https://gumroad.com/kinuko target: _blank)
+About Me: (link: https://about.me/kinucakes text: https://about.me/kinucakes target: _blank)
+Instagram: (link: https://www.instagram.com/kinucakes/ text: https://www.instagram.com/kinucakes/ target: _blank)
+Tumblr: (link: https://kinucakes.tumblr.com/ text: https://kinucakes.tumblr.com/ target: _blank)
+Patreon (warning: NSFW): (link: https://www.patreon.com/kinucakes text: https://www.patreon.com/kinucakes target: _blank)
+
+**Jonathan "Persona" Kim**
+*Character Designer, Senior Animator, Animation concepts, Illustrator, Scenario*
+Twitter: (link: https://twitter.com/personasama text: https://twitter.com/personasama target: _blank)
+Tumblr: (link: https://personasama.tumblr.com/ text: https://personasama.tumblr.com/ target: _blank)
+Storenvy: (link: http://black.storenvy.com/ text: http://black.storenvy.com/ target: _blank)
+
+**Brian Jun**
+*Art Producer, Character Designer*
+Twitter: (link: https://twitter.com/ClickAgain text: https://twitter.com/ClickAgain target: _blank)
+PIXIV: (link: https://www.pixiv.net/en/users/226500 text: https://www.pixiv.net/en/users/226500 target: _blank)
+Storenvy: (link: http://eu03.storenvy.com/ text: http://eu03.storenvy.com/ target: _blank)
+Twitch: (link: https://www.twitch.tv/dancefloorcombat text: https://www.twitch.tv/dancefloorcombat target: _blank)
+Discord: (link: https://discord.com/invite/T6VNQ5K text: https://discord.com/invite/T6VNQ5K target: _blank)
+
+**Jessica Allen**
+*Character Design, Senior Clean Up Artist, Animation Concepts*
+Twitter: (link: https://twitter.com/nomnomnami text: https://twitter.com/nomnomnami target: _blank)
+Web Comic: (link: http://another-piece-of-candy.thecomicseries.com/ text: http://another-piece-of-candy.thecomicseries.com/ target: _blank)
+Sound Cloud: (link: https://soundcloud.com/nami-tsuki text: https://soundcloud.com/nami-tsuki target: _blank)
+Band Camp: (link: https://nomnomnami.bandcamp.com/ text: https://nomnomnami.bandcamp.com/ target: _blank)
+GameDev: (link: https://nomnomnami.carrd.co/ text: https://nomnomnami.carrd.co/)
+Download and play her games here: (link: https://nomnomnami.itch.io/ text: https://nomnomnami.itch.io/ target: _blank)
+Ko-fi: (link: https://ko-fi.com/nomnomnami text: https://ko-fi.com/nomnomnami target: _blank)
+Patreon: (link: https://www.patreon.com/nomnomnami text: https://www.patreon.com/nomnomnami target: _blank)
+RedBubble: (link: https://www.redbubble.com/people/nomnomnamiart/shop/recent?ref=sort_order_change_recent text: https://www.redbubble.com/people/nomnomnamiart/shop/recent?ref=sort_order_change_recent target: _blank)
+
+**Brady "Ashura" Hartel**
+*UI & Graphic Design, Character Design, Compositing & Animation*
+Twitter: (link: https://twitter.com/BradyHartel text: https://twitter.com/BradyHartel target: _blank)
+Tumblr: (link: https://ashuraoh.tumblr.com/ text: https://ashuraoh.tumblr.com/ target: _blank)
+
+**Chris Ko**
+*Character Design, Senior Animator, Animation Concepts, Illustrator*
+Twitter: (link: https://twitter.com/junkpuyo text: https://twitter.com/junkpuyo target: _blank)
+PIXIV: (link: https://www.pixiv.net/en/users/7722911 text: https://www.pixiv.net/en/users/7722911 target: _blank)
+
+**Richard Suh**
+*Character Design, Lead Clean Up Artist, Animation Concepts, Scenario*
+Twitter: (link: https://twitter.com/animoose text: https://twitter.com/animoose target: _blank)
+Tumblr: (link: https://animoose.tumblr.com/ text: https://animoose.tumblr.com/ target: _blank)
+
+***And if you enjoyed this article, please support Art-Eater on Patreon!***
+(image: cover_photo_animated_03.gif link: https://www.patreon.com/ArtEaterOG)
+(link: https://www.patreon.com/ArtEaterOG text: https://www.patreon.com/ArtEaterOG target: _blank)
