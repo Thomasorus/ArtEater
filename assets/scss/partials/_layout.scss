@@ -94,11 +94,30 @@
   display: grid;
   max-width: 960px;
   margin: auto;
-  grid-template-columns: 1fr 2fr;
+  grid-template-areas: "podcast article"
+  "patreon article";
   grid-gap: 20px;
   @media (max-width: 520px) {
-    grid-template-columns: 1fr;
+    grid-template-areas: "podcast"
+  "article"
+  "patreon";
   }
+}
+
+.home-patreon {
+  grid-area: patreon;
+}
+
+.home-podcast {
+  grid-area: podcast;
+}
+
+.home-article {
+  grid-area: article;
+}
+
+.content-box--no-padding {
+  padding:0;
 }
 
 .author {

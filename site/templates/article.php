@@ -30,6 +30,9 @@
       <div class="post__footer">
         <div>
           <h2>Enjoyed this article?</h2>
+          <p>Consider supporting Art Eater on 
+              <a href="https://www.patreon.com/ArtEaterOG">Patreon</a>!
+          </p>
           <p>
           <?php 
             $author = $site->children()->find('authors')->children()->filterBy('name', $page->author());

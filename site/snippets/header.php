@@ -70,6 +70,9 @@
                <?= $item->title()->link(); ?>
                </li>
             <?php endforeach ?>
+            <li class="navbar-item">
+               <a href="https://www.patreon.com/ArtEaterOG">Patreon</a>
+               </li>
           </ul>
       </nav>
     <div class="header__right">

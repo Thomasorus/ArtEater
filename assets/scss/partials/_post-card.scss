@@ -47,3 +47,29 @@
     cursor: pointer;
   }
 }
+
+.post-card--no-margin {
+  margin-bottom: 0;
+  height: 100%;
+}
+
+.post-card--patreon {
+  display:flex; 
+  align-items:center;
+  padding:0;
+
+  a {
+    display:block;
+  }
+
+  svg {
+    padding: 0 10px;
+    width:100%;
+  }
+
+  .post-card__content {
+    padding:10px; 
+    text-align:center;
+    margin:auto;
+  }
+}

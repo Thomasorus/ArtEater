@@ -17,6 +17,10 @@
   padding: var(--space-small);
   overflow: hidden;
   margin: 0 var(--space-small);
+
+  @media (max-width: 520px) {
+    max-width: none;
+  }
 }
 
 .posts {
