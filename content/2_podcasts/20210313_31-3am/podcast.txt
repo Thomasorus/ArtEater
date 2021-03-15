@@ -30,3 +30,13 @@ Tags: Podcast
 ----
 
 Podcast: https://traffic.libsyn.com/secure/arteater/Episode31_3AM.mp3
+
+----
+
+Show: 3AM Games
+
+----
+
+Coverimage:
+
+- art-eater3am.jpeg

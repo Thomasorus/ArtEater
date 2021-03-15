@@ -46,3 +46,16 @@ columns:
             query: page.siblings.pluck("tags", ",", true)
           podcast:
             type: url
+          show:
+            label: Show
+            type: select
+            options: query
+            query: page.siblings.pluck("show", ",", true)
+          coverimage:
+            layout: cards
+            label: Head image
+            type: files
+            multiple: false
+            query: page.images
+            help: If no image, will default to the classic image
+

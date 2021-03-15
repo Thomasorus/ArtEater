@@ -87,7 +87,23 @@
 
           </div>
         </div>
-        <img class="podcast-banner" src="/assets/art-eaterpodcast.jpg" alt="Art Eater Podcast Logo">
+
+        <?php if($page->coverimage()->isEmpty()): ?>
+          <img class="podcast-banner" src="/assets/art-eaterpodcast.jpg" alt="Art Eater Podcast Logo">
+          <?php else: ?>
+            <img class="podcast-banner" aria-hidden="true" srcset="<?= $page->coverimage()->toFile()->srcset([
+                    '550w' => [
+                        'width' => 250,
+                        'height' => 250,
+                        'crop' => 'center'
+                    ],
+                    '1000w' => [
+                        'width' => 500,
+                        'height' => 500,
+                        'crop' => 'center'
+                    ]
+                ]) ?>" />
+          <?php endif ?>
 
       </div>
 

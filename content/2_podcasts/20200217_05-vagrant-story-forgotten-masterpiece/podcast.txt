@@ -19,3 +19,11 @@ Tags: Vagrant Story, SquareSoft
 ----
 
 Podcast: https://hwcdn.libsyn.com/p/9/7/9/9797afd84e593758/Art_Eater_Podcast_Episode_5_VagrantStory.mp3?c_id=65066336&cs_id=65066336&expiration=1584492219&hwt=ea0a3dbbb5a8b6b41bc04c11950f11e3
+
+----
+
+Show: Art Eater Podcast
+
+----
+
+Coverimage: 
