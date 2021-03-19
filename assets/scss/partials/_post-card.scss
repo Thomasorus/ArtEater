@@ -11,16 +11,20 @@
     margin-bottom: calc(var(--space) / 2);
     margin-top: calc(var(--space) * -1);
     overflow: hidden;
+
     &:empty {
       display: none;
     }
   }
 
   img {
+    width: 100%;
+  }
+
+  .blend {
     -webkit-filter: grayscale(100%) contrast(1.2);
     filter: grayscale(100%) contrast(1);
     mix-blend-mode: var(--blend);
-    width: 100%;
   }
 
   &__title {
@@ -54,22 +58,22 @@
 }
 
 .post-card--patreon {
-  display:flex; 
-  align-items:center;
-  padding:0;
+  display: flex;
+  align-items: center;
+  padding: 0;
 
   a {
-    display:block;
+    display: block;
   }
 
   svg {
     padding: 0 10px;
-    width:100%;
+    width: 100%;
   }
 
   .post-card__content {
-    padding:10px; 
-    text-align:center;
-    margin:auto;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
   }
 }

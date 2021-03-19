@@ -19,7 +19,7 @@
   <div class="post podcast-box">
     <audio id="player" src="<?= $page->podcast() ?>"></audio>
     <div class="player-wrapper">
-      <div class="player__left-block">
+      <div class="player__left-block" <?php echo ($page->show() == "3AM Games") ? "style='background-color: var(--brand-3AM);'" : "" ?>>
         <div class="player-controls">
           <div class="player-controls__play-time">
             <button id="playButton" class="player-controls__play-button">

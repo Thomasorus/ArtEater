@@ -7,7 +7,7 @@
 
     <div class="post-card content-box">
       <div class="post__header">
-        <img aria-hidden="true" srcset="<?= $article->coverimage()->toFile()->srcset([
+        <img class="blend" aria-hidden="true" srcset="<?= $article->coverimage()->toFile()->srcset([
                     '550w' => [
                         'width' => 430,
                         'height' => 215,

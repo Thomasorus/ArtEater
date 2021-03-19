@@ -1,15 +1,19 @@
 <?php snippet('header') ?>
-
 <main>
+
   <?php snippet('intro') ?>
   <div class="articles">
-    <div class="posts">
-        <?php foreach ($page->children()->listed()->sortBy('date', 'desc') as $podcast): ?>
-        <div class="post-card content-box content-box--small">
+      <?php foreach ($allPodcasts as $show): ?>
+        <h2 class="show-title"><?= $show['show'] ?></h2>
+        <div class="posts">
+        <?php foreach ($show["episodes"] as $podcast): ?>
+            <div class="post-card content-box content-box--small" 
+              <?php echo ($show['show'] == "3AM Games") ? "style='background-color: var(--brand-3AM);'" : "" ?>
+              >
           <?php if($podcast->coverimage()->isEmpty()): ?>
-            <img src="/assets/art-eaterpodcast.jpg" alt="">
+            <img class="blend" src="/assets/art-eaterpodcast.jpg"  aria-hidden="true">
           <?php else: ?>
-            <img aria-hidden="true" srcset="<?= $podcast->coverimage()->toFile()->srcset([
+            <img class="blend" aria-hidden="true" srcset="<?= $podcast->coverimage()->toFile()->srcset([
                     '550w' => [
                         'width' => 250,
                         'height' => 250,
@@ -23,13 +27,19 @@
                 ]) ?>" />
           <?php endif ?>
           <article class="post-card__content">
-            <h2 class="post-card__title"><?= $podcast->title() ?></h2>
+            <h3 class="post-card__title"><?= $podcast->title() ?></h3>
             <div class="post-meta"> Posted <time><?= $podcast->date()->toDate('d F Y') ?></time></div>
             <a class="post-card__link" href="<?= $podcast->url() ?>">Keep Reading →</a>
           </article>
         </div>
+          <?php endforeach ?>
+          </div>
         <?php endforeach ?>
-    </div>
+
+
+       
+       
+   
    
   </div>
 </main>

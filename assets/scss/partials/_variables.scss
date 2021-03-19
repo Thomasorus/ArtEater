@@ -4,8 +4,9 @@ html {
 }
 
 // Light default theme
-body {
+:root {
   --brand: #ee3030;
+  --brand-3AM: #d41680;
   --bg-color: #fbfbfb;
   --bg-content-color: #fff;
   --bg-code: #fffbf3;
@@ -28,6 +29,7 @@ body {
   html {
     --base-font-size: 17px;
   }
+
   body {
     --space: 1.5rem;
     --header-height: 60px;
