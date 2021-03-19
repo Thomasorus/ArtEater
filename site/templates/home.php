@@ -18,7 +18,7 @@
   <div class="home-grid">
     <div class="articles home-podcast">
       <div class="posts" style="height:100%">
-        <div class="post-card post-card--no-margin content-box content-box--small" <?php echo ($podcast->show() == "3AM Games") ? "style='background-color: var(--brand-3AM); margin:0;'" : "" ?>>
+        <div class="post-card post-card--no-margin content-box content-box--small">
            <?php if($podcast->coverimage()->isEmpty()): ?>
           <img class="blend" src="/assets/art-eaterpodcast.jpg" alt="Art Eater Podcast Logo">
           <?php else: ?>
