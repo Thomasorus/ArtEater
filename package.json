@@ -7,5 +7,6 @@
   "scripts": {
     "watch": "parcel watch assets/scss/*.scss --out-dir assets/css/ --public-url ./",
     "build": "parcel build assets/scss/*.scss --out-dir assets/css/ --public-url ./"
-  }
+  },
+  "dependencies": {}
 }
