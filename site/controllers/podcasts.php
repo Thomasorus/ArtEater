@@ -2,10 +2,9 @@
     return function($page) {
     
     $podcasts = page('podcasts')->children()->listed()->sortBy('date', 'desc');
-    $shows = $podcasts->pluck('show', ',', true);
+    $shows = $podcasts->sortBy('show', 'asc')->pluck('show', ',', true);
 
-    $allPodcasts = [];
-
+    $categorizedPodcasts = [];
  
 
     foreach ($shows as $show) {
@@ -18,13 +17,14 @@
                 array_push($temp_show['episodes'], $podcast);
             }
         }
-        array_push($allPodcasts, $temp_show);
+        array_push($categorizedPodcasts, $temp_show);
     }
     
     
     
     return [
-        'allPodcasts' => $allPodcasts
+        'categorizedPodcasts' => $categorizedPodcasts,
+        'podcasts' => $podcasts
     ];
 }
 ?>

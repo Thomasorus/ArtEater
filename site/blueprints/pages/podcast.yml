@@ -48,7 +48,7 @@ columns:
             type: url
           show:
             label: Show
-            type: select
+            type: tags
             options: query
             query: page.siblings.pluck("show", ",", true)
           coverimage:
