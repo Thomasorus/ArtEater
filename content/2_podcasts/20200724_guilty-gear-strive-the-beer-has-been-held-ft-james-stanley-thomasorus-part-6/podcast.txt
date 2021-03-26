@@ -1,4 +1,4 @@
-Title: Guilty Gear Strive : The Beer Has Been Held ft. James Stanley & Thomasorus (Part 6)
+Title: 16: Guilty Gear Strive : The Beer Has Been Held ft. James Stanley & Thomasorus (Part 6)
 
 ----
 
@@ -35,4 +35,6 @@ Show: Art Eater Podcast
 
 ----
 
-Coverimage: 
+Coverimage:
+
+- 16.png

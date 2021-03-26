@@ -26,4 +26,6 @@ Show: Art Eater Podcast
 
 ----
 
-Coverimage: 
+Coverimage:
+
+- art_icon_profandy.png

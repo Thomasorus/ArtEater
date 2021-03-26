@@ -35,4 +35,6 @@ Show: Art Eater Podcast
 
 ----
 
-Coverimage: 
+Coverimage:
+
+- 12.png
