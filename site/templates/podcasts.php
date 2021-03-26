@@ -11,9 +11,9 @@
               <?php echo ($show['show'] == "3AM Games") ? "style='background-color: var(--brand-3AM);'" : "" ?>
               >
           <?php if($podcast->coverimage()->isEmpty()): ?>
-            <img class="blend" src="/assets/art-eaterpodcast.jpg"  aria-hidden="true">
+            <img src="/assets/art-eaterpodcast.jpg"  aria-hidden="true">
           <?php else: ?>
-            <img class="blend" aria-hidden="true" srcset="<?= $podcast->coverimage()->toFile()->srcset([
+            <img aria-hidden="true" srcset="<?= $podcast->coverimage()->toFile()->srcset([
                     '550w' => [
                         'width' => 250,
                         'height' => 250,

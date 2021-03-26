@@ -20,9 +20,9 @@
       <div class="posts" style="height:100%">
         <div class="post-card post-card--no-margin content-box content-box--small">
            <?php if($podcast->coverimage()->isEmpty()): ?>
-          <img class="blend" src="/assets/art-eaterpodcast.jpg" alt="Art Eater Podcast Logo">
+          <img src="/assets/art-eaterpodcast.jpg" alt="Art Eater Podcast Logo">
           <?php else: ?>
-            <img class="blend"  aria-hidden="true" srcset="<?= $podcast->coverimage()->toFile()->srcset([
+            <img  aria-hidden="true" srcset="<?= $podcast->coverimage()->toFile()->srcset([
                     '550w' => [
                         'width' => 250,
                         'height' => 250,
