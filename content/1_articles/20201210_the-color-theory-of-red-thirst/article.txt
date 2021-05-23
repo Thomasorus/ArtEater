@@ -1,0 +1,115 @@
+Title: The Color Theory of "Red Thirst"
+
+----
+
+Coverimage:
+
+- >
+  01_art-eater_darkstalkers_red_thirst_color_theory_header_image.jpg
+
+----
+
+Date: 2020-12-10 10:35
+
+----
+
+Author: Richmond Lee
+
+----
+
+Tags: darkstalkers, capcom, Twitter Backup, pixel art, color theory
+
+----
+
+Text:
+
+"Red Thirst" from Vampire Savior is one of my favorite stages ever.
+
+(image: 01_art-eater_darkstalkers_red_thirst_color_theory_header_image.jpg)
+
+The blood red glow of the moon contrasts so beautifully with the clear green sky that seems to stretch into infinity. Very good use of complimentary colors. Always impressive when someone can pull off red + green without invoking Christmas!
+
+(image: 02_art-eater_darkstalkers_red_thirst_color_theory_red_green.png)
+
+"Red Thirst" (1997) reminds me of some of my favorite classical paintings like "Ossian receiving the Ghosts of the French Heroes" (1801) by Girodet and "Light of the World" (1853) by William Holman Hunt. It's such an usual color scheme and so LUMINOUS when it's done right!
+
+(image: 03_art-eater_darkstalkers_red_thirst_color_theory_red_green.png caption: Detail of "Red Thirst" from Vampire Savior [1997])
+(image: 04_art-eater_ossian-receiving-the-ghosts-of-the-french-heroes_1801_by_girodet.png caption:Detail of "Ossian receiving the Ghosts of the French Heroes" [1801] by Girodet)
+(image: 05_art-eater_darkstalkers_red_thirst_color_theory_red_green.png caption: Detail of "Light of the World" [1853] by William Holman Hunt)
+
+Let's take a moment to dive into the beautiful color theory going on in the sand here.
+(image: 05b_art-eater_darkstalkers_red_thirst_color_theory_red_green.png caption: Presented without scanlines so we can concentrate on the pure colors in the raw pixels)
+
+The shaded parts of the sand aren't just darker (value contrast) they're also greener (hue contrast) and more saturated (saturation contrast). Shading towards green rather than just a darker purple is a very unusual decision that adds much more depth to the stage!
+(image: 06_art-eater_darkstalkers_red_thirst_color_theory_red_green.png)
+
+Here's a quick edit that I made to "Red Thirst" where the sand in the background simply gets darker, without the hue and saturation contrast (Left). Compare that to the original (Right).
+(image: 07_art-eater_darkstalkers_red_thirst_color_theory_sand_with_and_without_hue_contrast.png)
+
+It just "hits different" right? By making the shadows in that part of the stage not just darker, but also cooler and more saturated (the color is more intense), the stage feels so much more vibrant and alive. It conveys more depth too! All while being more stylish!
+(image: 08_art-eater_08_darkstalkers_red_thirst_stage_hue_contrast_comparison.gif)
+
+So why does it work so well? Honestly most of the color theory on display here goes over my head. But I'll do my best to try to explain what I can!
+
+One color theory principle at play here is that warm colors tend to "advance" and cool colors "recede." So when you contrast cool and warm colors, it can help to convey depth.
+(image: 09_art-eater_darkstalkers_red_thirst_stage_color_theory_warm_colors_advance_cool_colors_recede.gif caption: notice how the parts of the background that are facing towards the viewer are "warmer" while the parts sloping away from the viewer are "cooler")
+
+Another compelling thing going on in "Red Thirst" is that light sources tend to have shadows with a contrasting "temperature." So a warm light source will cast cool shadows and vice versa.
+(image: 10_art-eater_darkstalkers_red_thirst_color_theory_how_the_color_of_light_sources_affect_shadow_colors.jpg caption: Source: https://www.artinstructionblog.com/color-studies-part-3-the-influences-of-the-environment-on-color)
+
+In this scene, the moon is an ominous red color, so it makes sense that the world illuminated beneath it will be red where the light hits and green in the shadows.
+(image: 10_art-eater_darkstalkers_red_thirst_stage_color_theory_warm_colors_advance_cool_colors_recede.png)
+(image: 10b_art-eater_darkstalkers_red_thirst_stage_color_theory_warm_colors_advance_cool_colors_recede.png)
+(image: 10c_art-eater_darkstalkers_red_thirst_stage_color_theory_warm_colors_advance_cool_colors_recede.png)
+
+But wait! There's more! Since everything in the distance is lit by the moon, we have the red light and green shadows...
+(image: 11a_art-eater_darkstalkers_red_thirst_color_theory_red_moon_green_shadows.jpg)
+
+But objects towards the mid and foreground are lit by a camp fire, which has a warm yellow/orange light, so it casts more purple/blue shadows!
+(image: 11b_art-eater_darkstalkers_red_thirst_color_theory_orange_flame_blue_shadows.jpg)
+
+So by shading the sand in the distance with green shadows instead of dark purple, it establishes that it's being lit by that ghastly red moon. Meanwhile the firelit foreground has a more conventional warm glow to it. This adds so much depth, contrast and LIFE to the scene!
+(image: 12_art-eater_darkstalkers_red_thirst_color_theory.jpg)
+
+Something else that's worth noting is how they paired a very cool green next to a very warm purple. Green and purple are right at the edge marking the transition from warm to cool colors, so this is some very subtle color theory going on here!
+(image: 13_cool_green_shadows.png)
+
+Also I've been describing these colors as "green" and "purple" this whole time. That's certainly how my mind processes them, but technically the "green" is teal and the "purple" is actually blue!
+(image: 13_14_replacement_art-eater_darkstalkers_red_thirst_color_theory._this_isnt_green_or_purple_jpg.jpg)
+
+What's going on is that the blue is a fairly muted greyish blue, so when it's placed next to a more saturated teal, the contrast emphasizes the greener part of the teal, which in turn makes the blue feel like purple. I don't fully understand it, but it works!!
+(image: 15_art_eater_red_thirst_color_theory.png)
+
+Alright! I learned a lot making these posts! Hope they were educational for y'all too!
+(image: 16_art-eater_darkstalkers_red_thirst_color_theory.jpg)
+
+## Bonus Images
+## 
+(image: 17_art-eater_darkstalkers_red_thirst_color_theory.jpg caption: Friendly Reminder: Vampire Savior is a really really beautiful game!)
+(image: 18_art-eater_darkstalkers_vampire_savior_morrigan_sprite_looks_good.jpg caption: Morrigan's sprite is GREAT! You just gotta see it in the games it was actually made for!)
+(image: 19_art-eater_darkstalkers_vampire_savior_morrigan_sprite_looks_good.jpg caption: Good lord this game is just SO COOL!)
+
+***
+
+This essay was originally a thread on Twitter, which you can view here:
+(link: https://twitter.com/Richmond_Lee/status/1330929535462752256 target: _blank)
+
+This thread has been saved from the endless tide of Twitter and archived on Art-Eater.com through the support of our following patrons on Patreon:
+- Conner
+- Carl Dungca
+- Shawn Borsky
+- Hari Edwin
+- Franky Chung
+- Noontide
+- Acari Grey
+- David Dixon
+- Craig Stables
+- The Partitioner
+- Technicolor-Yawn
+- ATX FLiP
+- lunatic dreamer
+- Daskannyman
+- Soleil Varin
+- AJG
+- Maria
+- D.K

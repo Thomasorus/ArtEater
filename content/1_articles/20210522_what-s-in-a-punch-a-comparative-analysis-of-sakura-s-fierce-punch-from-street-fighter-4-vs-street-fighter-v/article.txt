@@ -1,0 +1,95 @@
+Title: What's In A Punch? Sakura's Fierce Punch in SF4 vs SF5
+
+----
+
+Coverimage:
+
+- >
+  08_art-eater_street_fighter_4_vs_street_fighter_v_sf4_vs_sfv_sakura_fierce_punch_animation_analysis.gif
+
+----
+
+Date: 2021-05-22 17:55
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Text:
+
+I was asked ((link: https://twitter.com/MysterSack/status/1225792566832107520 text: very nicely! target: _blank)) to explain why Sakura seems to look and feel much more dynamic in Street Fighter 4 over Street Fighter V. Here's a quick infographic. Basically the SF4 one looks stronger because she's really turning into that punch. She's throwing from the hips. SFV is like the fist is pulling her forward!
+(image: 01_art-eater_street_fighter_4_vs_street_fighter_v_sf4_vs_sfv_sakura_fierce_punch_animation_analysis.jpg)
+
+The SFV animation by surface level conventional animation wisdom has a more clear silhouette--but does it?? In SF4 it's very clear how Sakura's legs are propelling her forward. In the SFV key pose it's difficult to tell which leg is even in the front.
+(image: 02_art-eater_street_fighter_4_vs_street_fighter_v_sf4_vs_sfv_sakura_fierce_punch_animation_analysis.jpg)
+
+Look at their heads! In SF4 she's really leaning and twisting into that punch. You can't even see her face! Not only does this add impact and emphasis to the animation, it's also better form as she's tucking her chin in!
+(image: 03_art-eater_street_fighter_4_vs_street_fighter_v_sf4_vs_sfv_sakura_fierce_punch_animation_analysis.jpg)
+
+Here's another cool detail. In SF4, Sakura is adding a "corkscrew" twist to her punch. This not only looks cooler, it adds more impact, and many believe it stresses your joints less. Also raises the shoulder muscles to guard your face just a bit more!
+(image: 04_art-eater_street_fighter_4_vs_street_fighter_v_sf4_vs_sfv_sakura_fierce_punch_animation_analysis_corkscrew_punch.jpg)
+
+Capcom has been animating punches with the "corkscrew" for ages. They have always been so ahead of the game when it comes to art and gameplay and the perfect union of the two!
+(image: 05_the-shotos-punches-are-great-examples-of-the-3-most-standard-punches-in-martial-arts.gif link: https://twitter.com/i/status/807637721267064832 target: _blank)
+
+I just want to emphasize, if you want a punch to feel very strong, you need strong keyframes with very straight lines of action. I know a lot of schools of animation say to make everything a curve and arc, but this is a fight not a dance.
+(image: 06_art-eater_street_fighter_4_vs_street_fighter_v_sf4_vs_sfv_sakura_fierce_punch_animation_analysis.png)
+
+Lets *REALLY* think about what a "good silhouette" means. Which one of these feels stronger? Why?
+
+By Animation 101 standards, the SFV pose could be considered superior with its more obvious "line of action" and clear placement of the head. But actually it's a much weaker pose!
+(image: 07_art-eater_street_fighter_4_vs_street_fighter_v_sf4_vs_sfv_sakura_fierce_punch_animation_analysis.gif)
+
+By turning in the head and limbs and creating a tighter silhouette, the SF4 pose (left) is actually much more dimensional. The way the parts overlap is much clearer. The SFV pose (right) is MUCH FLATTER. When it's a pure silhouette its hard to tell which way she's even facing.
+(image: 08_art-eater_street_fighter_4_vs_street_fighter_v_sf4_vs_sfv_sakura_fierce_punch_animation_analysis.gif)
+
+Take a look at the secondary animation of her headband. SF4's has a very nice arc to it. Definitely hand keyed. Really emphasizes the energy of the motion. SFV is dry procedural physics engine stuff.
+(image: 09_art-eater_street_fighter_4_vs_street_fighter_v_sf4_vs_sfv_sakura_fierce_punch_animation_analysis.jpg)
+
+OK gonna wrap this up soon! Some might say that the SFV pose is more similar to a proper Karate punch. I'm not sure if that's even true, but also, the "Shotos" don't practice Karate! (link: https://twitter.com/Richmond_Lee/status/801618637404504064 text: They practice the "assassination fist" target: _blank)  ie kungfu movie secret arts!
+
+One last thing. Realism is hardly the most important thing for good animation, but if you wanna talk about realism, let's take a look at Dan Henderson's iconic KO of Michael Bisping. Which fierce punch pose here recalls the "fierceness" of that punch better?
+(image: 10_art-eater_street_fighter_4_vs_street_fighter_v_sf4_vs_sfv_sakura_fierce_punch_animation_analysis.jpg)
+I rest my case 
+
+One more one more thing! There seems to be a lot of confusion over the placement of Sakura's legs in her SFV keyframe. It looks like it's her right leg forward (same side as punching hand) but it's actually her LEFT leg that is forward!
+(image: 11_art-eater_street_fighter_4_vs_street_fighter_v_sf4_vs_sfv_sakura_fierce_punch_animation_analysis.png)
+
+OK one last word on all this. The Street Fighter 4 poses look good because they closely followed Sakura's 2d sprite. Please check out the 2D Street Fighters. They are some of the most beautiful, skillful, generous games ever made!
+(image: 12_art-eater_street_fighter_4_vs_street_fighter_v_sf4_vs_sfv_vs_street_fighter_alpha_zero_sfa_sfz_sakura_fierce_punch_animation_.jpg)
+
+Also just want to say, please don't blame the artists/devs for all the stuff I've been knitpicking in this thread (I'm an asshole for this). Who knows what production was like on these games! Game development is a difficult, often tumultuous process where developers rarely have the time/resources/permission they need to really polish things to perfection. I wish the best to all my fellow game developers out there.
+
+LOVE & PEACE
+
+***
+
+This essay was originally a thread on Twitter, which you can view here:
+(link: https://twitter.com/Richmond_Lee/status/1225886892320641024 target: _blank)
+
+This thread has been transcribed from Twitter and archived here on Art-Eater.com through the support of our following patrons:
+
+- Conner
+- Carl Dungca
+- Shawn Borsky
+- Hari Edwin
+- Franky Chung
+- Noontide
+- Acari Grey
+- David Dixon
+- Craig Stables
+- The Partitioner
+- Technicolor-Yawn
+- ATX FLiP
+- lunatic dreamer
+- Daskannyman
+- Soleil Varin
+- AJG
+- Maria
+- D.K
