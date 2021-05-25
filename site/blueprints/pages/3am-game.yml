@@ -1,0 +1,48 @@
+title: 3am Game
+num: date
+icon: 🎮
+
+status:
+  draft:
+    label: Draft
+    text: This game card is still in draft mode. It can only be seen by editors with panel access.
+  unlisted:
+    label: In Review
+    text: This game card is online and can be visited with the direct URL. The team must still give the final go to publish it.
+  listed:
+    label: Published
+    text: This game card is online and listed in the blog
+
+columns:
+  - width: 2/3
+    # This columns only has a single field
+    fields:
+      text:
+        type: markdown
+        size: large
+
+  - width: 1/3
+    # This second column holds a fields section with multiple fields
+    # More about fields sections: https://getkirby.com/docs/reference/panel/sections/fields
+    sections:
+      meta:
+        type: fields
+        fields:
+          tags:
+            label: Tags
+            type: tags
+            options: query
+            query: page.siblings.pluck("tags", ",", true)
+          episode:
+            label: Episode
+            type: select
+            options: query
+            query: site.find('podcasts').children.filterBy('show', '3AM Games', ',')
+
+          coverimage:
+            layout: cards
+            label: Game image
+            type: files
+            multiple: false
+            query: page.images
+
