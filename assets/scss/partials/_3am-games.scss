@@ -1,0 +1,26 @@
+.game-list {
+  max-width: var(--content-width);
+  margin: auto;
+
+  h2 {
+    text-align: center;
+    margin-bottom: var(--space);
+  }
+}
+
+.game-card {
+  display: grid;
+  gap: var(--space-small);
+  grid-template-columns: minmax(150px, 2fr) 4fr;
+  grid-template-rows: 2fr;
+}
+
+.game-card img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.game-card__content {
+  padding: var(--space-small);
+}
