@@ -1,0 +1,23 @@
+Title: Arm Joe
+
+----
+
+Text:
+
+Arm Joe, also known as ArmJoe, is a free 2D one-on-one fighting dōjin game based on the Les Misérables musical.[1]
+
+It was made by Takase using 2D Fighter Maker (2D格闘ツクール95, 2D Kakutō Tsukūru 95), an engine developed by OUTBACK (ＯＵＴＢＡＣＫ) and edited by ASCII (アスキー, Asuki).
+
+----
+
+Tags: Arm Joe
+
+----
+
+Episode: podcasts/03-incredible-proof-that-japan-can-adapt-anything-into-anything
+
+----
+
+Coverimage:
+
+- armjoe.png

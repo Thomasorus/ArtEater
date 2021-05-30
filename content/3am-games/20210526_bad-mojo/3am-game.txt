@@ -1,0 +1,24 @@
+Title: Bad Mojo
+
+----
+
+Text:
+
+A Kafkaesque graphic adventure game, Roger, the main character is transformed into a cockaroach and must scurry through the walls of a run down San Fransisco bar trying to restore his memory and his human form.
+
+### How to Play
+(link: https://store.steampowered.com/app/255960/Bad_Mojo_Redux/ text: Play on Steam target: _blank)
+
+----
+
+Tags: Bad Mojo
+
+----
+
+Episode: podcasts/03-incredible-proof-that-japan-can-adapt-anything-into-anything
+
+----
+
+Coverimage:
+
+- bm.png

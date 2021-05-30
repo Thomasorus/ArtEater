@@ -2,7 +2,14 @@ Title: Rose and camelia
 
 ----
 
-Text: Rose and Camelia is a flash game developed by Nigoro. It follows Reiko in her attempts to become Matriach of the household. She must battle five foes using her hands to slap them into submission.
+Text:
+
+Rose and Camelia is a flash game developed by Nigoro. It follows Reiko in her attempts to become Matriach of the household. She must battle five foes using her hands to slap them into submission.
+
+### How to Play
+
+(link: https://apps.apple.com/us/app/rose-and-camellia/id1494666973 text: Play on iOS Devices target: _blank)
+(link: https://play.google.com/store/apps/details?id=nigoro.room6.rc&hl=en_US&gl=US text: Play on Android Devices target: _blank)
 
 ----
 
@@ -16,7 +23,7 @@ Episode: podcasts/03-incredible-proof-that-japan-can-adapt-anything-into-anythin
 
 Coverimage:
 
-- maxresdefault.jpg
+- r_c.png
 
 ----
 
