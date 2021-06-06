@@ -10,17 +10,41 @@
 
 .game-card {
   display: grid;
+  grid-template-columns: minmax(250px, 1fr) 1fr;
   gap: var(--space-small);
-  grid-template-columns: minmax(150px, 2fr) 4fr;
-  grid-template-rows: 2fr;
+}
+
+@media screen and (max-width: 520px) {
+  .game-card {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+  }
 }
 
 .game-card img {
-  height: 100%;
   width: 100%;
-  object-fit: cover;
+}
+
+.game-card ul li {
+  color:white;
 }
 
 .game-card__content {
   padding: var(--space-small);
+}
+
+.game-card a {
+  color:white;
+}
+
+.game-card h1,
+.game-card h2,
+.game-card h3,
+.game-card h4 {
+  color:white;
+}
+
+.game-card-link {
+  float: right;
+  padding:var(--space-small);
 }
