@@ -6,8 +6,9 @@ Text:
 
 A Kafkaesque graphic adventure game, Roger, the main character is transformed into a cockaroach and must scurry through the walls of a run down San Fransisco bar trying to restore his memory and his human form.
 
-### How to Play
-(link: https://store.steampowered.com/app/255960/Bad_Mojo_Redux/ text: Play on Steam target: _blank)
+#### How to play
+
+- (link: https://store.steampowered.com/app/255960/Bad_Mojo_Redux/ text: Play on Steam target: _blank)
 
 ----
 

@@ -5,9 +5,10 @@ Title: El Shaddai : Ascension of the Metatron
 Text:
 
 El Shaddai, Ascension of the Metatron is an action game with a storyline inspired by events in the Old Testament apocryphal Book of Enoch where the player must deliver the souls of the Fallen Angels and spare the world from a great flood ordered by Heaven.
+
+#### How to play
  
-###  How to Play
-(link: https://store.steampowered.com/app/1581040/El_Shaddai_ASCENSION_OF_THE_METATRON/ text: Play on Steam target: _blank)
+- (link: https://store.steampowered.com/app/1581040/El_Shaddai_ASCENSION_OF_THE_METATRON/ text: Play on Steam target: _blank)
 
 ----
 

@@ -6,8 +6,9 @@ Text:
 
 World of Horror is a roguelite style horror RPG that challenges players to investigate a series of creepy and unusual occurrences arising in the town of Shiokawa, and consequently survive a cruel gauntlet of battles and challenges against the machinations of the Old Gods. 
 
-### How to Play
-(link: https://store.steampowered.com/app/913740/WORLD_OF_HORROR/ text: Play on Steam target: _blank)
+#### How to play
+
+- (link: https://store.steampowered.com/app/913740/WORLD_OF_HORROR/ text: Play on Steam target: _blank)
 
 ----
 
