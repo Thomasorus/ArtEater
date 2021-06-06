@@ -5,8 +5,8 @@
     "sass": "^1.22.4"
   },
   "scripts": {
-    "watch": "parcel watch assets/scss/*.scss --out-dir assets/css/ --public-url ./",
-    "build": "parcel build assets/scss/*.scss --out-dir assets/css/ --public-url ./"
+    "watch": "parcel watch assets/scss/*.scss --out-dir assets/css/ --public-url ./ --no-hmr",
+    "build": "parcel build assets/scss/*.scss --out-dir assets/css/ --public-url ./ --no-hmr"
   },
   "dependencies": {}
 }
