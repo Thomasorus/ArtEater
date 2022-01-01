@@ -24,23 +24,16 @@ columns:
   - width: 1/2
     fields:
       text:
-        label: Text
+        label: Site description
         type: markdown
-        size: huge
+      promo:
+        label: Sponsors text
+        type: markdown
 
   - width: 1/2
     # Kirby has many different field types, from simple text fields to the more complex structure field that contains subfields
     # All available field types: https://getkirby.com/docs/reference/panel/fields
     fields:
-      address:
-        label: Address
-        type: textarea
-      email:
-        label: Email
-        type: email
-      phone:
-        label: Phone
-        type: tel
       social:
         label: On the web
         type: structure

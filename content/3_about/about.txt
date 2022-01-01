@@ -2,9 +2,11 @@ Title: About
 
 ----
 
-Text:
+Text: Art eater is a blog dedicated to in depth discussion of visual art in all forms.  For the most part I’ll be concentrating on Videogames, Comics and Animation and how they relate to art history and culture–really!  Think of it as art edutainment.  Like if PBS did shows about your favorite cartoons and games.
 
-Art eater is a blog dedicated to in depth discussion of visual art in all forms.  For the most part I’ll be concentrating on Videogames, Comics and Animation and how they relate to art history and culture–really!  Think of it as art edutainment.  Like if PBS did shows about your favorite cartoons and games.
+----
+
+Promo:
 
 ## About the website
 
@@ -18,6 +20,14 @@ Kirby is a flat-file CMS (no database) using the PHP language. Kirby is an open 
 
 ----
 
+Social:
+
+- 
+  platform: Twitter
+  url: https://twitter.com/ArtEaterPodcast
+
+----
+
 Address: 
 
 ----
@@ -27,14 +37,6 @@ Email:
 ----
 
 Phone: 
-
-----
-
-Social:
-
-- 
-  platform: Twitter
-  url: https://twitter.com/ArtEaterPodcast
 
 ----
 
