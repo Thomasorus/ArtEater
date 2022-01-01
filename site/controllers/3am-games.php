@@ -10,7 +10,7 @@
 
     foreach ($episodes as $episode) {
         $temp_show = [
-            'episode' => pages('podcasts')->children()->find($episode),
+            'episode' => page('podcasts')->children()->find($episode),
             'episodes' => []
         ];
         foreach ($games as $game) {
@@ -20,7 +20,7 @@
         }
         array_push($categorizedGames, $temp_show);
     }
-    
+
 
     return compact('categorizedGames');
 
