@@ -125,21 +125,6 @@
   padding: 0;
 }
 
-.author {
-  min-height: 250px;
-}
-
-.author-pic {
-  width: 33%;
-  float: left;
-  margin: 0 20px 20px 0;
-
-  img {
-    width: 100%;
-  }
-}
-
-
 .pagination {
   max-width: var(--content-width);
   margin: 0 auto var(--space) auto;
@@ -157,4 +142,27 @@
 .podcasts-listing {
   text-align: center;
   margin-bottom: 40px;
+}
+
+
+.author-bio {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.author-bio > * {
+  flex-grow: 1;
+  flex-basis: calc(( 30rem - 100%) * 999);
+}
+
+.author-bio > :nth-last-child(n+ 3),
+.author-bio > :nth-last-child(n+ 3) ~ * {
+  flex-basis: 100%;
+}
+
+.author-bio img {
+  width: 100%;
+  object-fit: contain;
 }
