@@ -4,47 +4,68 @@ Title: Hiroyuki Okiura (沖浦啓之) - Animating More Real Than Reality
 
 Coverimage:
 
-- >
-  art-eater_hiroyuki_okiura__realist_animator_01_dougram.png
+- hiroyuki_okiura_igpx_kata.gif
 
 ----
 
-Date: 2022-01-15 11:50
+Date: 2022-01-15 11:50:00
 
 ----
 
-Author: 
+Author: Richmond Lee
 
 ----
 
-Tags: 
+Tags: Animation, Hiroyuki Okiura, 沖浦啓之
 
 ----
 
 Text:
 
-Hiroyuki Okiura (沖浦啓之) is the kind of animator who animates so perfectly that he often gets accused of rotoscoping, but actual animators know he obvopusly doesn't because it looks TOO GOOD to be traced from a video.
+Hiroyuki Okiura (沖浦啓之) is one of the most skillful animators to ever pick up a pencil. His control of form, weight, perspective, composition, motion (and emotion!) is so perfect, so life-like that he's often accused of rotoscoping! But those with a good eye for animation can tell that the verisimilitude of his work comes from a masterful grasp of the fundamentals of animation. It looks TOO GOOD to be hand waived as simply "traced from a video"!
 
-(video: hiroyuki_okiura_escaflowne_movie_vaan.mp4)
+(video: hiroyuki_okiura_escaflowne_movie_vaan.mp4 autoplay: true loop: true)
 
-Hiroyuki Okiura (沖浦啓之) was a natural prodigy at animation, who left high school at age 16, with no formal training to become a pro animator on Dougram (太陽の牙ダグラム). This was 1982, before digital technology and the internet made animation more accessible!
+For those not familiar with the term, rotoscoping is an animation technique where you trace over film, frame by frame, to reproduce lifelike movements.
+
+(image: 
+take_on_me_aha-video_rotoscoped.gif caption: The music video for "Take On Me" (1985) by A-ha, directed by Steve Barron, animated by Michael Patterson and Candace Reckinger, is one of the most famous examples of rotoscoped animation)
+
+Now, there's nothing inherently wrong with rotoscoping. It's just a technique and it can yield BEAUTIFUL results when done well. But I bring it up here for 2 reasons.
+
+1. Throughout my career in animation (and especially when I was in art school), I'd often hear people denounce Japanese animation as being "obviously rotoscoped" whenever something really technically impressive happened on screen.
+2. Hiroyuki Okiura was the animator who most frequently elicited this response. And the irony is, his work isn't rotoscoped. He's just that good! And if you're really paying attention, it's easy to tell it's NOT rotoscoped! More on that in a bit...
+
+(image: art-eater_hiroyuki_okiura__realist_animator_00_screencap-saying-jin-roh-is-rotoscoped_02.jpg caption: Examples of people erroneously calling the work of Okiura and other realist Japanese animators "rotoscoped")
+
+But first, let me give you some context on just how amazing Hiroyuki Okiura is!
+
+Hiroyuki Okiura (沖浦啓之) was a young prodigy at animation, who left high school at age 16, with no formal training to become a pro animator on Dougram (太陽の牙ダグラム). This was 1982, before digital technology and the internet made animation more accessible! It was incredibly difficult to be a self taught animator in this era!
 
 (image: art-eater_hiroyuki_okiura__realist_animator_01_dougram.png)
 
 By 1984, Hiroyuki Okiura made his debut as an animation director on Star Muskateer Bismark (星銃士ビスマルク) an original series from Studio Pierrot which was released in the west as "Saber Rider and the Star Sheriffs"
 (youtube: https://youtu.be/vMLr1Ch7sgo)
 
-Hiroyuki Okiura is largely known to Western anime fans for his incredibly sensitive and realistic animation of humans. But he actually cut his teeth on mecha anime where he distinguished himself by his incredibly realistic and sensitive animation of mechanical objects!
+Hiroyuki Okiura is largely known to Western anime fans for his incredibly sensitive and realistic animation of people.
+
+(image: Hiroyuki_Okiura_Akira_Takashi_Scream.gif caption: Remember this scene from Akira? Okiura magic!)
+
+(image: hiroyuki_okiura_ghost-in-the-shell_major_kusanagi_waking-up.gif caption: This beautiful shot from GITS? Okiura magic!)
+
+(image: Hiroyuki_Okiura_IGPX_kata.gif caption: This GORGEOUS scene from IGPX? Okiura magic!)
+
+Hiroyuki Okiura is a master of the human form, but he actually cut his teeth on mecha anime where he distinguished himself with his virtuosity for mechanical animation!
 (image: art-eater_hiroyuki_okiura__realist_animator_02_okiuras_works.jpg)
 
 For instance, Okiura was the key animator on the legendary helicopter attack scene in Patlabor 2 (1993)!
-https://www.sakugabooru.com/data/542f006f445ef896bee5a65ad58da786.mp4
+(video: Hiroyuki_Okiura_Patlabor_2_Hellicopter_Attack.mp4 autoplay: true loop: true)
 
-This scene would almost certainly be animated via 3D cg today. Detailed mechanical animation is one of the most difficult things anyone can attempt to tackle in traditional animation! It's incredibly rare to find animators who could do it on this level without a cg base!
-https://twitter.com/Richmond_Lee/status/1345598295633059840
+This scene would almost certainly be animated via 3D cg today. Detailed mechanical animation is one of the most difficult things anyone can attempt to tackle in traditional animation! It's incredibly rare to find animators who could do it on this level!
+(video: Hiroyuki_Okiura_Patlabor_2_Hellicopter_Attack_02.mp4 autoplay: true loop: true)
 
 Here's the legendary opening sequence from Cowboy Bebop: Knockin' on Heaven's Door animated by Hiroyuki Okiura (沖浦啓之) and Tetsuya Nishio (西尾鉄也). This is the epitome of realistic traditional animation that WASNT rotoscoped.
-https://twitter.com/Richmond_Lee/status/1345599377700601856
+(youtube: https://youtu.be/151ZPzZWdbY)
 
 There are certain schools of animation who believe that animation should only be used to depict the unreal. Things not possible with film. They might wonder "why even animate this realistically from imagination? What's the point?"
 https://twitter.com/Richmond_Lee/status/1345602468550348802
@@ -52,11 +73,23 @@ https://twitter.com/Richmond_Lee/status/1345602468550348802
 My answer to them is "well I just think it looks really really really really really good."
 https://twitter.com/Richmond_Lee/status/1345602787921461249
 
-Moreover, if you pay attention it still "hits different" from film and directly rotoscoped animation! These subtle differences make life more interesting!
+Moreover, if you pay attention it still "hits different" from live action film or rotoscoped animation! These subtle differences make life more interesting!
 https://twitter.com/Richmond_Lee/status/1345602797539004417
 
 As realistic as this is, it still has that beautiful, neat, concise intentionality that is characteristic of the best traditional animation. To me it's a kind of super realism! BETTER than life!
 https://twitter.com/Richmond_Lee/status/1345602808620281857
+
+Now, as I mentioned earlier, rotoscoping isn't inherently bad. Many amazing looking anime are heavily reliant on rotoscoping or closely referencing film footage--and that's ok!
+
+Even classic Disney films use the technique!
+
+But there are some notable animated works where the rotoscoping draws too much attention to itself and breaks immersion. Take for instance, Ralph Bakshi's Lord of the Rings. The rotoscoping in this film has an uncanny valley effect, where it's so real that it takes you out of the fiction. Although it's traced from live action, it feels weirdly weightless. This is because it transplants the superficial aspects of live action movement into drawings. But without all the extra details that come from live action, it feels like a shell of itself. It feels like a tracing, something that only captures the surface.
+
+So why doesn't 
+
+
+
+
 
 Hiroyuki Okiura made his feature film directorial debut with Jin-Roh, an absolute CLASSIC for it's artistry and storytelling. It's one of the last great cel animated films, requiring over 80,000 cels of hand drawn, hand painted animation!
 https://twitter.com/Richmond_Lee/status/1345605694364344320
