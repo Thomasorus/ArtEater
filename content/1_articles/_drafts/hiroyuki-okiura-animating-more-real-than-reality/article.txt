@@ -1,4 +1,4 @@
-Title: Hiroyuki Okiura (沖浦啓之) - Animating More Real Than Reality
+Title: Hiroyuki Okiura (沖浦啓之) - Animating Better Than Real
 
 ----
 
@@ -22,14 +22,16 @@ Tags: Animation, Hiroyuki Okiura, 沖浦啓之
 
 Text:
 
-Hiroyuki Okiura (沖浦啓之) is one of the most skillful animators to ever pick up a pencil. His control of form, weight, perspective, composition, motion (and emotion!) is so perfect, so life-like that he's often accused of rotoscoping! But those with a good eye for animation can tell that the verisimilitude of his work comes from a masterful grasp of the fundamentals of animation. It looks TOO GOOD to be hand waived as simply "traced from a video"!
+Hiroyuki Okiura (沖浦啓之) is one of the most skillful animators to ever pick up a pencil. His animation is so perfect, so life like that he's often accused of rotoscoping! But those with a good eye for movement can tell that the incredible verisimilitude of his work comes from a masterful grasp of the fundamentals of animation. It doesn't just look real, it looks better than real!
 
 (video: hiroyuki_okiura_escaflowne_movie_vaan.mp4 autoplay: true loop: true)
 
 For those not familiar with the term, rotoscoping is an animation technique where you trace over film, frame by frame, to reproduce lifelike movements.
 
+For instance, the music video for "Take On Me" (1985) by A-ha, directed by Steve Barron, animated by Michael Patterson and Candace Reckinger, is one of the most famous examples of rotoscoped animation.
+
 (image: 
-take_on_me_aha-video_rotoscoped.gif caption: The music video for "Take On Me" (1985) by A-ha, directed by Steve Barron, animated by Michael Patterson and Candace Reckinger, is one of the most famous examples of rotoscoped animation)
+take_on_me_aha-video_rotoscoped.gif)
 
 Now, there's nothing inherently wrong with rotoscoping. It's just a technique and it can yield BEAUTIFUL results when done well. But I bring it up here for 2 reasons.
 
@@ -40,7 +42,7 @@ Now, there's nothing inherently wrong with rotoscoping. It's just a technique an
 
 But first, let me give you some context on just how amazing Hiroyuki Okiura is!
 
-Hiroyuki Okiura (沖浦啓之) was a young prodigy at animation, who left high school at age 16, with no formal training to become a pro animator on Dougram (太陽の牙ダグラム). This was 1982, before digital technology and the internet made animation more accessible! It was incredibly difficult to be a self taught animator in this era!
+Hiroyuki Okiura (沖浦啓之) is a bonafide prodigy at animation. In 1982, at the age of 16, with no formal training, he managed to land a job animating on the Sunrise TV series Fang of the Sun Dougram (太陽の牙ダグラム). This was long before digital technology and the internet made animation more accessible! It was incredibly difficult to be a self taught animator in this era!
 
 (image: art-eater_hiroyuki_okiura__realist_animator_01_dougram.png)
 
@@ -51,14 +53,17 @@ Hiroyuki Okiura is largely known to Western anime fans for his incredibly sensit
 
 (image: Hiroyuki_Okiura_Akira_Takashi_Scream.gif caption: Remember this scene from Akira? Okiura magic!)
 
-(image: hiroyuki_okiura_ghost-in-the-shell_major_kusanagi_waking-up.gif caption: This beautiful shot from GITS? Okiura magic!)
+(image: hiroyuki_inoue_gits_creation_of_cyborg_drop_into_water.gif caption: The iconic "Making of a Cyborg" sequence from GITS? Okiura magic!)
 
 (image: Hiroyuki_Okiura_IGPX_kata.gif caption: This GORGEOUS scene from IGPX? Okiura magic!)
 
-Hiroyuki Okiura is a master of the human form, but he actually cut his teeth on mecha anime where he distinguished himself with his virtuosity for mechanical animation!
+Hiroyuki Okiura is unquestionably a supreme master of the human form. But did you know he originally made a name for himself as a master mecha animator?
+
+Here's an example of his work from Blue Comet SPT Layzner (蒼き流星SPTレイズナー). He was only 17 or 18 when he animated this! He was also the animation director on the show, specializing in making sure the mechanical animations and FX looked top notch.
+
 (image: art-eater_hiroyuki_okiura__realist_animator_02_okiuras_works.jpg)
 
-For instance, Okiura was the key animator on the legendary helicopter attack scene in Patlabor 2 (1993)!
+Okiura was also the key animator on the legendary helicopter attack scene in Patlabor 2 (1993)!
 (video: Hiroyuki_Okiura_Patlabor_2_Hellicopter_Attack.mp4 autoplay: true loop: true)
 
 This scene would almost certainly be animated via 3D cg today. Detailed mechanical animation is one of the most difficult things anyone can attempt to tackle in traditional animation! It's incredibly rare to find animators who could do it on this level!
