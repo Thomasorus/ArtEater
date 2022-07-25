@@ -15,7 +15,7 @@ Listen and follow us on:
 
 ----
 
-Date: 2021-04-18 10:30
+Date: 2021-04-18 10:30:00
 
 ----
 
@@ -35,4 +35,6 @@ Show: Art Eater Podcast
 
 ----
 
-Coverimage: 
+Coverimage:
+
+- art_re29.png

@@ -1,0 +1,27 @@
+Title: Test Article 2
+
+----
+
+Coverimage:
+
+- makoto_vs_ibuki_gif.gif
+
+----
+
+Date: 2022-07-16 00:00:00
+
+----
+
+Author: Richmond Lee
+
+----
+
+Tags: 
+
+----
+
+Text:
+
+This is a test article.
+I'm going to insert an image here:
+(image: dio-tandem.gif caption: write whatever you want)
