@@ -2,20 +2,23 @@ Title: Noah Berkley
 
 ----
 
-Name: Noah Berkley
+Name: Noah Berkley - Film Correspondent
 
 ----
 
-Website: 
+Website: noahberkley.blogspot.com
 
 ----
 
-Twitter: 
+Twitter: @noahberkley
 
 ----
 
-Bio: testing testing 123
+Bio: Noah Berkley eats movies
 
 ----
 
-Photo: 
+Photo:
+
+- >
+  b252db1d-0d3b-490e-9807-aa007e34e053.jpeg
