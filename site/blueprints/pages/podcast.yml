@@ -29,7 +29,7 @@ columns:
             type: text
           description:
             label: Description
-            type: textarea
+            type: markdown
           gameimage:
             layout: cards
             label: Game image
