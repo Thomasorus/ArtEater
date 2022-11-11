@@ -49,3 +49,5 @@ Icon
 # License
 # ---------------
 /site/config/.license
+
+.parcel-cache

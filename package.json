@@ -1,12 +1,11 @@
 {
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "devDependencies": {
-    "cssnano": "^4.1.10",
-    "parcel-bundler": "^1.12.4",
-    "sass": "^1.22.4"
+    "parcel": "^2.0.0",
+    "@parcel/transformer-sass": "2.8.0"
   },
   "scripts": {
-    "watch": "parcel watch assets/scss/*.scss --out-dir assets/css/ --public-url ./ --no-hmr",
-    "build": "parcel build assets/scss/*.scss --out-dir assets/css/ --public-url ./ --no-hmr"
-  },
-  "dependencies": {}
+    "watch": "parcel watch assets/scss/*.scss --dist-dir assets/css/ --public-url ./ --no-hmr",
+    "build": "parcel build assets/scss/*.scss --dist-dir assets/css/ --public-url ./"
+  }
 }
