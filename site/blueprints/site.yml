@@ -11,12 +11,12 @@ title: Site
 columns:
   # The first column has one section for the subpages of the `photography` page in card layout
   # It reuses the pages section defined in `/site/blueprints/sections/albums.yml`
-  - width: 1/3
+  - width: 1/2
     sections:
       podcasts: sections/podcasts
 
   # The second column has two sections, `articles` and `pages`
-  - width: 1/3
+  - width: 1/2
     sections:
       # The `articles` section reuses the pages section defined in `/site/blueprints/sections/articles.yml`
       articles: sections/articles
@@ -26,9 +26,6 @@ columns:
       # Using the `create` option, we limit the type of page that can be created when a new page is created
       # article that the `sandbox` page and the `error` page that also exist in the content folder but use different blueprints thus do not show up in the list
       # Since the error page's blueprint is set to `read: false`, it wouldn't show up here even if you added the error blueprint to the templates list
-  - width: 1/3
-    sections:
-      3am-games: sections/3am-games
   - width: 1/2
     sections:
       pages:
