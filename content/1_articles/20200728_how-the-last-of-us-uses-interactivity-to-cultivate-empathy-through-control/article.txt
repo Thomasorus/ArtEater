@@ -8,7 +8,7 @@ Coverimage:
 
 ----
 
-Date: 2020-07-28 00:50
+Date: 2020-07-28 00:50:00
 
 ----
 
@@ -17,6 +17,10 @@ Author: Shawn Borsky
 ----
 
 Tags: The Last of Us, Naughty Dog
+
+----
+
+Category: games
 
 ----
 

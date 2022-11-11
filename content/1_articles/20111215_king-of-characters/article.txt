@@ -8,7 +8,7 @@ Coverimage:
 
 ----
 
-Date: 2011-12-15 18:40
+Date: 2011-12-15 18:40:00
 
 ----
 
@@ -17,6 +17,10 @@ Author: Richmond Lee
 ----
 
 Tags: The King of Fighters, Fighting games, SNK, character design
+
+----
+
+Category: games
 
 ----
 

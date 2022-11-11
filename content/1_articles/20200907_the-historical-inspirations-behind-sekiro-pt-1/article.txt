@@ -9,7 +9,7 @@ Coverimage:
 
 ----
 
-Date: 2020-09-07 15:10
+Date: 2020-09-07 15:10:00
 
 ----
 
@@ -18,6 +18,10 @@ Author: Richmond Lee
 ----
 
 Tags: Sekiro, From Software, Buddhism, 隻狼, Character Design, Religion
+
+----
+
+Category: games
 
 ----
 

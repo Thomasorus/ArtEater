@@ -8,7 +8,7 @@ Coverimage:
 
 ----
 
-Date: 2015-06-21 04:15
+Date: 2015-06-21 04:15:00
 
 ----
 
@@ -17,6 +17,10 @@ Author: Richmond Lee
 ----
 
 Tags: Hideo Kojima, Video Games, History, First Nations, Metal Gear, Trailer Analysis, WW2
+
+----
+
+Category: games
 
 ----
 

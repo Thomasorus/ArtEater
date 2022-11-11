@@ -9,7 +9,7 @@ Coverimage:
 
 ----
 
-Date: 2013-01-28 04:20
+Date: 2013-01-28 04:20:00
 
 ----
 
@@ -18,6 +18,10 @@ Author: Andy Lee
 ----
 
 Tags: Pokemon, Art History, Religion, gamefreak, Christianity, Taoism
+
+----
+
+Category: games
 
 ----
 

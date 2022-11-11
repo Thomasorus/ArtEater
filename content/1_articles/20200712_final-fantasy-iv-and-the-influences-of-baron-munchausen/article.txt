@@ -9,7 +9,7 @@ Coverimage:
 
 ----
 
-Date: 2020-07-12 08:10
+Date: 2020-07-12 08:10:00
 
 ----
 
@@ -18,6 +18,10 @@ Author: Kent
 ----
 
 Tags: Art History Analysis, Final Fantasy, FFIV, Yoshitaka Amano
+
+----
+
+Category: games
 
 ----
 

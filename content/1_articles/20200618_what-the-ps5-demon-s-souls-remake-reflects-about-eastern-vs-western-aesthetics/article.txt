@@ -9,7 +9,7 @@ Coverimage:
 
 ----
 
-Date: 2020-06-18 16:50
+Date: 2020-06-18 16:50:00
 
 ----
 
@@ -18,6 +18,10 @@ Author: Richmond Lee
 ----
 
 Tags: Demon's Souls, From Software, Souls, Trailer Analysis
+
+----
+
+Category: games
 
 ----
 

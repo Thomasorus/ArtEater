@@ -8,7 +8,7 @@ Coverimage:
 
 ----
 
-Date: 2011-06-08 15:45
+Date: 2011-06-08 15:45:00
 
 ----
 
@@ -17,6 +17,10 @@ Author: Richmond Lee
 ----
 
 Tags: Vanillaware, Dragon's Crown
+
+----
+
+Category: games
 
 ----
 

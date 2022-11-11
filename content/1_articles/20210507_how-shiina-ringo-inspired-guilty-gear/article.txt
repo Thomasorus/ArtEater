@@ -9,7 +9,7 @@ Coverimage:
 
 ----
 
-Date: 2021-05-07 17:10
+Date: 2021-05-07 17:10:00
 
 ----
 
@@ -18,6 +18,10 @@ Author: Richmond Lee
 ----
 
 Tags: Guilty Gear, character design, arc system works, Go Nagai, Music
+
+----
+
+Category: games
 
 ----
 

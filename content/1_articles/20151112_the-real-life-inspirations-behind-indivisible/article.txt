@@ -9,7 +9,7 @@ Coverimage:
 
 ----
 
-Date: 2015-11-12 09:15
+Date: 2015-11-12 09:15:00
 
 ----
 
@@ -18,6 +18,10 @@ Author: Richmond Lee
 ----
 
 Tags: Indivisible, Art History Analysis, Lab Zero, Mythology, Buddhism, Hinduism, South East Asia
+
+----
+
+Category: games
 
 ----
 

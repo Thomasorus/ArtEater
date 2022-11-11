@@ -9,7 +9,7 @@ Coverimage:
 
 ----
 
-Date: 2020-07-29 21:05
+Date: 2020-07-29 21:05:00
 
 ----
 
@@ -18,6 +18,10 @@ Author: Richmond Lee
 ----
 
 Tags: Shin Megami Tensei, Buddhism, Trailer Analysis, Art History Analysis, Mythology, Christianity, Religion, Character Design, Kazuma Kaneko, Atlus
+
+----
+
+Category: games
 
 ----
 
