@@ -4,6 +4,7 @@
   <?php snippet('intro') ?>
   <div class="articles">
 
+    <?php if(count($categories) > 1): ?>
     <ul class="articles-categories">
       <?php foreach($categories as $cat): ?>
       <li class="navbar-item">
@@ -13,6 +14,7 @@
       </li>
       <?php endforeach ?>
     </ul>
+    <?php endif ?>
 
     <?php foreach ($articles as $article): ?>
 

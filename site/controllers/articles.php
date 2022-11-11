@@ -3,7 +3,7 @@
 
     // fetch the basic set of pages
     $articles = $page->children()->listed()->sortBy('date', 'desc');
-    $categories = $page->children()->listed()->sortBy('caregory', 'asc')->pluck('subject', ',', true);
+    $categories = $page->children()->listed()->sortBy('category', 'asc')->pluck('category', ',', true);
 
     // fetch all tags
     $tags = $articles->pluck('tags', ',', true);
@@ -18,9 +18,9 @@
     $articles   = $articles->paginate(6);
     $pagination = $articles->pagination();
 
-    if($caregory = param('cat')) {
-      $articles = $articles->filterBy('category', urldecode($caregory), ',')->paginate(12);;
-      }
+    if($category = param('cat')) {
+      $articles = $articles->filterBy('category', urldecode($category), ',')->paginate(6);;
+    }
 
     return compact('articles', 'tag', 'pagination', 'categories');
 
