@@ -19,7 +19,62 @@ North by BACKWHEN
 
 ----
 
-Date: 2021-05-18 10:30
+Games:
+
+- 
+  name: Rose and camelia
+  description: |
+    Rose and Camelia is a flash game developed by Nigoro. It follows Reiko in her attempts to become Matriach of the household. She must battle five foes using her hands to slap them into submission.
+    
+    #### How to play
+    
+    - (link: https://apps.apple.com/us/app/rose-and-camellia/id1494666973 text: Play on iOS Devices target: _blank)
+    - (link: https://play.google.com/store/apps/details?id=nigoro.room6.rc&hl=en_US&gl=US text: Play on Android Devices target: _blank)
+  gameimage:
+    - r_c.png
+- 
+  name: Arm Joe
+  description: |
+    Arm Joe, also known as ArmJoe, is a free 2D one-on-one fighting dōjin game based on the Les Misérables musical.[1]
+    
+    It was made by Takase using 2D Fighter Maker (2D格闘ツクール95, 2D Kakutō Tsukūru 95), an engine developed by OUTBACK (ＯＵＴＢＡＣＫ) and edited by ASCII (アスキー, Asuki).
+  gameimage:
+    - armjoe.png
+- 
+  name: Bad Mojo
+  description: |
+    A Kafkaesque graphic adventure game, Roger, the main character is transformed into a cockaroach and must scurry through the walls of a run down San Fransisco bar trying to restore his memory and his human form.
+    
+    #### How to play
+    
+    - (link: https://store.steampowered.com/app/255960/Bad_Mojo_Redux/ text: Play on Steam target: _blank)
+  gameimage:
+    - bm.png
+- 
+  name: "If On A Winter's Night, Four Travelers"
+  description: |
+    If On A Winter's Night, Four Travelers is a narrative-driven point-and-click adventure that explores the stories of four different characters in a masked ball taking place on a train in the late 1920s.
+    
+    #### How to play
+    
+    - (link: https://laurahunt.itch.io/if-on-a-winters-night-four-travelers text: Download on Windows/Linux target: _blank)
+  gameimage:
+    - ifwinter.png
+- 
+  name: Pocket Fighter
+  description: |
+    Pocket Fighter (known as Super Gem Fighter Mini Mix in arcades outside of Japan) is an arcade game developed by Capcom in 1997. In Pocket Fighter, twelve characters from various Capcom fighting franchises, including Street Fighter Alpha, Street Fighter III, Darkstalkers, and the lesser known Red Earth game, are depicted in super-deformed style.
+    
+    #### How to play
+    
+    - (link: https://arcadespot.com/game/pocket-fighter/ text: Play Emulated Online target: _blank)
+    - (link: https://www.amazon.com/Pocket-Fighter-PlayStation/dp/B00004SPRC text: Buy PS1 Game on Amazon target: _blank)
+  gameimage:
+    - pf.png
+
+----
+
+Date: 2021-05-18 10:30:00
 
 ----
 
