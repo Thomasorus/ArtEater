@@ -15,7 +15,7 @@ Listen and follow us on:
 
 ----
 
-Date: 2021-10-30 15:30
+Date: 2021-10-30 15:30:00
 
 ----
 
@@ -31,7 +31,7 @@ Podcast: https://pdcn.co/e//traffic.libsyn.com/arteater/E47_Stages_P2.mp3
 
 ----
 
-Show: Art Eater Podcast
+Show: Fighting Game Stages
 
 ----
 

@@ -15,7 +15,7 @@ Listen and follow us on:
 
 ----
 
-Date: 2021-08-15 04:30
+Date: 2021-08-15 04:30:00
 
 ----
 
@@ -31,7 +31,7 @@ Podcast: https://traffic.libsyn.com/forcedn/arteater/E41-AestheticsSega.mp3
 
 ----
 
-Show: Art Eater Podcast
+Show: Aesthetics of Sega
 
 ----
 

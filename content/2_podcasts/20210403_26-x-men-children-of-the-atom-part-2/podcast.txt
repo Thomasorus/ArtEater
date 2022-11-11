@@ -15,7 +15,7 @@ Listen and follow us on:
 
 ----
 
-Date: 2021-04-03 20:30
+Date: 2021-04-03 20:30:00
 
 ----
 
@@ -31,7 +31,7 @@ Podcast: https://traffic.libsyn.com/secure/arteater/Art_Eater_Podcast_Episode_26
 
 ----
 
-Show: Art Eater Podcast
+Show: Children of the Atom Retrospective
 
 ----
 
