@@ -51,6 +51,14 @@ columns:
             type: tags
             options: query
             query: page.siblings.pluck("tags", ",", true)
+          category:
+            label: Category
+            type: select
+            default: games
+            options:
+              games: Games
+              food: Food & Drink
+              movies: Movies
 
   # main
   main:

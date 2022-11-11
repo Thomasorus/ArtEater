@@ -3,6 +3,17 @@
 <main>
   <?php snippet('intro') ?>
   <div class="articles">
+
+    <ul class="articles-categories">
+      <?php foreach($categories as $cat): ?>
+      <li class="navbar-item">
+        <a href="<?php echo url($kirby->language() . '/articles/cat:' . $cat)?>">
+          <?php echo html($cat) ?>
+        </a>
+      </li>
+      <?php endforeach ?>
+    </ul>
+
     <?php foreach ($articles as $article): ?>
 
     <div class="post-card content-box">
@@ -19,13 +30,21 @@
                         'crop' => 'center'
                     ]
                 ]) ?>" />
-       </div>
+      </div>
       <article class="post-card__content">
-        <h2 class="post-card__title"><?= $article->title() ?></h2>
-        <p class="post-card__description"><?= $article->text()->excerpt(220); ?></p>
+        <h2 class="post-card__title">
+          <?= $article->title() ?>
+        </h2>
+        <p class="post-card__description">
+          <?= $article->text()->excerpt(220); ?>
+        </p>
         <div class="post-meta">
-          Posted <time><?= $article->date()->toDate('d F Y') ?></time>
-          <br>By <strong><?= $article->author()->name(); ?></strong>
+          Posted <time>
+            <?= $article->date()->toDate('d F Y') ?>
+          </time>
+          <br>By <strong>
+            <?= $article->author()->name(); ?>
+          </strong>
         </div>
         <a class="post-card__link" href="<?= $article->url() ?>">Keep Reading
           →</a>
@@ -34,15 +53,17 @@
     <?php endforeach ?>
   </div>
 
-<nav class="pagination">
-<?php if($pagination->hasNextPage()): ?>
-  <a href="<?= $pagination->nextPageUrl() ?>">« Previous articles</a>
-  <?php endif ?>
+  <?php if($pagination->hasNextPage() or $pagination->hasPrevPage()): ?>
+  <nav class="pagination">
+    <?php if($pagination->hasNextPage()): ?>
+    <a href="<?= $pagination->nextPageUrl() ?>">« Previous articles</a>
+    <?php endif ?>
 
-  <?php if($pagination->hasPrevPage()): ?>
-  <a href="<?= $pagination->prevPageUrl() ?>">Next articles »</a>
+    <?php if($pagination->hasPrevPage()): ?>
+    <a href="<?= $pagination->prevPageUrl() ?>">Next articles »</a>
+    <?php endif ?>
+  </nav>
   <?php endif ?>
-</nav>
 </main>
 
 <?php snippet('footer') ?>
