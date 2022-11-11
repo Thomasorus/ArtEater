@@ -828,8 +828,12 @@ progress[value]::-webkit-progress-value {
 }
 
 .game-list {
-  max-width: var(--content-width);
+  padding: var(--space);
   margin: auto;
+}
+
+.game-list > p {
+  text-align: center;
 }
 
 .game-list h2 {
@@ -837,23 +841,24 @@ progress[value]::-webkit-progress-value {
   margin-bottom: var(--space);
 }
 
-.game-card {
+.game-container {
+  grid-template-columns: repeat(auto-fit, minmax(var(--content-width-small), 1fr) );
+  justify-items: center;
   gap: var(--space-small);
-  grid-template-columns: minmax(250px, 1fr) 1fr;
   display: grid;
 }
 
-@media screen and (max-width: 520px) {
-  .game-card {
-    grid-template-rows: auto auto;
-    grid-template-columns: 1fr;
-  }
+.game-card {
+  gap: var(--space-small);
+  max-width: calc(var(--content-width-small) * 2);
+  flex-flow: column;
+  display: flex;
 }
 
 .game-card img {
   width: 100%;
-  height: 100%;
   object-fit: cover;
+  aspect-ratio: 1 / 1;
 }
 
 .game-card ul li {

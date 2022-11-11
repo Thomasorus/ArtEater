@@ -20,6 +20,23 @@ columns:
       text:
         type: markdown
         size: large
+      games:
+        label: 3am Games
+        type: structure
+        fields:
+          name:
+            label: Name
+            type: text
+          description:
+            label: Description
+            type: textarea
+          gameimage:
+            layout: cards
+            label: Game image
+            type: files
+            multiple: false
+            query: page.images
+
 
   - width: 1/3
     # This second column holds a fields section with multiple fields
@@ -58,4 +75,3 @@ columns:
             multiple: false
             query: page.images
             help: If no image, will default to the classic image
-

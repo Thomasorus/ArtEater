@@ -2,15 +2,21 @@
 
 <main>
   <?php snippet('intro') ?>
-  
-  <div class="game-list">
-    <?php foreach ($categorizedGames as $game): ?>
 
-      <h2>Episode <?= $game["episode"]->title(); ?></h2>
-      
-      <?php foreach($game["episodes"] as $ep): ?>
-        <div class="post-card game-card">
-        <img class="game-card__content" aria-hidden="true" srcset="<?= $ep->coverimage()->toFile()->srcset([
+  <div class="game-list">
+    <p>All the strange games discussed during the <em>3AM Games</em> show.</p>
+    <?php foreach ($podcasts as $podcast):
+      if($podcast->games()->isNotEmpty()):
+      ?>
+
+    <h2>Episode
+      <?= $podcast->title(); ?>
+    </h2>
+    <div class="game-container">
+
+      <?php foreach($podcast->games()->toStructure() as $game): ?>
+      <div class="post-card game-card">
+        <img class="game-card__content" aria-hidden="true" srcset="<?= $game->gameimage()->toFile()->srcset([
                     '550w' => [
                         'width' => 350,
                         'height' => 350,
@@ -22,22 +28,24 @@
                         'crop' => 'center'
                     ]
                 ]) ?>" />
-      <article class="game-card__content">
-        <h3 class="post-card__title"><?= $ep->title() ?></h3>
-        <?= $ep->text()->kt(); ?>
-        <a class="game-card-link" href="<?= $game["episode"]->url() ?>">Listen to this episode</a>
+        <article class="game-card__content">
+          <h3 class="post-card__title">
+            <?= $game->name() ?>
+          </h3>
+          <?= $game->description()->kt(); ?>
+        </article>
 
-      </article>
-      
-    </div>
+      </div>
       <?php endforeach ?>
-    <?php endforeach ?>
+    </div>
+    <div>
+      <a class="game-card-link" href="<?= $podcast->url() ?>">Listen to this episode</a>
 
-
-
-    
+    </div>
+    <?php
+  endif;
+  endforeach ?>
   </div>
-
 </main>
 
 <?php snippet('footer') ?>
