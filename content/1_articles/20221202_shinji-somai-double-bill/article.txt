@@ -8,7 +8,7 @@ Coverimage:
 
 ----
 
-Date: 2022-11-22 18:55:00
+Date: 2022-12-02 18:55:00
 
 ----
 
@@ -28,7 +28,7 @@ Text:
 
 Hello internet! Richmond has invited me join Art-Eater as a film correspondent. I'll be sharing my thoughts/notes on all the films I hunt down for fun. 
 
-For this inaugural post I'll begin with my notes on the work of Shinji Sōmai. I've just recently discovered him, but I instantly had a deep admiration for his storytelling. The best place to start with his work are right here at 1985's Typhoon Club (台風クラブ) and 1993's Moving AKA Ohikkoshi (お引越し). I love dramas about growing up and these are right up there at the top. Sōmai has a perspective on childhood that instantly spoke to me. He never talk down to his characters and invests time understanding their varied and awkward motivations. These films are also gorgeously shot. It's hard to pick a favorite. 
+For this inaugural post I'll begin with my notes on the work of Shinji Sōmai. I only recently discovered his work, but instantly had a deep admiration for his storytelling. The best place to start is right here at 1985's Typhoon Club (台風クラブ) and 1993's Moving AKA Ohikkoshi (お引越し). I love dramas about growing up and these two are right up there at the top. Sōmai never talks down to his characters and invests time understanding their varied and awkward motivations. These films are also gorgeously shot. It's hard to pick a favorite. 
 
 # Typhoon Club (1985)
 The setups in the film are just so great. Darkness is usually intended to imply some sort of nefarious purpose but here the lack of light shows a plea for ownership. Ownership of the kids close knit subculture. Something just for these kids in the shadows. 
@@ -41,7 +41,7 @@ No parents allowed! 😝
 (image: b8614020d71e16a8e460bc3dc76594d1-1.png)
 
 # Ohikkoshi (1993)
-This wedge of a table (pictured below) - you already know there's trouble in the home.
+This wedge of a table (pictured below) - you already know there's trouble in this home.
 
 (image: moving-1.jpg)
 
@@ -51,4 +51,4 @@ A beautiful contemplation about “moving” on with your life. The finale is bi
 
 I'm in love with Shinji Sōmai’s camera work and staging. 
 
-<center><iframe width= 100% height="380" src="https://www.youtube.com/embed/yS23nhkyIHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+(youtube: https://www.youtube.com/embed/yS23nhkyIHY)
