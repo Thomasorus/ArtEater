@@ -8,7 +8,7 @@ Coverimage:
 
 ----
 
-Date: 2022-12-20 02:25:00
+Date: 2022-12-29 02:25:00
 
 ----
 
@@ -26,10 +26,11 @@ Category: movies
 
 Text:
 
-Sean Baker and Shih-Ching Tsou’s debut feature “Take Out” follows Ming Ding on the hardest delivery run of his life. He has one day to pay off his loan shark. $800
-The deliveries are the engine of the film but the gas is this gnawing sensation of whether or not Ming will ever scrounge up enough cash by the end. I could feel my heart beat with each tip he received. Counting change has never felt so life or death.
+Sean Baker and Shih-Ching Tsou’s debut feature “Take Out” follows Ming Ding on the hardest delivery run of his life. He has one day to pay off his loan shark. **$800**
 
-(image: okzdnsm7u3fjgvn6cv5yudedd3tefkiptrdsbsx6-1.jpeg)
+The deliveries are the engine of the film, but the gas is this gnawing sensation of whether or not Ming will ever scrounge up enough cash by the end. I could feel my heart beat with each tip he received. Counting change has never felt so life or death.
+
+(image: jbkjimiqqttaypfdpeumamft5o4gixp6oldpqdld-1.jpeg)
 
 It’s a thrilling story no doubt, but its true purpose is describing the tense lives of these Chinese American immigrants. The detail in the comings and goings of the restaurant Ming works at. All the shop workers hustling to survive in different ways. Baker and Tsou have an incredible ability to pull back the curtain on unseen pockets of America (see their future collaborations in Tangerine and Florida Project). It all starts here with Take Out.
 
