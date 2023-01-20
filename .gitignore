@@ -51,3 +51,7 @@ Icon
 /site/config/.license
 
 .parcel-cache
+
+/kirby
+/vendor
+/site/plugins/markdown-field
