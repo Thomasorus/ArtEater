@@ -35,6 +35,8 @@ Show: Art Eater Discussions
 
 ----
 
-Coverimage:
+Coverimage: - art_icon_dreamcast.png
 
-- art_icon_dreamcast.png
+----
+
+Uuid: eaTHcgIykrZv2gTY

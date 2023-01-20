@@ -18,6 +18,8 @@ Bio: Your lovely webmaster with a sexy French Accent. A fighting game writer and
 
 ----
 
-Photo:
+Photo: - sorus2.jpg
 
-- sorus2.jpg
+----
+
+Uuid: NNGGJojrOgrjxT20

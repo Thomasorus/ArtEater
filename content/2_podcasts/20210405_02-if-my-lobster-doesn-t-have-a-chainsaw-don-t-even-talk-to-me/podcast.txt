@@ -35,6 +35,8 @@ Show: 3AM Games
 
 ----
 
-Coverimage:
+Coverimage: - 3am_podcover.png
 
-- 3am_podcover.png
+----
+
+Uuid: 426YHZD2RrF2aXQr

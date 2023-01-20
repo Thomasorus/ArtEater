@@ -35,6 +35,8 @@ Show: Art Eater Podcast
 
 ----
 
-Coverimage:
+Coverimage: - art_dreamcastretro2.png
 
-- art_dreamcastretro2.png
+----
+
+Uuid: 4tTRKQUMAhcgQoPs

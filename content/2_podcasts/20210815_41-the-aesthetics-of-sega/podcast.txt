@@ -35,6 +35,8 @@ Show: Aesthetics of Sega
 
 ----
 
-Coverimage:
+Coverimage: - art_icon_segaa.png
 
-- art_icon_segaa.png
+----
+
+Uuid: RG34YSCu7RZlnb1C

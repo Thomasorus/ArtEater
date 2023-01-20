@@ -2,9 +2,7 @@ Title: Paul Schrader’s Blue Collar
 
 ----
 
-Coverimage:
-
-- vlcsnap-00016.png
+Coverimage: - vlcsnap-00016.png
 
 ----
 
@@ -53,3 +51,7 @@ the system keeps on.
 (image: kotto-copy.png)
 
 (youtube: https://www.youtube.com/watch?v=0hM2-onAJVw)
+
+----
+
+Uuid: uZqlHUT57dF5yIie

@@ -18,6 +18,8 @@ Bio: Andy is a student of history and real life Pokémon professor (no really!),
 
 ----
 
-Photo:
+Photo: - njtxtfrg_400x400.jpg
 
-- njtxtfrg_400x400.jpg
+----
+
+Uuid: 0TaYDIEgVlPExqgB

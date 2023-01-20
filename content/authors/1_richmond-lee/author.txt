@@ -18,10 +18,12 @@ Bio: Richmond is a lifelong lover of art in all forms. He spent his Childhood be
 
 ----
 
-Photo:
-
-- 5iix4elt_400x400.jpg
+Photo: - 5iix4elt_400x400.jpg
 
 ----
 
 Instagram: 
+
+----
+
+Uuid: kpkMsrqx5SjZGNQF

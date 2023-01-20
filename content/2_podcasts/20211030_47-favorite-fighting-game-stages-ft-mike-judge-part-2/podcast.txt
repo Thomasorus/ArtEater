@@ -35,6 +35,8 @@ Show: Fighting Game Stages
 
 ----
 
-Coverimage:
+Coverimage: - stages2_cover.png
 
-- stages2_cover.png
+----
+
+Uuid: RDqUlGKiQi9zQH29

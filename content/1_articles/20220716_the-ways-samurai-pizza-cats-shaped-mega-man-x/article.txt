@@ -2,9 +2,7 @@ Title: The Ways Samurai Pizza Cats Shaped Mega Man X
 
 ----
 
-Coverimage:
-
-- 0-edoropolis.jpg
+Coverimage: - 0-edoropolis.jpg
 
 ----
 
@@ -116,3 +114,7 @@ Additional research and editing by Richmond & Kerblombo
 Thanks for reading! To comment on the article, feel free to leave a response on Twitter here!
 (link: https://twitter.com/Richmond_Lee/status/1551434440617865218?s=20&t=bphYaX9epQut_UQNdErhdQ target: _blank)
 ***
+
+----
+
+Uuid: QjmTi9kZlCLFndiS

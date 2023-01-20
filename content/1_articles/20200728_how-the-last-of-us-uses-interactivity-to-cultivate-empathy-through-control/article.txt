@@ -2,9 +2,7 @@ Title: How the Last of Us Uses Interactivity to Cultivate Empathy through Contro
 
 ----
 
-Coverimage:
-
-- 4ef1ac4762.0.jpeg
+Coverimage: - 4ef1ac4762.0.jpeg
 
 ----
 
@@ -274,3 +272,7 @@ Regardless whether you loved  or hated the game, it will make you feel human.
 
 
 > “When you’re lost in the darkness, look for the light”
+
+----
+
+Uuid: ZowirC53l7UwsaoC

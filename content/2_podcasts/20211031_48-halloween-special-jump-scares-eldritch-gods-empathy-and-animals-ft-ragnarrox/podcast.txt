@@ -39,6 +39,8 @@ Show: Halloween Special
 
 ----
 
-Coverimage:
+Coverimage: - halloween_special_cover.png
 
-- halloween_special_cover.png
+----
+
+Uuid: PE2wpSqh4BzYZQ4H

@@ -35,6 +35,8 @@ Show: Hidden Gems
 
 ----
 
-Coverimage:
+Coverimage: - hiddengems_cover.png
 
-- hiddengems_cover.png
+----
+
+Uuid: cMSKU7z6VYZUHKp5

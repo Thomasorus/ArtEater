@@ -39,6 +39,8 @@ Show: Berserk Restrospective
 
 ----
 
-Coverimage:
+Coverimage: - articon_berserk2.png
 
-- articon_berserk2.png
+----
+
+Uuid: dnY4xxR9a6dFY1Hh

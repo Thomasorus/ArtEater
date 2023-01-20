@@ -2,9 +2,7 @@ Title: Test Article 2
 
 ----
 
-Coverimage:
-
-- makoto_vs_ibuki_gif.gif
+Coverimage: - makoto_vs_ibuki_gif.gif
 
 ----
 
@@ -25,3 +23,7 @@ Text:
 This is a test article.
 I'm going to insert an image here:
 (image: dio-tandem.gif caption: write whatever you want)
+
+----
+
+Uuid: bG0NuSwpF3dLhPnv

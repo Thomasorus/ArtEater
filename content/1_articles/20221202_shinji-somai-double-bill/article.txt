@@ -2,9 +2,7 @@ Title: Shinji Sōmai Double Bill
 
 ----
 
-Coverimage:
-
-- shinji-somai-posters.png
+Coverimage: - shinji-somai-posters.png
 
 ----
 
@@ -52,3 +50,7 @@ A beautiful contemplation about “moving” on with your life. The finale is bi
 I'm in love with Shinji Sōmai’s camera work and staging. 
 
 (youtube: https://www.youtube.com/embed/yS23nhkyIHY)
+
+----
+
+Uuid: 8pmVY2wyT5DAo2QM

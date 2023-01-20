@@ -2,9 +2,7 @@ Title: The Stellar Cinematography of Shin Ultraman
 
 ----
 
-Coverimage:
-
-- shin-ultraman_cover.jpg
+Coverimage: - shin-ultraman_cover.jpg
 
 ----
 
@@ -127,3 +125,7 @@ It's also important to note he’s huge, but he doesn’t dwarf the landscape. I
 We can compare Ultraman's friendly eyes with this mysterious alien, whose eyes twinkle like stars. The celestial nature of its eyes are emphasized by their contrast against the mundane, manmade office lights behind it.
 
 We see the alien creature again in this comedic shot where it sits in the passenger side of a sedan as they idle in an underpass. The mysterious monster inserted into such a mundane situation is visually delightful. But also notice the reflection of the artificial lights on the car’s hood. Once again, they allow for contrast of a familiar mundane light source vs the mysterious starlight of the alien’s eyes. There’s also the reflection of a cross walk on the hood, perhaps symbolizing the characters being at a crossroads, or making inroads with one another.
+
+----
+
+Uuid: MjEiXExeag7mTmrZ

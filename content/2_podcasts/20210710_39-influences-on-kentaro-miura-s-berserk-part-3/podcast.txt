@@ -39,6 +39,8 @@ Show: Berserk Restrospective
 
 ----
 
-Coverimage:
+Coverimage: - art_icon_berserk_rip3.png
 
-- art_icon_berserk_rip3.png
+----
+
+Uuid: wsDLiQaC6wGrc2Fp

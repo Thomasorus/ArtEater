@@ -35,6 +35,8 @@ Show: Art Eater Podcast
 
 ----
 
-Coverimage:
+Coverimage: - midnight_cover.png
 
-- midnight_cover.png
+----
+
+Uuid: eTEDDIgoc9hXMNZx

@@ -37,6 +37,8 @@ Show: Rest in Peace
 
 ----
 
-Coverimage:
+Coverimage: - articon_berserk.png
 
-- articon_berserk.png
+----
+
+Uuid: F58A2crplHJBaJnx

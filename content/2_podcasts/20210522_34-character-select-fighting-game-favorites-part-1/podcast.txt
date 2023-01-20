@@ -35,6 +35,8 @@ Show: Character Select
 
 ----
 
-Coverimage:
+Coverimage: - art_icon_cs.png
 
-- art_icon_cs.png
+----
+
+Uuid: mqOC2sUdI1hgBVxi

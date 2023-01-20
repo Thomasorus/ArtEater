@@ -35,6 +35,8 @@ Show: Rest in Peace
 
 ----
 
-Coverimage:
+Coverimage: - sonnychiba_cover.png
 
-- sonnychiba_cover.png
+----
+
+Uuid: 1RyALEULqEsD7KCX
