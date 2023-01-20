@@ -9,7 +9,7 @@
       <?php foreach($categories as $cat): ?>
       <li class="navbar-item">
         <a href="<?php echo url($kirby->language() . '/articles/cat:' . $cat)?>">
-          <?php echo html($cat) ?>
+        <span style="color:var(--title-color);"><?php echo html($cat) ?></span>
         </a>
       </li>
       <?php endforeach ?>
