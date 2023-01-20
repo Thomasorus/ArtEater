@@ -1,6 +1,6 @@
 {
     "require": {
-      "getkirby/cms": "^3.0",
+      "getkirby/cms": "3.8.4",
         "fabianmichael/kirby-markdown-field": "^2.1"
     },
     "config": {
