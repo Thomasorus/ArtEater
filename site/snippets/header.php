@@ -12,48 +12,25 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <?php echo $page->metaTags() ?>
+
+  <title><?= $site->title() . " | " . $page->title() ?></title>
+
   <?= css(['assets/css/index.css', '@auto']) ?>
 
+  <meta name="description" content="<?= ($page->template() == "home" || $page->template() == "articles" || $page->template() == "podcasts" ) ? ($site->description()) : ($page->text()->excerpt(140, true,'…')) ?> ">
+  <meta property="og:title" content="<?= $site->title() . " | " . $page->title() ?>">
+  <meta property="og:description" content="<?= ($page->template() == "home" || $page->template() == "articles" || $page->template() == "podcasts" ) ? ( $site->description()) : ($page->text()->excerpt(140, true,'…')) ?>">
+  <meta property="og:image" content="<?= ($page->template() == "home" || $page->template() == "articles" || $page->template() == "podcasts" ) ? ($site->url() . "/assets/art-eaterpodcast.jpg") : ($page->coverimage()->toFile()->url())?>">
+  <meta property="og:image:alt" content="<?= $page->title() ?>">
+  <meta property="og:locale" content="en_GB">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="og:url" content="<?= ($page->template() == "home" || $page->template() == "articles" || $page->template() == "podcasts" ) ? ($site->url() . "/assets/art-eaterpodcast.jpg") : ($page->coverimage()->toFile()->url()) ?>">
+  <link rel="canonical" href="<?= $page->url() ?>">
 
-  <script>
-    //Change theme
-    function toggleDarkLight() {
-      var hasTheme = document.querySelector("body").getAttribute('theme');
-      if (hasTheme && hasTheme === "dark") {
-        document.querySelector("body").setAttribute('theme', 'light');
-        document.querySelector('.moon').setAttribute('style', 'display:inline;');
-        document.querySelector('.sun').setAttribute('style', 'display:none;')
-        localStorage.setItem("theme", "light");
-      } else {
-        document.querySelector("body").setAttribute('theme', 'dark');
-        document.querySelector('.moon').setAttribute('style', 'display:none;');
-        document.querySelector('.sun').setAttribute('style', 'display:inline;')
-        localStorage.setItem("theme", "dark");
-      }
-    }
-
-    function setThemeFromCookie() {
-      var hasTheme = document.querySelector("body").getAttribute('theme');
-      var value = localStorage.getItem("theme");
-      if (hasTheme && value === "light") {
-        document.querySelector("body").setAttribute('theme', 'light');
-        document.querySelector('.moon').setAttribute('style', 'display:inline;');
-        document.querySelector('.sun').setAttribute('style', 'display:none;')
-        localStorage.setItem("theme", "light");
-      }
-      if (hasTheme && value === "dark") {
-        document.querySelector("body").setAttribute('theme', 'dark');
-        document.querySelector('.moon').setAttribute('style', 'display:none;');
-        document.querySelector('.sun').setAttribute('style', 'display:inline;')
-        localStorage.setItem("theme", "dark");
-      }
-    }
-
-    document.addEventListener('DOMContentLoaded', function () {
-      setThemeFromCookie()
-    }, false);
-  </script>
+  <link rel="icon" href="/assets/icons/favicon-96x96.png" sizes="96x96">
+  <link rel="apple-touch-icon" href="/assets/icons/favicon-96x96.png">
+  <meta name="theme-color" content="#ee3030">
 </head>
 
 <body theme="light">

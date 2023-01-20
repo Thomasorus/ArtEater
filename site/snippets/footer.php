@@ -41,7 +41,44 @@
     <span>&copy; <?= date('Y') ?> / <?= $site->title() ?></span>
   </div>
 </footer>
+  <script>
+    //Change theme
+    function toggleDarkLight() {
+      var hasTheme = document.querySelector("body").getAttribute('theme');
+      if (hasTheme && hasTheme === "dark") {
+        document.querySelector("body").setAttribute('theme', 'light');
+        document.querySelector('.moon').setAttribute('style', 'display:inline;');
+        document.querySelector('.sun').setAttribute('style', 'display:none;')
+        localStorage.setItem("theme", "light");
+      } else {
+        document.querySelector("body").setAttribute('theme', 'dark');
+        document.querySelector('.moon').setAttribute('style', 'display:none;');
+        document.querySelector('.sun').setAttribute('style', 'display:inline;')
+        localStorage.setItem("theme", "dark");
+      }
+    }
 
+    function setThemeFromCookie() {
+      var hasTheme = document.querySelector("body").getAttribute('theme');
+      var value = localStorage.getItem("theme");
+      if (hasTheme && value === "light") {
+        document.querySelector("body").setAttribute('theme', 'light');
+        document.querySelector('.moon').setAttribute('style', 'display:inline;');
+        document.querySelector('.sun').setAttribute('style', 'display:none;')
+        localStorage.setItem("theme", "light");
+      }
+      if (hasTheme && value === "dark") {
+        document.querySelector("body").setAttribute('theme', 'dark');
+        document.querySelector('.moon').setAttribute('style', 'display:none;');
+        document.querySelector('.sun').setAttribute('style', 'display:inline;')
+        localStorage.setItem("theme", "dark");
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+      setThemeFromCookie()
+    }, false);
+  </script>
 </body>
 
 </html>
