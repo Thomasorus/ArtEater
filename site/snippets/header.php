@@ -17,15 +17,15 @@
 
   <?= css(['assets/css/index.css', '@auto']) ?>
 
-  <meta name="description" content="<?= ($page->template() == "home" || $page->template() == "articles" || $page->template() == "podcasts" ) ? ($site->description()) : ($page->text()->excerpt(140, true,'…')) ?> ">
+  <meta name="description" content="<?= ($page->template() == "home" || $page->template() == "articles" || $page->template() == "podcasts" || $page->template() == "about" ) ? ($site->description()) : ($page->text()->excerpt(140, true,'…')) ?> ">
   <meta property="og:title" content="<?= $site->title() . " | " . $page->title() ?>">
-  <meta property="og:description" content="<?= ($page->template() == "home" || $page->template() == "articles" || $page->template() == "podcasts" ) ? ( $site->description()) : ($page->text()->excerpt(140, true,'…')) ?>">
-  <meta property="og:image" content="<?= ($page->template() == "home" || $page->template() == "articles" || $page->template() == "podcasts" ) ? ($site->url() . "/assets/art-eaterpodcast.jpg") : ($page->coverimage()->toFile()->url())?>">
+  <meta property="og:description" content="<?= ($page->template() == "home" || $page->template() == "articles" || $page->template() == "podcasts"  || $page->template() == "about" ) ? ( $site->description()) : ($page->text()->excerpt(140, true,'…')) ?>">
+  <meta property="og:image" content="<?= ($page->template() == "home" || $page->template() == "articles" || $page->template() == "podcasts" || $page->template() == "about" ) ? ($site->url() . "/assets/art-eaterpodcast.jpg") : ($page->coverimage()->toFile()->url())?>">
   <meta property="og:image:alt" content="<?= $page->title() ?>">
   <meta property="og:locale" content="en_GB">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
-  <meta property="og:url" content="<?= ($page->template() == "home" || $page->template() == "articles" || $page->template() == "podcasts" ) ? ($site->url() . "/assets/art-eaterpodcast.jpg") : ($page->coverimage()->toFile()->url()) ?>">
+  <meta property="og:url" content="<?= ($page->template() == "home" || $page->template() == "articles" || $page->template() == "podcasts" || $page->template() == "about" ) ? ($site->url() . "/assets/art-eaterpodcast.jpg") : ($page->coverimage()->toFile()->url()) ?>">
   <link rel="canonical" href="<?= $page->url() ?>">
 
   <link rel="icon" href="/assets/icons/favicon-96x96.png" sizes="96x96">
