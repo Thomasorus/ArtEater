@@ -35,6 +35,8 @@ Show: Art Eater Podcast
 
 ----
 
-Coverimage:
+Coverimage: - 2021_recap.png
 
-- 2021_recap.png
+----
+
+Uuid: Jp0oSFktT3VxsjbJ

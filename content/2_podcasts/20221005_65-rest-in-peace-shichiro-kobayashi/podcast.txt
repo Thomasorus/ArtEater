@@ -35,6 +35,8 @@ Show: Rest in Peace
 
 ----
 
-Coverimage:
+Coverimage: - art_kobayashi_65.png
 
-- art_kobayashi_65.png
+----
+
+Uuid: DnrFRudYPMC9oWfm

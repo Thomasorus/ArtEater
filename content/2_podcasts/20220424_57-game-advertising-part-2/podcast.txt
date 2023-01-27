@@ -35,6 +35,8 @@ Show: Game Advertising
 
 ----
 
-Coverimage:
+Coverimage: - art_icon_gameads02.png
 
-- art_icon_gameads02.png
+----
+
+Uuid: YkE6LRio9sT2x4sr

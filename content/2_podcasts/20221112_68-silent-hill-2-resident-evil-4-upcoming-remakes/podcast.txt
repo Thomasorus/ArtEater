@@ -39,6 +39,8 @@ Show: Art Eater Podcast
 
 ----
 
-Coverimage:
+Coverimage: - sh2_re4_art.png
 
-- sh2_re4_art.png
+----
+
+Uuid: bAqRAt6FuzVZttoB

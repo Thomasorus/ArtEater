@@ -35,6 +35,8 @@ Show: Art Eater Podcast
 
 ----
 
-Coverimage:
+Coverimage: - vday_icon.png
 
-- vday_icon.png
+----
+
+Uuid: CWgDHfXnGZptZP4f

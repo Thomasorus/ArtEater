@@ -35,6 +35,8 @@ Show: Halloween Special
 
 ----
 
-Coverimage:
+Coverimage: - art_halloween2022.png
 
-- art_halloween2022.png
+----
+
+Uuid: PbluZ0WrUZQtM3Pi

@@ -35,6 +35,8 @@ Show: Game Trailers
 
 ----
 
-Coverimage:
+Coverimage: - art_icon_gametrailers2.png
 
-- art_icon_gametrailers2.png
+----
+
+Uuid: TIYhasL8OkOc8xVk

@@ -35,6 +35,8 @@ Show: Art Eater Podcast
 
 ----
 
-Coverimage:
+Coverimage: - kofxv_cover.png
 
-- kofxv_cover.png
+----
+
+Uuid: MQrvVyOIEfGDI9FP

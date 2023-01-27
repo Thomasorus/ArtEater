@@ -35,6 +35,8 @@ Show: Art Eater Podcast
 
 ----
 
-Coverimage:
+Coverimage: - hellpockets_cover.png
 
-- hellpockets_cover.png
+----
+
+Uuid: XqNZ3DbXJlRvIEQY
