@@ -2,9 +2,7 @@ Title: Announcing "Dragon's Crown"!
 
 ----
 
-Coverimage:
-
-- header_image_knight_psd_jpgcopy.jpg
+Coverimage: - header_image_knight_psd_jpgcopy.jpg
 
 ----
 
@@ -46,3 +44,7 @@ Anyway, I got my hands on some ultra high rez art. Have at it!
 (image: dragons_crown_vanillaware_hi-rez_art_george_kamitani_demon_enemy.jpg)
 (image: dragons_crown_vanillaware_hi-rez_art_george_kamitani_fairy.jpg)
 (image: dragons_crown_vanillaware_hi-rez_art_george_kamitani_fighter_in-game-sprite.jpg)
+
+----
+
+Uuid: RD0eN4H6ryTiq73i

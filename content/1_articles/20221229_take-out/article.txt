@@ -2,9 +2,7 @@ Title: Take Out
 
 ----
 
-Coverimage:
-
-- image-w1280-1.jpg
+Coverimage: - image-w1280-1.jpg
 
 ----
 
@@ -39,3 +37,7 @@ It’s a thrilling story no doubt, but its true purpose is describing the tense 
 I remember a Chinese restaurant in my hometown. Chatting with a classmate who worked there he mentioned a lot of the staff had moved from China and were now living under the same roof owned by the restaurant’s owner. The risks involved for a chance at the American dream. One character asks Ming if he needs to borrow money to pay off gambling debts. He’s not far off. Ming’s here gambling with his own life.
 
 (youtube: https://www.youtube.com/watch?v=u8Bp1c_9ejQ)
+
+----
+
+Uuid: 4MTM0Dv3lZjgJq9F

@@ -2,9 +2,7 @@ Title: King of Characters
 
 ----
 
-Coverimage:
-
-- kofbanner.jpg
+Coverimage: - kofbanner.jpg
 
 ----
 
@@ -178,3 +176,7 @@ A game like this only comes around every decade or so (trust me I’ve been wait
 So if you feel any close personal connection to anything I’ve just described, don’t hesitate to reward SNK for their efforts by picking up (link: https://store.steampowered.com/app/222940/THE_KING_OF_FIGHTERS_XIII_STEAM_EDITION/ text: a copy of King of Fighters XIII)!
 
 Thanks for reading!
+
+----
+
+Uuid: YoMWxSprm5qhffTX

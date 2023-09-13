@@ -1,4 +1,4 @@
-Title: 17: King of Fighters XIII : The Last True 2D Sprite Fighter ft. James Stanley & Thomasorus
+Title: 17: King of Fighters XIII : The Last True 2D Sprite Fighter ft. James Stanley and Thomasorus
 
 ----
 
@@ -15,7 +15,11 @@ Listen and follow us on:
 
 ----
 
-Date: 2020-07-27 18:30
+Games: 
+
+----
+
+Date: 2020-07-27 18:30:00
 
 ----
 
@@ -35,4 +39,8 @@ Show: Art Eater Podcast
 
 ----
 
-Coverimage: 
+Coverimage: - file://19RRXokXKFg1kEhV
+
+----
+
+Uuid: nlSv0vtmVKhs4c5q

@@ -2,9 +2,7 @@ Title: Test Article - WHOOOAHHHH
 
 ----
 
-Coverimage:
-
-- naga_neon_temple.gif
+Coverimage: - naga_neon_temple.gif
 
 ----
 
@@ -54,3 +52,7 @@ Lets try Vimeo
 Heck yeah it worked!
 
 This is so great! Leagues better than Wordpress. This is awesome! Thank you so much Thomas!!
+
+----
+
+Uuid: 2rZAgi2OBOQQ7JaI

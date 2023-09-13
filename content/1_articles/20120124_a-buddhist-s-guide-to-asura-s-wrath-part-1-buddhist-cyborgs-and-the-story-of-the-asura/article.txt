@@ -2,9 +2,7 @@ Title: A Buddhist's Guide to Asura's Wrath Part 1 - Buddhist Cyborgs and the sto
 
 ----
 
-Coverimage:
-
-- buddhist-guide-to-ashuras-wrath1.jpg
+Coverimage: - buddhist-guide-to-ashuras-wrath1.jpg
 
 ----
 
@@ -150,3 +148,7 @@ That’s all for today.  Join in next week as we explore the rest of the cast of
 - (link: /articles/a-buddhist-s-guide-to-asura-s-wrath-part-1-buddhist-cyborgs-and-the-story-of-the-asura text: A Buddhist’s Guide to Asura’s Wrath Part 1 – Buddhist Cyborgs and the story of the Asura)
 - (link: /articles/a-buddhist-s-guide-to-asura-s-wrath-part-2-the-bishop-s-staff-and-hungry-ghosts text: A Buddhist’s Guide to Asura’s Wrath Part 2 – The Bishop’s Staff and Hungry Ghosts)
 - (link: articles/a-buddhist-s-guide-to-asura-s-wrath-part-3-the-mighty-vajra text: A Buddhist’s Guide to Asura’s Wrath Part 3 – The Mighty Vajra!)
+
+----
+
+Uuid: RQt47gjlqpvXvDu0

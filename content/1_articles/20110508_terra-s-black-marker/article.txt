@@ -2,9 +2,7 @@ Title: Terra’s Black Marker
 
 ----
 
-Coverimage:
-
-- 01_terras_black_marker.jpg
+Coverimage: - 01_terras_black_marker.jpg
 
 ----
 
@@ -156,3 +154,7 @@ If you’re interested in learning more about Katsuya Terada, here are some grea
 - [Kastuya Terada’s Instagram](https://www.instagram.com/katsuyaterada/?hl=en)
 - [Kastuya Terada’s Twitter](https://twitter.com/terra_da_k)
 - [A great retrospective of his work (in French)](http://www.catsuka.com/focuson.php?id=terada_katsuya&page=1)
+
+----
+
+Uuid: 8GLkW3Ik4d8AwkWd

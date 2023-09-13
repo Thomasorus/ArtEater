@@ -2,9 +2,7 @@ Title: Drunk Fairies? It’s Dragon’s Crown Akihabara Gallery!
 
 ----
 
-Coverimage:
-
-- 589bfb0c21671e18209d08f366099b19.gif
+Coverimage: - 589bfb0c21671e18209d08f366099b19.gif
 
 ----
 
@@ -51,3 +49,7 @@ And special prints of the Dragon's Crown cast!
 
 Editor's Note (April 18, 2020):
 This article was originally published on Julyy 22, 2013. We now know the character portraits above were by Yukiko Hirai (平井 有紀子) who would go on to be the lead character designer on 13 Sentinels: Aegis Rim (yes, not George Kamitani, but Yukiko Hirai!). This post would have been the first time these portraits were posted to any English language website. We were very proud of getting the scoop on these. Thanks Professor!
+
+----
+
+Uuid: 1rqwC0J5EEyg0wvl

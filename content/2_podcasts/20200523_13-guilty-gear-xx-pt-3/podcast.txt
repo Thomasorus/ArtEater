@@ -35,6 +35,8 @@ Show: Guilty Gear Retrospective
 
 ----
 
-Coverimage:
+Coverimage: - 13.png
 
-- 13.png
+----
+
+Uuid: 5GAtkTZ6VUmFj1Dj

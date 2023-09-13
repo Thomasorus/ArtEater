@@ -35,6 +35,8 @@ Show: Darkstalkers Retrospective
 
 ----
 
-Coverimage:
+Coverimage: - ds_podcover.png
 
-- ds_podcover.png
+----
+
+Uuid: mXPrWcqKyidhppDU

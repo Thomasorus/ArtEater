@@ -2,9 +2,7 @@ Title: Words That Kill: Metal Gear & the Genocide of the Native Americans
 
 ----
 
-Coverimage:
-
-- giphy.gif
+Coverimage: - giphy.gif
 
 ----
 
@@ -182,3 +180,7 @@ THANK YOU FOR YOUR SUPPORT!
 
 Please feel free to leave your thoughts on this article here:
 (link: https://twitter.com/Richmond_Lee/status/1436585302915641345?s=20 text: https://twitter.com/Richmond_Lee/status/1436585302915641345?s=20 target: _blank)
+
+----
+
+Uuid: GvZzGkItkXgeC3S3

@@ -3,3 +3,7 @@ Title: Articles
 ----
 
 Description: We are game dev vets that discuss the craft of games, culture, art, animation and more.
+
+----
+
+Uuid: q4CIWVu92QBP5UI0

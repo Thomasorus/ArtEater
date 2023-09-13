@@ -2,9 +2,7 @@ Title: From Mickey Mouse to Jesus, This Dragon’s Crown Trailer is Full of Epic
 
 ----
 
-Coverimage:
-
-- tavern.jpg
+Coverimage: - tavern.jpg
 
 ----
 
@@ -257,3 +255,7 @@ Vanillaware built an entire game around this subject in their 2007 RTS game, Gri
 (image: 18_art-2.jpg)
 
 That’s all for today, but there’s still much to cover in this trailer.  Keep your eyes peeled on for more updates from Art-Eater on Facebook and Twitter as we look deeper into the world of Dragon’s Crown.  Thanks for reading!
+
+----
+
+Uuid: dOOhE7PmoIaV34JR
