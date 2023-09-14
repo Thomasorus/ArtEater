@@ -15,9 +15,9 @@
       <div class="post-card content-box content-box--small"
         <?php echo ($show['show'] == "3AM Games") ? "style='background-color: var(--brand-3AM);'" : "" ?>>
         <?php if($podcast->coverimage()->isEmpty()): ?>
-        <img src="/assets/art-eaterpodcast.jpg" aria-hidden="true">
+        <img loading="lazy"  src="/assets/art-eaterpodcast.jpg" aria-hidden="true">
         <?php else: ?>
-        <img aria-hidden="true" srcset="<?= $podcast->coverimage()->toFile()->srcset([
+        <img loading="lazy" aria-hidden="true" srcset="<?= $podcast->coverimage()->toFile()->srcset([
                     '550w' => [
                         'width' => 250,
                         'height' => 250,
@@ -47,9 +47,9 @@
     <div class="post-card content-box content-box--small"
         <?php echo ($show['show'] == "3AM Games") ? "style='background-color: var(--brand-3AM);'" : "" ?>>
         <?php if($podcast->coverimage()->isEmpty()): ?>
-        <img src="/assets/art-eaterpodcast.jpg" aria-hidden="true">
+        <img loading="lazy"  src="/assets/art-eaterpodcast.jpg" aria-hidden="true">
         <?php else: ?>
-        <img aria-hidden="true" srcset="<?= $podcast->coverimage()->toFile()->srcset([
+        <img loading="lazy"  aria-hidden="true" srcset="<?= $podcast->coverimage()->toFile()->srcset([
                     '550w' => [
                         'width' => 250,
                         'height' => 250,
@@ -77,7 +77,6 @@
 
 <script>
     function showHtmlDiv(id) {
-      console.log(id)
       const all = document.querySelector("#all");
       const category = document.querySelector("#category");
 
