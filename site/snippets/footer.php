@@ -41,6 +41,7 @@
     <span>&copy; <?= date('Y') ?> / <?= $site->title() ?></span>
   </div>
 </footer>
+<script>function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"7f0bbbecbd19c77bd07a8b4350e39d63"})});</script>
   <script>
     //Change theme
     function toggleDarkLight() {
