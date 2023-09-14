@@ -56,8 +56,8 @@
                         'crop' => 'center'
                     ],
                     '1000w' => [
-                        'width' => 400,
-                        'height' => 400,
+                        'width' => 300,
+                        'height' => 300,
                         'crop' => 'center'
                     ]
                 ]) ?>" />
