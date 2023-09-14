@@ -51,13 +51,13 @@
         <?php else: ?>
         <img loading="lazy"  aria-hidden="true" srcset="<?= $podcast->coverimage()->toFile()->srcset([
                     '550w' => [
-                        'width' => 250,
-                        'height' => 250,
+                        'width' => 400,
+                        'height' => 400,
                         'crop' => 'center'
                     ],
                     '1000w' => [
-                        'width' => 500,
-                        'height' => 500,
+                        'width' => 400,
+                        'height' => 400,
                         'crop' => 'center'
                     ]
                 ]) ?>" />
