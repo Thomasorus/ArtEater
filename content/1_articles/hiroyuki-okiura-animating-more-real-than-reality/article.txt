@@ -1,8 +1,8 @@
-Title: Hiroyuki Okiura (沖浦啓之) - Animating Better Than Real
+Title: Masters of Animation - Hiroyuki Okiura (沖浦啓之) - The Man Who Animates Better Than Reality
 
 ----
 
-Coverimage: - hiroyuki_okiura_igpx_kata.gif
+Coverimage: - file://jX1seJ0AxJQUL02C
 
 ----
 
@@ -14,17 +14,92 @@ Author: Richmond Lee
 
 ----
 
-Tags: Animation, Hiroyuki Okiura, 沖浦啓之
+Tags: Animation, Hiroyuki Okiura, 沖浦啓之, anime
+
+----
+
+Category: 
 
 ----
 
 Text:
 
-Hiroyuki Okiura (沖浦啓之) is one of the most skillful animators to ever pick up a pencil. His animation is so perfect, so life like that he's often accused of rotoscoping! But those with a good eye for movement can tell that the incredible verisimilitude of his work comes from a masterful grasp of the fundamentals of animation. It doesn't just look real, it looks better than real!
-
+## A Master of Animation
 (video: hiroyuki_okiura_escaflowne_movie_vaan.mp4 autoplay: true loop: true)
 
-For those not familiar with the term, rotoscoping is an animation technique where you trace over film, frame by frame, to reproduce lifelike movements. The technique was invented by foundational animation pioneer Max Fleischer, who according to official Fleischer Studios records built the first rotoscope machine "in his living room, using car parts and a discarded film projector." 
+If you've seen a fair amount of Japanese animation over the years, odds are you've come across the work of Hiroyuki Okiura (沖浦啓之), one of the best animators to ever pick up a pencil. Even if you don't recognize his name, you'll definitely recognize his contributions to some of the most iconic sequences in anime.
+
+Remember this absolutely brutal sequence in Akira?
+
+(image: Hiroyuki_Okiura_Akira_Takashi_Scream.gif caption: warning: this movie clip is exceptionally violent, bloody and disturbing)
+
+It gave me nightmares as a kid! But it left a scar that I cherish. This scene showed me that animation could be even more upsetting than live action!
+
+Remember the "Making of a Cyborg" sequence from Ghost In The Shell (1995)? Classic Okiura. Mesmerizing, genre defining stuff!
+
+And he animated this straight from his head! No reference!
+(image: hiroyuki_inoue_gits_creation_of_cyborg_drop_into_water.gif)
+
+And not only did he animate on Ghost in the Shell, he was also the character designer and key animation supervisor, setting the very look and feel of the film!
+
+Today Hiroyuki Okiura is best known for his incredible sensitivity in portraying the nuances of human locomotion. 
+
+This shot from IGPX is unmistakably his handiwork.
+(image: Hiroyuki_Okiura_IGPX_kata.gif)
+The animation is so lifelike that you'd almost think you were watching film, but they actually move with weight and grace beyond reality. Okiura's signature is that he's able to create this sense of a super reality that doesn't feel uncanny. It feels like the most correct thing in the world.
+
+[show more examples of his realism? Bring up Jin-Roh?]
+
+Lets reward things a bit and see where he started?
+
+
+## A Brief Summary of Hiroyuki Okiura's Career
+Hiroyuki Okiura (沖浦啓之) was born October 12, 1966 in Katano City in the northeast of Osaka prefecture. From an early age he had a talent and drive for art. 
+
+is a bonafide prodigy at animation. In 1982, at the age of 16, with no formal drawing or animation training, he began animating on the Sunrise TV series, *Fang of the Sun Dougram* (太陽の牙ダグラム). This was long before digital technology and the internet made animation more accessible! It was incredibly difficult to be a self taught animator in this era!
+
+(image: art-eater_hiroyuki_okiura__realist_animator_01_dougram.png)
+
+By 1984, Hiroyuki Okiura made his debut as an animation director on *Star Muskateer Bismark* (星銃士ビスマルク) an original series from Studio Pierrot which was released in the west as *Saber Rider and the Star Sheriffs*.
+(youtube: https://youtu.be/vMLr1Ch7sgo)
+
+
+## A Mecha Animation Genius
+
+(image: art-eater_hiroyuki_okiura__realist_animator_02_okiuras_works.jpg)
+
+When he was only 17 or 18, Hiroyuki Okiura became the animation director on *Blue Comet SPT Layzner* (蒼き流星SPTレイズナー) which first aired on October 3, 1985. 
+(video: hiroyuki_okiura_layzner.mp4 autoplay: true loop: true)
+
+He was also the animation director on the show, tasked with making the mechanical animations and FX look top notch. All this while still a teenager!
+
+## A Master of VFX Animation
+Hiroyuki Okiura is also an all time great effects animator! For instance, he was the key animator behind the legendary helicopter attack scene in Patlabor 2 (1993)!
+(video: Hiroyuki_Okiura_Patlabor_2_Hellicopter_Attack.mp4 autoplay: true loop: true)
+
+This scene would almost certainly be animated via 3D cg today. Detailed mechanical animation is one of the most difficult things anyone can attempt to tackle in traditional animation! It's incredibly rare to find animators who can do it at this level!
+(video: Hiroyuki_Okiura_Patlabor_2_Hellicopter_Attack_02.mp4 autoplay: true loop: true)
+
+Now lets talk about his ridiculously convincing animation of people!
+
+## A Master of Human Locomotion
+Here's the legendary opening sequence from *Cowboy Bebop: Knockin' on Heaven's Door* animated by Hiroyuki Okiura (沖浦啓之) and Tetsuya Nishio (西尾鉄也). This is the epitome of anime that at first glance looks as if it were rotoscoped, but wasn't.
+(youtube: https://youtu.be/151ZPzZWdbY)
+
+There are certain schools of animation who believe that animation should only be used to depict the unreal. Things not possible with film. They might wonder "why even animate from imagination if the result is so realistic? What's the point?"
+(image: Hiroyuki_Okiura_tumblr_n9yt2iYR8F1qc5rbmo6_r1_250.gif)
+
+My answer to them is "well I just think it looks really really really really really good."
+(image: tumblr_n9yt2iYR8F1qc5rbmo9_r1_250.gif)
+
+Moreover, if you pay attention it still "hits different" from live action film or rotoscoped animation! These subtle differences make life more interesting!
+(image: tumblr_n9yt2iYR8F1qc5rbmo4_250.gif caption: Note: The shot of the old man sitting as people walk by was animated by Tetsuo Nishio)
+
+As realistic as this is, it still has that beautiful, neat, concise intentionality that is characteristic of the best traditional animation. To me it's a kind of super realism! BETTER than life!
+(image: tumblr_n9yt2iYR8F1qc5rbmo1_250.gif)
+
+## A Brief History of Rotoscoping
+Rotoscoping is an animation technique where an artist traces over live action footage, frame by frame, to reproduce realistic movements. The technique was invented in 1915 by Max Fleischer, one of the foundational pioneers of animation. According to official Fleischer Studios records, he created the first rotoscope machine "in his living room, using car parts and a discarded film projector." 
 
 (youtube: https://www.youtube.com/watch?v=0lQEXbRcLRs&t=103s)
 
@@ -41,90 +116,167 @@ In modern times, one of the most famous examples of rotoscoped animation is the 
 (image: 
 take_on_me_aha-video_rotoscoped.gif)
 
-Now, there's nothing inherently wrong with rotoscoping. It's just a technique and it can yield BEAUTIFUL results when done well. But I bring it up here for 2 reasons.
+## Anime Is Rarely Rotoscoped
+Now, there's nothing inherently wrong with rotoscoping. It's just a technique and it can yield beautiful results when used well. But I bring it up here for 2 reasons:
 
-1.) Throughout my career in animation (and especially when I was in art school), I'd often hear people denounce Japanese animation as being "obviously rotoscoped" whenever something really technically impressive happened on screen.
+1.) Throughout my career as a professional animator (and especially when I was in art school), I'd often hear people denounce Japanese animation as being "obviously rotoscoped" whenever something really technically impressive happened on screen.
 
-2.) Hiroyuki Okiura was the animator who most frequently elicited this response. And the irony is, his work isn't rotoscoped. He's just that good! And if you're really paying attention, it's easy to tell it's NOT rotoscoped! More on that in a bit...
+2.) Hiroyuki Okiura was the animator who most frequently elicited this response. And the irony is, his work isn't rotoscoped! He's just that good! And if you're really paying attention, it's easy to tell that it's NOT rotoscoped! 
 
 (image: art-eater_hiroyuki_okiura__realist_animator_00_screencap-saying-jin-roh-is-rotoscoped_02.jpg caption: Examples of people erroneously calling the work of Okiura and other realist Japanese animators "rotoscoped")
 
-But first, let me give you some context on just how amazing Hiroyuki Okiura is!
 
-Hiroyuki Okiura (沖浦啓之), born October 12, 1966 is a bonafide prodigy at animation. In 1982, at the age of 16, with no formal drawing or animation training, he began animating on the Sunrise TV series, *Fang of the Sun Dougram* (太陽の牙ダグラム). This was long before digital technology and the internet made animation more accessible! It was incredibly difficult to be a self taught animator in this era!
-
-(image: art-eater_hiroyuki_okiura__realist_animator_01_dougram.png)
-
-By 1984, Hiroyuki Okiura made his debut as an animation director on *Star Muskateer Bismark* (星銃士ビスマルク) an original series from Studio Pierrot which was released in the west as *Saber Rider and the Star Sheriffs*.
-(youtube: https://youtu.be/vMLr1Ch7sgo)
-
-Today, Hiroyuki Okiura is largely known for his incredibly sensitive and realistic animation of people. And for good reason, they are GORGEOUS.
-
-(image: Hiroyuki_Okiura_Akira_Takashi_Scream.gif caption: Remember this scene from Akira (1988)? Okiura magic!)
-
-(image: hiroyuki_inoue_gits_creation_of_cyborg_drop_into_water.gif caption: The iconic "Making of a Cyborg" sequence from Ghost In The Shell (1995)? Okiura magic!)
-
-(image: Hiroyuki_Okiura_IGPX_kata.gif caption: This GORGEOUS scene from IGPX (2003)? Okiura magic!)
-
-Hiroyuki Okiura is unquestionably a supreme master of the human form. But did you know he originally made a name for himself as a master mecha animator?
-
-(image: art-eater_hiroyuki_okiura__realist_animator_02_okiuras_works.jpg)
-
-Here's an example of his work from *Blue Comet SPT Layzner* (蒼き流星SPTレイズナー) which first aired on October 3, 1985. 
-(video: hiroyuki_okiura_layzner.mp4 autoplay: true loop: true)
-
-He was only 17 or 18 when he animated this! He was also the animation director on the show, tasked with making the mechanical animations and FX look top notch.
-
-Hiroyuki Okiura is also an all time great effects animator! For instance, he was the key animator behind the legendary helicopter attack scene in Patlabor 2 (1993)!
-(video: Hiroyuki_Okiura_Patlabor_2_Hellicopter_Attack.mp4 autoplay: true loop: true)
-
-This scene would almost certainly be animated via 3D cg today. Detailed mechanical animation is one of the most difficult things anyone can attempt to tackle in traditional animation! It's incredibly rare to find animators who could do it on this level!
-(video: Hiroyuki_Okiura_Patlabor_2_Hellicopter_Attack_02.mp4 autoplay: true loop: true)
-
-Now lets talk about his ridiculously convincing animation of people!
-
-Here's the legendary opening sequence from C*owboy Bebop: Knockin' on Heaven's Door* animated by Hiroyuki Okiura (沖浦啓之) and Tetsuya Nishio (西尾鉄也). This is the epitome of anime that superficially looks as if it were rotoscoped, but wasn't.
-(youtube: https://youtu.be/151ZPzZWdbY)
-
-***
-*This is as far as I've gotten so far. Below is mostly a transcription of the Twitter thread. It feels a bit scattered to me now and it ends so abruptly. I'll be expanding on it so it goes more in depth into why Okiura's work actually does look very hand keyed. It actually doesn't look like typical rotoscoped animation!*
-***
-
-There are certain schools of animation who believe that animation should only be used to depict the unreal. Things not possible with film. They might wonder "why even animate this realistically from imagination? What's the point?"
-https://twitter.com/Richmond_Lee/status/1345602468550348802
-
-My answer to them is "well I just think it looks really really really really really good."
-https://twitter.com/Richmond_Lee/status/1345602787921461249
-
-Moreover, if you pay attention it still "hits different" from live action film or rotoscoped animation! These subtle differences make life more interesting!
-https://twitter.com/Richmond_Lee/status/1345602797539004417
-
-As realistic as this is, it still has that beautiful, neat, concise intentionality that is characteristic of the best traditional animation. To me it's a kind of super realism! BETTER than life!
-https://twitter.com/Richmond_Lee/status/1345602808620281857
-
+## Rotoscoping vs Realistic Traditional Animation
 Now, as I mentioned earlier, rotoscoping isn't inherently bad. Many amazing looking anime are heavily reliant on rotoscoping or closely referencing film footage--and that's ok!
 
 Even classic Disney films use the technique!
+(image: ahr0cdovl28uyw9sy2rulmnvbs9oc3mvc3rvcmfnzs9tawrhcy8xzgjlownmndhimde5ztdmzgflmdbhnzywmtu4m2qymy8ymdy0mdiwnzyvzxpnawyuy29tlxzpzgvv.webp caption: You could split hairs over whether this is technically rotoscoping or just referencing film very closely)
+(image: disney-alice-in-wonderland-tracing-over-film.jpg caption: Here's an interesting peek at their process. Some parts are traced closely while others are totally redrawn.)
+(image: 11-times-disney-recycled-drawings-in-different-animations.webp caption: In this example, the animation on the left was rotoscoped from the animation on the right, which was rotoscoped from live action footage!)
 
-But there are some notable animated works where the rotoscoping draws too much attention to itself and breaks immersion. Take for instance, Ralph Bakshi's Lord of the Rings. The rotoscoping in this film has an uncanny valley effect, where it's so real that it takes you out of the fiction. Although it's traced from live action, it feels weirdly weightless. This is because it transplants the superficial aspects of live action movement into drawings. But without all the extra details that come from live action, it feels like a shell of itself. It feels like a tracing, something that only captures the surface.
+But there are some notable animated works where the rotoscoping draws too much attention to itself and breaks immersion. Take for instance, Ralph Bakshi's *Lord of the Rings* (1978).
+(image: balsjo-lord-of-the-rings-kill-snek_640.gif)
 
-So why doesn't 
+The rotoscoping in this film has an uncanny valley effect, where it's so realistic that it takes you out of the fiction. Although it's traced from live action, it feels weirdly weightless at times. This is because the rotoscoping only translates the most superficial aspects of the source material. The timing and spacing are true to life, but the final animation is missing all the extra information present in live action. Without those extra details, the animation feels overly light, as if something is missing. At the same time it hews so close to life that you feel you're watching actors in costume.
+(image: bakshi-lord-of-the-rings-gandolf-fights-balrog.gif)
 
+That's not to say Bakshi's *Lord of the Rings* was without merit. It's still a very inspired film, produced under a tight budget with some truly RAD visuals.
+(image: bakshi-lotr-riders-live-action.gif caption: This is just straight up high contrast film footage with a little painting on top, but man does it look COOL)
 
+Bakshi would go on to produce another rotoscoped fantasy epic with *Fire and Ice*, released in 1983. This film was a joint effort between Ralph Bakshi and Frank Frazetta with several other future luminaries on staff including Peter Chung (creator of *Aeon Flux*), James Gurney (creator of *Dinotopia*) and Thomas Kinkade (yes, THAT Thomas Kinkade, he  was a legit great painter when he put in the effort!). 
+(image: fire-and-ice-bakshi-frazetta-movie-poster.jpg)
 
+If you compare the rotoscoped animation in *Fire and Ice* with that of Hiroyuki Okiura's more realistic output, the differences between traced and animation drawn from imagination become more clear.
+(image: art-eater_rotoscoping_vs_key_animation_hiroyuki_okiura_cowboy_bebop_movie_knocking_on_heavens_door_vs_bakshi_frazetta_fire_and_i.gif)
 
+Okiura's work feels very realistic, but you can still spot the classic animation techniques at play. It's a looping animation created with a combination of key poses and in-betweens, meaning the main poses were plotted out first, then the in-between drawings were drawn afterwards, connecting the poses. Everything falls into place cleanly.
+(image: tumblr_n9yt2iyr8f1qc5rbmo1_250.gif)
 
-Hiroyuki Okiura made his feature film directorial debut with Jin-Roh, an absolute CLASSIC for it's artistry and storytelling. It's one of the last great cel animated films, requiring over 80,000 cels of hand drawn, hand painted animation!
-https://twitter.com/Richmond_Lee/status/1345605694364344320
+With the rotoscoped animation, there's no loop and no clear keyframes. Moreover The swinging arms aren't placed at optimal intervals for the eye to unconsciously process. It feels more random and jittery (which actually *does* work for this scene of a character running widly).
+(image: 8b2937cfa496a28aa2007222409f5c89.gif)
 
-Jin-Roh is a breathtakingly beautiful film. In spite of these action packed gifs I've been posting, it's mostly a very sedate mood piece with a ton of dialog. It was written by Mamoru Oshii and is his third film in the Kerberos Saga (ケルベロス・サーガ). It's a VERY Oshii movie!
-https://twitter.com/Richmond_Lee/status/1345605704594255872
+Meanwhile Okiura's animations are so deliberate in their timing and spacing. Things flow on beautiful arcs. Every single frame falls into place pleasantly with a degree of precision that's nearly impossible to achieve in live action.
+(image: hiroyuki_okiura_igpx_kata.gif)
 
-Fun fact: Hiroyuki Okiura met his future wife, Sumi Mutoh (武藤 寿美) while directing Jin-Roh. She played one of the central characters Kei Amemiya (who looks a lot like her too!)
+## A Quick Tangent on Mitsuo Iso (磯 光雄)
+Now, there is an animator who takes realism to an even further level than Hiroyuki Okiura, and that's Mitsuo Iso, another genius artist with many amazing accomplishments to his name, though he's probably best known globally for his work on End of Evangelion. Iso was responsible for some of the most iconic shots in the fight between Asuka and the Mass Production Eva Units, which felt so real that many have assumed they were rotoscoped. But of course they were not, because it's impossible to get film footage of actual giants tearing each other apart limb by limb, which Iso conveys with such ferocious gravity.
+(video: end-of-evangelion-mitsuo-iso-animation-asuka-vs-mass-production-evas-sakugabooru.mp4)
 
-Given the plot of Jin-Roh and it's real life production where Mamoru Oshii had hand picked Hiroyuki Okiura to execute the final film in his beloved trilogy, there's an incredible meta, poetic quality to how Hiroyuki Okiura and Sumi Mutoh fell in love during this production!
+But here's what makes Iso so special. His animations don't have the typical hallmarks of hand drawn, pose to pose animation. They have the weight, gravity and chaotic pulse of film, without the weightlessness of rotoscoping.
+
+So how does he do it? He achieves this lifelike effect by using an approach that he calls "full limited animation" where he treats every single frame as its own keyframe, so it doesn't have that tidiness of most hand animation (including hand keyed 3d) where things arise cleanly at key-poses. Iso intentionally avoided clear key poses to give his work an erratic, lifelike feeling.
+(youtube: https://youtu.be/O3XgE3m-Sg0?si=SMIMpBAkE31l0JZ2)
+^Here's a great video about Mitsuo Iso's "Full Limited Animation" technique
+
+I'd love to do a writeup on Iso in the future, but in the meantime, please do yourself a favor and watch his shows Den-noh Coil and The Orbital Children, which he wrote, directed and did the character designs for! They're excellent!
+
+OK now back to Hiroyuki Okiura!
+
+## Jin-Roh: The Wolf Brigade 「人狼」 (1999)
+Hiroyuki Okiura made his feature film directorial debut with *Jin-Roh* (1999), one of the last great cel animated films, requiring over 80,000 cels of hand drawn, hand painted animation! To this day, I consider it *the* high water mark for realistic animation in film. 
+(image: 1444057038_the-wolf-brigade1.gif)
+
+*Jin-Roh* is breathtakingly beautiful. In spite of these action packed gifs I've been posting, it's mostly a very sedate mood piece with more talking than fighting. It was written by Mamoru Oshii and is his third film in the Kerberos Saga (ケルベロス・サーガ). It's a VERY Oshii movie!
+(image: BountifulSeparateCollardlizard-size_restricted.gif)
+
+Fun fact: Hiroyuki Okiura met his future wife, Sumi Mutoh (武藤 寿美) while directing *Jin-Roh*. She played one of the central characters Kei Amemiya (who looks a lot like her too!).
+(image: art-eater-Sumi-MUTOH-jin-roh-Kei-Amemiya.jpg)
+
+Given the plot of *Jin-Roh* and its real life production where Mamoru Oshii had hand picked Hiroyuki Okiura to execute the final film in his beloved trilogy, there's an incredible meta, poetic quality to how Hiroyuki Okiura and Sumi Mutoh fell in love during this production!
+(image: Jin-Roh-movie-poster.jpg)
 
 Another fun fact about Hiroyuki Okiura. His uncle is Kazuteru Okiura, a famed writer, historian, folklorist, activist and Marxist who specialized in bringing attention to groups who have been historically discriminated against in Japan.
+(image: kazuteru-okiura.jpg)
+
+## A Letter to Momo 「ももへの手紙」 (2011)
+Perhaps Okiura's uncle may have been an influence on his second feature length directorial effort, *A Letter to Momo*, which centers around a young girl who is able to see Yokai, traditional folklore creatures who live on the fringes of human society, normally invisible to the eye.
+(image: tumblr_83130ce570c6b1fa6f2c5a9a98debec4_2283d3ef_540.webp)
+
+*A Letter To Momo* is an Okiura production through and through. He was part of the founding creative team and ended up creating the final script, storyboards, character designs and also participated in animation corrections. And of course he directed the whole thing!
+
+(image: letter-to-momo-hiroyuki-okiura-anime-backgrounds-tumblr.jpg caption: Digging deeper, it turns out Okiura's uncle *did* help to inspire Letter to Momo! He had written a book about their ancestral grounds, the Seto Inland Sea, which inspired Okiura to visit, which in turn inspired the setting of *Letter to Momo*!)
+
+Like Jin-Roh, A Letter To Momo is one of the most beautifully animated films you will ever see. Every motion, whether it's dynamic and fantastical or completely mundane, is lovingly animated with incredible sensitivity. 
+(image: whpuz.gif caption: the key animator for this shot is unknown, but the animation corrections for this scene were done by Hiroyuki Okiura and Masashi Ando)
+
+(link: https://gkids.com/films/a-letter-to-momo/ text: Find out how to watch A Letter To Momo's Official English Language Release Here target: _blank)
+
+But unlike Jin-Roh, Letter to Momo is a very family friendly film! It does touch on some heavy topics like the death of a parent, but there's nothing graphic or inappropriate for young ones in it, unlike Okiura's next film...
+
+## Robot on The Road 『旅のロボから』(2015)
+(image: tumblr_f1e87d4a16346a97d5979454e25b84fb_73d3e134_1280.webp)
+
+*Robot On The Road* is a short film written, directed and animated by Hiroyuki Okiura. It was part of the Japan Animator Expo, a series of online shorts where notable directors were given free reign to do as they pleased. The project was a joint venture between Hideaki Anno's Studio Khara and Dwango, an IT and media company that had just merged with the Japanese media giant KADOKAWA the prior year, on October 1, 2014.
+(image: japan-animator-expo-logo-by-hayao-miyazaki-2014.jpg caption: The logo was designed by Hayao Miyazaki!)
+While many animators used this opportunity to create experimental, artsy or sentimental pieces beyond what they're typically allowed to express, Okiura took it as an opportunity to create a really crass sex comedy in the vein of 80s classics like *Porky's*--which to be fair, is still totally in the spirit of "make stuff you wouldn't normally get a chance to make."
+
+(image: tumblr_76fef4eba232a064405f2f18f52281a4_f1f7a6e4_540.gif)
+It's a really gonzo film packed with the most lushly animated fan service you will ever see. In terms of tone, it's very different from the rest of Okiura's work, but it is drop dead gorgeous as you'd expect. Depending on your tastes, *Robot On The Road* is either going to come across as the epitome of "problematic" anime, or a brilliant satire of individuals/corporations that pretend to be family friendly, but are monsters at heart, as reflected in the perverted main character (a ringer for Woody from Toy Story) who pretends to be a wholesome, humble robot, but is actually a creepy scumbag. WARNING: if you do not enjoy crude sexual comedy, you should skip this one!
+
+(image: art-eater-okiura-robot-on-the-road-creepy-hentai-woody.jpg caption: I seriously think this film was inspired by the Creepy/Hentai Woody memes)
+
+## A Forgotten Masterpiece, Hashire Melos!『走れメロス』(1992)
+I'd like to close things out by shedding light on one of Hiroyuki Okiura's most significant earlier works, *Hashire Melos!* (走れメロス!), a hidden gem released in 1992. It's title translates to "Run, Melos!" and it's a feature length adaptation of a classic short story written by Osamu Dazai (太宰 治) first published in 1940.
+
+Dazai's story was based off of a German Ballad called *Die Bürgschaft* ("The Pledge") which was itself based off of the ancient Greek legend of Damon and Pythias, a paean to the beauty of trust and friendship. 
+
+*Hashire Melos!* is a stone cold classic. It was directed by Masaaki Ōsumi (大隅 正秋) a veteran of Japanese animation who had previously directed popular anime such as *Obake no Q-Tarō* (オバケのQ太郎), one of the biggest hit anime of the 60s, as well as the first *Moomin* anime (1969-1970) and the first *Lupin III* anime (1971-1972).
+
+*Hashire Melos!* marks the first time that Hiroyuki Okiura stepped up to bat as character designer and he KNOCKED IT OUT OF THE PARK. The film has a voluptuous classical art quality to all the characters. *Hashire Melos!*, is set in Ancient Greece and the characters look like marble statues come to life. They are drawn with the skill of classical atelier artists, which is even more astonishing when you consider that Okiura never had any formal art training himself. And on top of character design, Okiura was also the lead storyboard artist and animation director. 
+
+This is a very significant film.
+ 
+Another future all-time-great on staff was Satoshi Kon, who handled layouts and some key animation as well. Satoshi Kon had previously worked on *Roujin-Z*, alongside Hiroyuki Okiura. *Hashire Melos!* was only the second anime production that Kon had ever worked on, yet his layouts were already at a masterful level.
+
+The combination of Okiura and Kon's talents resulted in something truly special. They took realism in anime, and animation as a medium, to bold new heights. Every single shot is full of so much life and weight and volume, yet it never feels uncanny. You never once question the plausibility of all the skillful artistry parading before your eyes, because it strikes the perfect balance between realism and stylization. Hashire Melos set the standard for realistic Japanese animation for the next decade (and arguably to this day). Following *Hashire Melos!*, Hiroyuki Okiura and Satoshi Kon would work together again on...
+
+*Patlabor 2*
+
+*Memories: Magnetic Rose*
+
+And then Okiura would go on to work on ...
+
+*Ghost in the Shell*
+
+*Jin-Roh*
+
+Meanwhile, Satoshi Kon would begin his legendary career as a director, creating...
+
+*Perfect Blue*
+
+*Millenium Actress*
+
+*Tokyo Godfathers*
+
+*Paprika*
+
+These are some of the most cherished animated films of all time. And you'll notice, they all have that very specific signature 90s realist anime look that can be traced back to *Hashire Melos!*.
+
+Okiura has said it is on par with Jin-Roh for being the most fulfilling project of his career.
+
+For reasons beyond me, Hashire Melos never received a home video release beyond the laserdisc era. It is not available on DVD. Blu-ray or any streaming platforms. Thankfully it's archived and available to watch here:
+
+Hashire Melos! is perhaps the most underrated gem in all of anime. I can't think of another film that is so GOOD and so underknown. On top of being a technical marvel, it's simply a great story. Once you see it, you will be baffled as to why it's not enshrined as an all time classic alongside the likes of Akira, Ghost in the Shell and the films of Studio Ghibli. Imagine if The Shawshank Redemption wasn't a beloved classic, but an obscure old art film that no one has heard about and you just stumbled across it. That's what it feels like to watch *Hashire Melos!* decades later. It will make you want to run to your friends and implore, "YOU GOTTA SEE THIS MOVIE" just as I am begging you to watch it now.
+
+That's my hope.
+
+Thank you for reading this far. I hope this has been a fulfilling and educational experience for you.
+
+
+
+Sources/Further Reading:
+https://web.archive.org/web/20130404001155/http://www.oricon.co.jp/entertainment/special/2012/momo0314/03.html
+
+http://www.style.fm/log/01_talk/okiura04.html
+
+https://anime-backgrounds.tumblr.com/post/49549487534/a-letter-to-momo-directed-by-hiroyuki-okiura
+
+https://animationobsessive.substack.com/p/run-melos-shows-the-power-of-animated
+
+https://x.com/181ino/status/1286361863962259456?s=20
+
+Masaaki Osumi
+https://twitter.com/MasaakiOsumi
 
 ----
 
